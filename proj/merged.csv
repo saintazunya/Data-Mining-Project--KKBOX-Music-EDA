@@ -1,0 +1,1001 @@
+,Unnamed: 0,msno,song_id,source_system_tab,source_screen_name,source_type,target,name,isrc,city,bd,gender,registered_via,registration_init_time,expiration_date
+0,0,FGtllVqz18RPiwJj/edr2gV78zirAiY/9SmYvia+kCg=,BBzumQNXUHKdEBOB7mAJuzok+IJA1c2Ryg/yzTF6tik=,explore,Explore,online-playlist,1,Good Grief,GBUM71602854,1,0,,7,20120102,20171005
+1,1,Xumu+NIjS6QYVxDS4/t3SawvJ7viT9hPKXmf0RtLNx8=,bhp/MpSNoqoxOIB+/l8WPqu6jldth4DIpCm3ayXnJqM=,my library,Local playlist more,local-playlist,1,Lords of Cardboard,US3C69910183,13,24,female,9,20110525,20170911
+2,2,Xumu+NIjS6QYVxDS4/t3SawvJ7viT9hPKXmf0RtLNx8=,JNWfrrC7zNN7BdMpsISKa4Mw+xVJYNnxXh3/Epw7QgY=,my library,Local playlist more,local-playlist,1,Hip Hop Is Dead(Album Version (Edited)),USUM70618761,13,24,female,9,20110525,20170911
+3,3,Xumu+NIjS6QYVxDS4/t3SawvJ7viT9hPKXmf0RtLNx8=,2A87tzfnJTSWqD7gIZHisolhe4DMdzkbd6LzO1KHjNs=,my library,Local playlist more,local-playlist,1,Disco Africa,GBUQH1000063,13,24,female,9,20110525,20170911
+4,4,FGtllVqz18RPiwJj/edr2gV78zirAiY/9SmYvia+kCg=,3qm6XTZ6MOCU11x8FIVbAGH5l5uMkT3/ZalWG1oo2Gc=,explore,Explore,online-playlist,1,Sleep Without You,QM3E21606003,1,0,,7,20120102,20171005
+5,5,FGtllVqz18RPiwJj/edr2gV78zirAiY/9SmYvia+kCg=,3Hg5kugV1S0wzEVLAEfqjIV5UHzb7bCrdBRQlGygLvU=,explore,Explore,online-playlist,1,Panda,USUM71601094,1,0,,7,20120102,20171005
+6,6,Xumu+NIjS6QYVxDS4/t3SawvJ7viT9hPKXmf0RtLNx8=,VkILU0H1h3NMmk9MQrXouNudGk5n8Ls5cqRRuBxeTh4=,my library,Local playlist more,local-playlist,1,眼| 鼻| 口 (Eyes| Nose| Lips),TWA531400512,13,24,female,9,20110525,20170911
+7,7,FGtllVqz18RPiwJj/edr2gV78zirAiY/9SmYvia+kCg=,bPIvRTzfHxH5LgHrStll+tYwSQNVV8PySgA3M1PfTgc=,explore,Explore,online-playlist,1,Star Of The Show,USLXJ1607334,1,0,,7,20120102,20171005
+8,8,uHqAtShXTRXju5GE8ri3ITsVFepPf8jUoCF7ffNOuqE=,/bU6IRSK+YNlNbaTkxo7bhsb2EDLPrnksdX3ggcZNhI=,my library,Local playlist more,local-library,1,Dreaming Out Loud,USUM70759544,15,26,male,9,20111107,20180304
+9,9,uHqAtShXTRXju5GE8ri3ITsVFepPf8jUoCF7ffNOuqE=,EbI7xoNxI+3QSsiHxL13zBdgHIJOwa3srHd7cDcnJ0g=,my library,Local playlist more,local-library,1,Counting Stars,USUM71301306,15,26,male,9,20111107,20180304
+10,10,uHqAtShXTRXju5GE8ri3ITsVFepPf8jUoCF7ffNOuqE=,t0aT90DlS1TGncgnKoL0SvfAWEr3Dl72QBVcokmKfLc=,my library,Local playlist more,local-library,1,We Are Giants,QMF921450114,15,26,male,9,20111107,20180304
+11,11,uHqAtShXTRXju5GE8ri3ITsVFepPf8jUoCF7ffNOuqE=,8FGjC9W+7F8WjheGZPAwX9RH3+nWSO7DzjM6EB6naOI=,my library,Local playlist more,local-library,1,輕輕 (Lightly),TWK231507907,15,26,male,9,20111107,20180304
+12,12,TJU0Gfvy7FB+r89bWovPKXTjuApTCiv3xg/tt5shR78=,u6/Pb7X4u7KU4gXrBgGqt8RlRrNNFLn03tLAHyxRxwA=,my library,Local playlist more,top-hits-for-artist,0,手心的薔薇 (Beautiful) feat. G.E.M.鄧紫棋,TWA531480006,1,0,,9,20150806,20170930
+13,13,3g0bC24RD7QUeALY1IF/e8L6X3fHG298ZFIsCEG9T9Y=,TYhx9eqWklddkLQlApQ5MS9jJCO4H3JHdpISZ3kZSRE=,my library,Local playlist more,local-library,1,給我一首歌的時間,TWK970801502,5,0,,9,20110221,20170922
+14,14,TJU0Gfvy7FB+r89bWovPKXTjuApTCiv3xg/tt5shR78=,IgMar/mVrJQ+ODFPytDf7jwQMmR09+slyZUdVylRFLc=,my library,Local playlist more,local-playlist,1,關鍵詞 (The Key),TWA531576504,1,0,,9,20150806,20170930
+15,15,3g0bC24RD7QUeALY1IF/e8L6X3fHG298ZFIsCEG9T9Y=,6HofPS0v2MVFsL10yCN7dXUL+gUOnvsD35vx3HmRbdE=,my library,Local playlist more,local-library,1,You Are My Everything - Gummy,,5,0,,9,20110221,20170922
+16,16,TJU0Gfvy7FB+r89bWovPKXTjuApTCiv3xg/tt5shR78=,a4TbK5V15pj3YZUOGa9h2U3t0OsE+3aiFw41mNlcgcw=,my library,My library,local-playlist,1,孤獨的總和 (Accumulated Loneliness),TWA211328806,1,0,,9,20150806,20170930
+17,17,TJU0Gfvy7FB+r89bWovPKXTjuApTCiv3xg/tt5shR78=,t95ClWf/B7Hi46sJeL70WJ75u7gLwaAp8o7LHuTtxl0=,my library,My library,local-playlist,1,春天裡,TWUM71600101,1,0,,9,20150806,20170930
+18,18,TJU0Gfvy7FB+r89bWovPKXTjuApTCiv3xg/tt5shR78=,4ZISq5iNKgBGGW2OvKBBzBsYXRohcJYFkqx3uVFCAuA=,my library,Local playlist more,top-hits-for-artist,0,因你而在 (You N Me),TWA531398014,1,0,,9,20150806,20170930
+19,19,uQQHTQJ1nVEkBfbXe0f1/J9ML5eQhsQiocCV5TvvCRI=,9yi9yLGK5Soiz1IO3iosDsx5O3hutglBHl1JbVHLjLw=,my library,Local playlist more,local-library,1,雨天 (雨天),TWA530617601,9,27,female,9,20130912,20170912
+20,20,uQQHTQJ1nVEkBfbXe0f1/J9ML5eQhsQiocCV5TvvCRI=,VqOqrfMxAOMwJpyfUSyWuPmHpMtSuzvrCvHgahApvDU=,my library,Local playlist more,local-library,1,EGO-HOLIC戀我癖 (EGO-HOLIC),TWUM71600076,9,27,female,9,20130912,20170912
+21,21,uQQHTQJ1nVEkBfbXe0f1/J9ML5eQhsQiocCV5TvvCRI=,H0pfaBjENAn1eYhCA5+rurd8AnnJF17J512SKZBfvfU=,my library,Local playlist more,local-library,1,愛死你,TWA470326002,9,27,female,9,20130912,20170912
+22,22,uQQHTQJ1nVEkBfbXe0f1/J9ML5eQhsQiocCV5TvvCRI=,lrgjGNzyCHrMPfLKNMV0NBh9hdNTpzoj5rOZ27tXMLo=,my library,Local playlist more,local-library,1,麥來亂,TWA450586306,9,27,female,9,20130912,20170912
+23,23,pouJqjNRmZOnRNzzMWWkamTKkIGHyvhl/jo4HgbncnM=,gAsKceTstGBoPKWib6Zp0h8m15fH/qFwlfWsr24KFRg=,my library,Online playlist more,online-playlist,1,Imagine,GBAYE1000769,15,18,male,4,20151220,20170930
+24,24,pouJqjNRmZOnRNzzMWWkamTKkIGHyvhl/jo4HgbncnM=,n2mNwyApX16qOdG4ye2ehf5Cp5oevcahFh27Jyq/7JQ=,my library,Online playlist more,online-playlist,0,Give Peace A Chance,GBAYE1000933,15,18,male,4,20151220,20170930
+25,25,pouJqjNRmZOnRNzzMWWkamTKkIGHyvhl/jo4HgbncnM=,WHEVGSHBtJBVy+HjH84qRtj0KcNtYd+2pUO4xHMAJXk=,my library,Online playlist more,online-playlist,0,You've Got To Hide Your Love Away,GBAYE0601467,15,18,male,4,20151220,20170930
+26,26,pouJqjNRmZOnRNzzMWWkamTKkIGHyvhl/jo4HgbncnM=,TLUDFNRpLCG/DmqLiXBc4Udypwucj4XmKtotIUO6nXM=,my library,Online playlist more,online-playlist,0,Across The Universe,USSM19803669,15,18,male,4,20151220,20170930
+27,27,Vgeu+u3vXE0FhQtG/Vr3I/U3V0TX/jzQAEBhi3S3qi0=,AVwT7l/VL0pOXpH4PkP9Cqh0Y9PJ1B0BHctZO9+lnmk=,my library,Local playlist more,local-library,1,Baby,USUM70919263,1,0,,7,20101205,20180104
+28,28,Vgeu+u3vXE0FhQtG/Vr3I/U3V0TX/jzQAEBhi3S3qi0=,j15oN8gA26II4cebHvxc+rIIjzyBDzjHi9rYx7oSvrQ=,my library,Local playlist more,local-library,1,安靜了,TWD950806109,1,0,,7,20101205,20180104
+29,29,ULaS7iTeNVqlI45nQEFyye+QRhPy1TvABDDu8AXool0=,CLEDgLdGvXhoXod/9uzm9UwECV5IzqWOrXHtHXpq5+E=,my library,Local playlist more,local-library,1,Intro,TWA211630901,13,34,male,9,20100812,20170912
+30,30,Vgeu+u3vXE0FhQtG/Vr3I/U3V0TX/jzQAEBhi3S3qi0=,TE5ASd0CqSedf7+LBnqf5Z8Kfm9X9wfj8t2IXZNuDOw=,my library,Local playlist more,local-library,1,宇宙小姐,TWD950806103,1,0,,7,20101205,20180104
+31,31,Vgeu+u3vXE0FhQtG/Vr3I/U3V0TX/jzQAEBhi3S3qi0=,/2CWoqYh5/DUNi48voCXqA9V347liPy2WpEJj6CZro0=,my library,Local playlist more,local-library,1,沿海公路的出口,TWD950806104,1,0,,7,20101205,20180104
+32,32,ULaS7iTeNVqlI45nQEFyye+QRhPy1TvABDDu8AXool0=,2bj5oqCPPzY6E0TPgwySkfj8/l/c+DVQBqnABx0qPSk=,my library,Local playlist more,local-library,1,史詩,TWI451300037,13,34,male,9,20100812,20170912
+33,33,HtdItmpx36u5trW7la7gelIcwUiz/DvlhIgvdK1USUc=,56GgUdZtxpOVaQWIIPK2gFBiyJxYjbC8gPMPU1stoL8=,search,Album more,album,1,我們,TWUM71600045,1,0,,7,20140412,20171005
+34,34,RPLdWVYe6joZEnv9TzljsdCWMtKopKpRXk1hKAnQQCQ=,K2jkXlozk/+HPjs1RyDlBUHJx2Ky+ITavwBXPcFqtHY=,my library,Local playlist more,local-library,0,Impossible,GBHMU1200338,21,20,female,7,20111028,20170930
+35,35,RPLdWVYe6joZEnv9TzljsdCWMtKopKpRXk1hKAnQQCQ=,P6dllZw/ZnO7qcufxOKHAXGwlCvkmm4djJT/82d3ihA=,my library,Local playlist more,local-library,0,Better Man,BEUM71100342,21,20,female,7,20111028,20170930
+36,36,RPLdWVYe6joZEnv9TzljsdCWMtKopKpRXk1hKAnQQCQ=,1ysr+JKN0mCCeW0UqWIj2Vlxz3N5aQOEW5mkSW/OBPA=,my library,Local playlist more,local-library,0,Shine,GBUM71501271,21,20,female,7,20111028,20170930
+37,37,RPLdWVYe6joZEnv9TzljsdCWMtKopKpRXk1hKAnQQCQ=,8YOEmwK8kgfdH+Qh5FgH8RzDYs2g957lo0RUsHX2t2g=,my library,Local playlist more,local-library,1,Te Voy A Amar,ARUM71100168,21,20,female,7,20111028,20170930
+38,38,dEK1cVfdGaKd5ihXxCzf1HbZjR8+JdTYvfHFEnNz3cQ=,cL24vvYHrkz4YjAzU4OtrjGXUz1wBNWFqC/PQXMKIY0=,my library,Local playlist more,local-library,1,一千萬次的淚水,TWD631313605,13,19,male,4,20151014,20171209
+39,39,GdtjMBKkoLch5LCAHQdRiA0HJlngEEJzGNfkQjGmqQw=,MM+huiuccu4p5mNVhWxWgJreIsRWuEmvbvpCu0q79XM=,my library,Local playlist more,local-library,1,有閒返來坐,TWN551200001,15,27,male,7,20101123,20171013
+40,40,HkWEvfQyrb5Lve8X3B7HkCEkDFW8qFy/9kWFb4QbM5k=,Prbb1SisBE80rnDae36BPKvkulEiXMssQvBfVCsHr38=,my library,Local playlist more,local-library,1,SHERO,TWD951006101,15,26,female,9,20060616,20180516
+41,41,HkWEvfQyrb5Lve8X3B7HkCEkDFW8qFy/9kWFb4QbM5k=,9Vkmwza4MO1p/usHFkghvpmatny5xAxyZ51bC49AaYU=,my library,Local playlist more,local-library,1,我還在原地哭,TWD631416608,15,26,female,9,20060616,20180516
+42,42,HkWEvfQyrb5Lve8X3B7HkCEkDFW8qFy/9kWFb4QbM5k=,vM08WBQRO9eZo1K+qTJmjuw2IqbuA3L65ojbGwB4GI0=,my library,Local playlist more,local-library,0,零,TWA470441001,15,26,female,9,20060616,20180516
+43,43,HkWEvfQyrb5Lve8X3B7HkCEkDFW8qFy/9kWFb4QbM5k=,lBYsvASSajQQPfE/o65Qy3FYsMHhbCmynFANAP29nks=,my library,Local playlist more,local-library,1,玩愛之徒 (Love Player),TWA531042203,15,26,female,9,20060616,20180516
+44,44,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,DLBDZhOoW7zd7GBV99bi92ZXYUS26lzV+jJKbHshP5c=,my library,Local playlist more,local-playlist,1,演員,CNA651500229,1,0,,7,20130925,20171001
+45,45,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,FknKo37OUvSxVgBrw72Bi8gGcWEZVF8MY3YyzmGx6ag=,my library,Local playlist more,local-playlist,1,如果雲知道,TWA559610002,1,0,,7,20130925,20171001
+46,46,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,my library,Local playlist more,local-playlist,1,告白氣球,TWK971601308,1,0,,7,20130925,20171001
+47,47,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,skehue/d/R59G71dXYpntDwdjRRPlweN3JE8g40TgZU=,my library,Local playlist more,local-playlist,1,我過的很好,,1,0,,7,20130925,20171001
+48,48,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,L6w2d0w84FjTvFr+BhMfgu7dZAsGiOqUGmvvxIG3gvQ=,my library,Local playlist more,local-playlist,1,好好 (想把你寫成一首歌) (Song About You),TWK231610203,1,0,,7,20130925,20171001
+49,49,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,WL4ipO3Mx9pxd4FMs69ha6o9541+fLeOow67Qkrfnro=,my library,Local playlist more,local-playlist,1,夜空中最亮的星,HKI111600009,1,0,,7,20130925,20171001
+50,50,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,3DU6F6k6dFSdoQa2tsia5spMXFCxWh4JJdA3OxSo3rM=,my library,Local playlist more,local-playlist,1,你啊你啊 (only you),TW2151620008,1,0,,7,20130925,20171001
+51,51,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,my library,Local playlist more,local-playlist,1,帥到分手,TWAG11600306,1,0,,7,20130925,20171001
+52,52,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,+Sm75wnBf/sjm/QMUAFx8N+Ae04kWCXGlgH50tTeM6c=,my library,Local playlist more,local-playlist,1,迷途羔羊,TWA451699902,1,0,,7,20130925,20171001
+53,53,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,IXP1a2o3NL8WU4WK1X0WJAKaSW+LgGRpPDn4Gt1HrV8=,my library,Local playlist more,local-playlist,1,在沒有你以後 (feat. 張智成) (Without You),TWA531657210,1,0,,7,20130925,20171001
+54,54,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,PgRtmmESVNtWjoZHO5a1r21vIz9sVZmcJJpFCbRa1LI=,my library,Local playlist more,local-playlist,1,謝謝妳愛我 (Thanks For Your Love),TWA531657203,1,0,,7,20130925,20171001
+55,55,0LhkakIQDn36HZXI6ClQSO7W7jkpZAy+9MvYgPOZGrA=,u6/Pb7X4u7KU4gXrBgGqt8RlRrNNFLn03tLAHyxRxwA=,my library,Local playlist more,local-playlist,1,手心的薔薇 (Beautiful) feat. G.E.M.鄧紫棋,TWA531480006,1,0,,7,20130925,20171001
+56,56,1GH1R7OI417+PPoqBtb9Jh1udsZC5XrOW2HqwjzCl2A=,iXbxmEpOCNBNj9ty45gPuwtYvUqQBOKNsXANX25joiY=,my library,Local playlist more,local-playlist,1,LUCKY,KRA301300169,13,26,female,3,20130405,20171003
+57,57,1GH1R7OI417+PPoqBtb9Jh1udsZC5XrOW2HqwjzCl2A=,U/pC2dgvSHe4/rEyrhe4YwIHyaHlbNRMtxAKuuWrmlY=,my library,Local playlist more,local-playlist,1,Run,,13,26,female,3,20130405,20171003
+58,58,1GH1R7OI417+PPoqBtb9Jh1udsZC5XrOW2HqwjzCl2A=,lIVEEZgY5lPwvzf6iu3Zz7HHNRfLUpwv6JysYBwBjMM=,my library,Local playlist more,local-playlist,1,Drop That,JPB601504018,13,26,female,3,20130405,20171003
+59,59,1GH1R7OI417+PPoqBtb9Jh1udsZC5XrOW2HqwjzCl2A=,IPeg6L8QvmfJTuOFNa4iPnk93WzyceWdxnVDCreoEpE=,my library,Local playlist more,local-playlist,1,LIGHTSABER,KRA301500665,13,26,female,3,20130405,20171003
+60,60,B/wRgN7GRfDNGvsvjoA97MIFvlNkx52eMz8rGhK/P9M=,1R5HlX765HuV3uvLmJ0FqUQmlAmjdcqF0GbOqf9qUGs=,my library,Local playlist more,local-library,1,World Championship Finale 2,USUM71504650,13,28,male,3,20140626,20170913
+61,61,B/wRgN7GRfDNGvsvjoA97MIFvlNkx52eMz8rGhK/P9M=,hQtwwQhSamcIwNl/1JDR3B77oF2QxwB95paAKAqsIAo=,my library,Local playlist more,local-library,1,World Championship Finale 1,USUM71504649,13,28,male,3,20140626,20170913
+62,62,FE+vOBWbYW+sl9YMZR0jYIzZVonsr+G7NA+rDApwnvw=,LBFRdBacp7Ob6Ada2N7uCQ47DhiNT2KjUtwOA7oSm7I=,discover,Discover Feature,online-playlist,1,迷些路 (Lost On The Way),TWA451601607,1,0,,7,20130820,20170930
+63,63,8Nlr1MyF+XUilQ4z9Cv6Re9qQIYwa5rCi90flRoyDv0=,aaosaazotfFOGS0pdK4RLNmLtezYXub2Gb6T6YGGObU=,discover,Unknown,online-playlist,0,Last Night,TWA139500110,15,41,male,3,20140524,20171002
+64,64,eOz0KfyF/jZ2hI84e54q1j0kd+TrF7mPe+ppQiz/Ues=,vTFRLU6zCXTVzFRL24gzZO3MsD5nlc/kKtjEuj29+h0=,my library,Local playlist more,local-library,1,我比誰都清楚,HKC339800151,5,32,female,4,20160623,20170925
+65,65,8Nlr1MyF+XUilQ4z9Cv6Re9qQIYwa5rCi90flRoyDv0=,+u3iqLNaEoGlLwRbnbU0kM3CjctokMh1MPRFLrrzuQQ=,discover,Unknown,online-playlist,0,別這樣我會哭,TWA139500109,15,41,male,3,20140524,20171002
+66,66,zXLzFiB5jQaph3W2EyGi5DGsUloRPcoVTG4VI5ullew=,4weA5ndJkDSo7zM38+4t7NT+CJ/5omnZYVHf/IDe+Qk=,my library,Local playlist more,local-library,1,會呼吸的痛,TWK230700904,1,0,,7,20130822,20171007
+67,67,zXLzFiB5jQaph3W2EyGi5DGsUloRPcoVTG4VI5ullew=,/56EZoEb7TAm0G8GLJpA2Uzgg6QiJcYDwvI08I+w8JA=,my library,Local playlist more,local-library,1,心痛,TWA379400301,1,0,,7,20130822,20171007
+68,68,zXLzFiB5jQaph3W2EyGi5DGsUloRPcoVTG4VI5ullew=,yvaF60S5mJQ1SOk2vfNeZ9WFeUr7lWMq37OPExyeoaU=,my library,Local playlist more,local-library,1,等你等到我心痛,TWB479303011,1,0,,7,20130822,20171007
+69,69,zXLzFiB5jQaph3W2EyGi5DGsUloRPcoVTG4VI5ullew=,SJHL9vlSHU06VO8w32meVip35heQuc2gsLGWswru/xs=,my library,Local playlist more,local-library,1,甲你攬牢牢,,1,0,,7,20130822,20171007
+70,70,eOz0KfyF/jZ2hI84e54q1j0kd+TrF7mPe+ppQiz/Ues=,20e8yHxKn8p+G2zFcxC/3UDM5rYFCIoozlTCUB0YumU=,my library,Local playlist more,local-library,1,要知道你的感覺,HKC339800016,5,32,female,4,20160623,20170925
+71,71,mxAnVRJaxt6zsH6/lpKp6tUjs7dAh9a6RMTPrNuqm44=,Xy3cGOjm2V1MF7SZGA36NEC7b46NVBXvLnBDWXOl2FE=,my library,Local playlist more,local-library,1,Bokurano Yume,JPU901600187,1,0,,7,20160304,20171003
+72,72,mxAnVRJaxt6zsH6/lpKp6tUjs7dAh9a6RMTPrNuqm44=,GFWjz4apE8zMiXe6wc0qCjr+DbK9BFkwo/rr+FsNm+g=,my library,Local playlist more,local-library,0,癡情男子漢,,1,0,,7,20160304,20171003
+73,73,mxAnVRJaxt6zsH6/lpKp6tUjs7dAh9a6RMTPrNuqm44=,n8xoFetUt29W6E4Gxnz8SGKewVBDSTtLdZ913mb4Hzg=,my library,Local playlist more,local-library,1,Radioactive,USUM71201074,1,0,,7,20160304,20171003
+74,74,mxAnVRJaxt6zsH6/lpKp6tUjs7dAh9a6RMTPrNuqm44=,7HDcHFAVdw76mL4Z5hbz300+s1oSUstaOfmaLw0+Dfo=,my library,Local playlist more,local-library,1,Diamonds,USUM71211793,1,0,,7,20160304,20171003
+75,75,zcCi+lR4SecPMBbZEwj4UUBrWhgBUbxx+t4O5KA28K8=,3RnXpHSbz61HoSCJEB7B9Sn3bqKPUvgYVwM8ceOEd1M=,discover,Online playlist more,top-hits-for-artist,1,可以了,HKJ631402008,5,0,,4,20151212,20180308
+76,76,CL91UAbjYfhlEg1Yjh10QStr0liu9B/yImCGHlpiEMI=,2fhzNUTd3X1n8IKBAd0xM2HwOuDIc0Qb6ZcVQ3OmqX4=,my library,My library,local-playlist,1,愛情的盡頭,,22,28,female,7,20130707,20180709
+77,77,yABGsFFqTctk/xnMj67nHmnisCwdue7XYxkYGOe9BGE=,RAVcXkNI6tqrsArzBxA9JcNnv/ftDwqDwBDaGqIzXyA=,my library,Local playlist more,local-library,1,Gobaeghabnida,TWA531100324,13,36,female,9,20110623,20171006
+78,78,yABGsFFqTctk/xnMj67nHmnisCwdue7XYxkYGOe9BGE=,ziioVtzot6FMViJgAMZliplvo7EmX3ecPuoZHXTr2Zo=,my library,Local playlist more,local-library,1,PUPPY,JPWP01571058,13,36,female,9,20110623,20171006
+79,79,Gz/bwq6vWwkm5QQOCd3ftP4F4mMthEFGf3ztaXgm6e0=,JZ+4w2HWMQiyCErXdD8YMi7okU40lobADjHq9/TDFvg=,my library,Local playlist more,local-library,1,水災,TWP531200604,1,0,,7,20130902,20170914
+80,80,Gz/bwq6vWwkm5QQOCd3ftP4F4mMthEFGf3ztaXgm6e0=,CUPwUKwyAEXwoQw8ik8EyfskXSvEUpu3Pb3mS2yFXoI=,my library,Local playlist more,local-library,1,一生最愛的人,,1,0,,7,20130902,20170914
+81,81,yABGsFFqTctk/xnMj67nHmnisCwdue7XYxkYGOe9BGE=,pRjhEkL8Da3+YpKh9SYcmYLKG1lYFy4ixcYy0h1Pc30=,my library,Local playlist more,local-library,1,Stand By Me,TWA531602175,13,36,female,9,20110623,20171006
+82,82,Gz/bwq6vWwkm5QQOCd3ftP4F4mMthEFGf3ztaXgm6e0=,boxeSDj5nrUIRE0JoCMKUBxk/c4dsKf49yacI6WPHoc=,my library,Local playlist more,local-library,1,忠孝東路走九遍,,1,0,,7,20130902,20170914
+83,83,Gz/bwq6vWwkm5QQOCd3ftP4F4mMthEFGf3ztaXgm6e0=,6i95Pie609AyCL86KYyXQkECKYudj7BnhRS5KRhJC6o=,my library,Local playlist more,local-library,1,堅強的理由,TWA459801804,1,0,,7,20130902,20170914
+84,84,yABGsFFqTctk/xnMj67nHmnisCwdue7XYxkYGOe9BGE=,lsvDNSX7YzpRBphxelN46v3wV2zXsJflqDOSVKrCOOM=,my library,Local playlist more,local-library,1,安心的溫柔,,13,36,female,9,20110623,20171006
+85,85,doK1LuOCXLXKXT395FCHJHTx2q09akseWw8YdmDZugg=,34IXh04bdV42ClAF+3lHsAjNQEA9yljeyamS6+Wv1BQ=,my library,Local playlist more,local-playlist,1,Nandemonaiya,JPPO01618977,1,0,,7,20110611,20170911
+86,86,rAI+tZ85/S4CEHBEhUkHDLO1afqVLArCu0nsBmORwfQ=,U03If8ekFQ69MIodnGZOgaFV9vbFpwDQZQYCf5To5fo=,discover,Online playlist more,online-playlist,0,Secret,KRA301500734,1,0,,4,20161130,20161203
+87,87,doK1LuOCXLXKXT395FCHJHTx2q09akseWw8YdmDZugg=,NDtSbLpLMkWyBAhfRimU73D/pKVWE6Z3Q2IEdmFuWNk=,my library,Local playlist more,local-playlist,1,Sparkle,JPPO01618974,1,0,,7,20110611,20170911
+88,88,rAI+tZ85/S4CEHBEhUkHDLO1afqVLArCu0nsBmORwfQ=,yv4Nasbw8r06KtMHzaEMF/SrpYPv+V73JrwFClUoRQ0=,discover,Online playlist more,online-playlist,0,Rain,KRA301500733,1,0,,4,20161130,20161203
+89,89,rAI+tZ85/S4CEHBEhUkHDLO1afqVLArCu0nsBmORwfQ=,0cHV60MVnGOKMb/GRHWEExfpahkCwIZQ0wxdYBJfoqE=,discover,Online playlist more,online-playlist,0,姐 (Pretty Woman),TWD951564102,1,0,,4,20161130,20161203
+90,90,rAI+tZ85/S4CEHBEhUkHDLO1afqVLArCu0nsBmORwfQ=,ux6db2W4f9nhapYVkSg81Uzhxnw0vf44cFWHSd2EuJo=,discover,Online playlist more,online-playlist,1,Don't Wanna Know,USUM71609975,1,0,,4,20161130,20161203
+91,91,rAI+tZ85/S4CEHBEhUkHDLO1afqVLArCu0nsBmORwfQ=,IKMFuL0f5Y8c63Hg9BXkeNJjE0z8yf3gMt/tOxF4QNE=,discover,Online playlist more,online-playlist,1,Closer,USQX91601347,1,0,,4,20161130,20161203
+92,92,rAI+tZ85/S4CEHBEhUkHDLO1afqVLArCu0nsBmORwfQ=,fCCmIa0Y5m+MCGbQga31MOLTIqi7ddgXvkjFPmfslGw=,discover,Online playlist more,online-playlist,0,默,TWUM71600075,1,0,,4,20161130,20161203
+93,93,doK1LuOCXLXKXT395FCHJHTx2q09akseWw8YdmDZugg=,HbqkjwnnIt6BtfmvVyXTdPHAsFCYxU74sv8+s1lfIwE=,my library,Local playlist more,local-playlist,1,Zenzenzense,JPPO01617097,1,0,,7,20110611,20170911
+94,94,doK1LuOCXLXKXT395FCHJHTx2q09akseWw8YdmDZugg=,wVUeoaIQXKvfVyfhDmbASVl049NL7hVvfOo7vYoSyMQ=,my library,Local playlist more,local-playlist,1,Dream Lantern,JPPO01618952,1,0,,7,20110611,20170911
+95,95,Eaq21N7ijazDjnqU5v1jjWewJopGxgZxkKr4GIq7JTs=,BwDDym6Tp7EnGudWBGJyjONZeX0/4ndu5PETiPWzav8=,my library,Local playlist more,local-library,1,離心力 (Centrifugal Force),TWJ011600802,5,27,male,9,20100903,20171023
+96,96,pNPe9+kUnGJem0nHfYPdQ/Jx5yNlGLTJLshSohjkSdA=,b+OlR6qF0gzG++m+sYrOnf7bJF6WmXv51xGLBpmugxg=,my library,Local playlist more,local-library,1,你給我聽好,HKJ631402010,12,46,female,9,20100916,20170930
+97,97,pNPe9+kUnGJem0nHfYPdQ/Jx5yNlGLTJLshSohjkSdA=,9tNXaK/yKJfTcoWLRFw6HXplizDxq4bFvzs3scmesCU=,my library,Local playlist more,local-library,1,聽見下雨的聲音,TWK971401112,12,46,female,9,20100916,20170930
+98,98,pNPe9+kUnGJem0nHfYPdQ/Jx5yNlGLTJLshSohjkSdA=,dKsoBHe5cVhyQSU8CimXs4ysaAky4RNgBwIafHaLkik=,my library,Local playlist more,local-library,1,很久很久以後 (Some Time After),TWA211630803,12,46,female,9,20100916,20170930
+99,99,pNPe9+kUnGJem0nHfYPdQ/Jx5yNlGLTJLshSohjkSdA=,3W6VBSN09a/Vh9w1Fwmdus4H4xxmde/yu0RBgMcTtZM=,my library,Local playlist more,local-library,1,心內的話,,12,46,female,9,20100916,20170930
+100,100,bhuHwSgo3phrTnYg832QJj9v1Pu0XL/M1VZnrWYiQJA=,C5WXXxhTCLycfYikLSdoerRwq4KgO4LRoae5L4909gY=,search,Album more,album,1,你幹嘛,TWUM71600054,1,0,,9,20140708,20170909
+101,101,9ibQ9CebtCHGclFMWRSUDCO+007NOardgQlZt0Y/2I8=,0eBnzCiQYi7NVJdPoa4CnpZIAKdsHm2TODGnWQB/UAI=,discover,Online playlist more,song-based-playlist,0,My Sunshine (電視劇 <何以笙簫默> 片頭曲),TWA211459101,13,30,female,3,20150131,20170909
+102,102,9ibQ9CebtCHGclFMWRSUDCO+007NOardgQlZt0Y/2I8=,O/uTdviBR/eez7O1yCgFv/LjkoMBOG0uu3j3LWPOBqg=,my library,Local playlist more,local-playlist,1,一笑傾城,CNZ481600015,13,30,female,3,20150131,20170909
+103,103,9ibQ9CebtCHGclFMWRSUDCO+007NOardgQlZt0Y/2I8=,VknP2wUT91+9dCvL7adPnA7aWCVpI96XurJMw9I3dms=,my library,Local playlist more,local-playlist,1,相愛不能見,,13,30,female,3,20150131,20170909
+104,104,9ibQ9CebtCHGclFMWRSUDCO+007NOardgQlZt0Y/2I8=,jnT3WZ56lfgbFumpL05DMXyQrVMlJVdkEj1tz+B6Kmc=,discover,Online playlist more,song-based-playlist,1,年輪,CNZ171500037,13,30,female,3,20150131,20170909
+105,105,9ibQ9CebtCHGclFMWRSUDCO+007NOardgQlZt0Y/2I8=,Dh9QlpCW3TToGvERbPQXl/zxNFwt0MqH6CBn74kXf/A=,discover,Online playlist more,song-based-playlist,1,不可說,,13,30,female,3,20150131,20170909
+106,106,LxfIvtDj+f+3XFreJe9FET/osOASyHevAyuO+BzgjeU=,EL5DbsSvhAFtMBBoOjs4aipOjC3Xj4syX/l/wlK+kdM=,my library,Local playlist more,local-library,1,愛情廢柴,TWK971601310,5,27,male,9,20141107,20170910
+107,107,nQq84ZING2nzHMcA3BxwjUjq8Dl1BboCpy+qqI1yQ+Y=,34IXh04bdV42ClAF+3lHsAjNQEA9yljeyamS6+Wv1BQ=,my library,Local playlist more,local-playlist,1,Nandemonaiya,JPPO01618977,22,26,male,7,20160308,20170908
+108,108,nQq84ZING2nzHMcA3BxwjUjq8Dl1BboCpy+qqI1yQ+Y=,U9kojfZSKaiWOW94PKh1Riyv/zUWxmBRmv0XInQWLGw=,my library,Local playlist more,local-playlist,1,不該,TWK971601306,22,26,male,7,20160308,20170908
+109,109,nQq84ZING2nzHMcA3BxwjUjq8Dl1BboCpy+qqI1yQ+Y=,QjRlzbxmVxusW6CP2Xr8GjX3BnPitUMFBxCWxd/5AKY=,my library,Local playlist more,local-playlist,1,Payphone,USUM71203347,22,26,male,7,20160308,20170908
+110,110,LxfIvtDj+f+3XFreJe9FET/osOASyHevAyuO+BzgjeU=,jRgAVTjQ9GHuBdQ48SOlLVD0xf16DODOslUaq4NGQ2Y=,my library,Local playlist more,local-library,1,給你(國),HKUM70900537,5,27,male,9,20141107,20170910
+111,111,O0AvcpH+4JaN06kYCsf1PBVVC6DvT5zfmNEw290htuM=,7dUiqNIuyM+aDRJEw3+ZSYydeZGAQ1AAI0eOd0Nzh8c=,my library,Local playlist more,local-library,1,Turn up,TWAG11600401,22,27,,3,20130608,20170912
+112,112,O0AvcpH+4JaN06kYCsf1PBVVC6DvT5zfmNEw290htuM=,tbM8ByK21+iSDWZlT1yNgffPdQ5h9Wbk0hxS5RHQaCo=,my library,Local playlist more,local-library,1,浪漫來襲 (Romance Strikes),TWA471405003,22,27,,3,20130608,20170912
+113,113,TvRiYDQdf17iCa4bPNPhvSbrSPeJihByqgiBTQlICyE=,NJwgkIpKUqT4GyfiiKkHnS1w03qbfoMpKKomoLvfzqo=,my library,Local playlist more,local-library,1,放不下你的人是我,,1,0,,9,20140511,20171002
+114,114,O0AvcpH+4JaN06kYCsf1PBVVC6DvT5zfmNEw290htuM=,wWaQCZoXVhyptuqYAkWKTpuHhB02Sf3s3+zqr/w8jqQ=,my library,Local playlist more,local-library,1,嗚哇嗚 (Uwa U),TWY311501014,22,27,,3,20130608,20170912
+115,115,TvRiYDQdf17iCa4bPNPhvSbrSPeJihByqgiBTQlICyE=,Vh95sm5B4mEDTCUvNtCbgSV+aWTvYODUP5WBJx20mr8=,my library,Local playlist more,local-library,1,手心裡的愛,,1,0,,9,20140511,20171002
+116,116,TvRiYDQdf17iCa4bPNPhvSbrSPeJihByqgiBTQlICyE=,Evt5gdtaDG2+3dq8JB5+8qKWP3QU9pkyFNCd8a1z1zk=,my library,Local playlist more,local-library,1,分手的慶功,TWB671606001,1,0,,9,20140511,20171002
+117,117,gkWsUPNQVsVvEjihLMbIZlriQbV+YyFVMB42melpJhI=,zoGrsIvu2CqHccUYgzhXqhXqQq5/G1eQN0wHHO9EyV4=,my library,Local playlist more,local-playlist,1,故鄉,,13,28,male,7,20101022,20171116
+118,118,gkWsUPNQVsVvEjihLMbIZlriQbV+YyFVMB42melpJhI=,yPA+sQt5tJ3NgR6/L9BefmNpA2152zQQ+/Kvtt3iSUs=,my library,Local playlist more,local-playlist,1,第三人稱,TWA531457209,13,28,male,7,20101022,20171116
+119,119,gkWsUPNQVsVvEjihLMbIZlriQbV+YyFVMB42melpJhI=,tpsX+zae7W9+0Y/hpsAJBpQLxvctzbEUeTkYPCpf040=,my library,Local playlist more,local-playlist,1,不要說話(國),HKUM70800776,13,28,male,7,20101022,20171116
+120,120,gkWsUPNQVsVvEjihLMbIZlriQbV+YyFVMB42melpJhI=,wYrDzOG0yorZni7WBtsr3QrCt7Huaj3aLEC0QWaZdFs=,my library,Local playlist more,local-playlist,1,三國戀,TWD950522103,13,28,male,7,20101022,20171116
+121,121,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,GopWs12UdPVQa3rEWVHv19FsoqHHsjo0il0Le89wN28=,discover,Discover Feature,album,0,Pompeii,GBAAA1200795,1,0,,7,20101118,20170810
+122,122,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,8geiVKcfEd3jj9XiGb3hOVio3v0/BY8P29b2r3eo3Ps=,discover,Discover Feature,song-based-playlist,1,J.Strauss: Radetzky March,GBF076210140,1,0,,7,20101118,20170810
+123,123,UsJ0TVPX7D+XNIS+bD8v/MQ+rw+ZbjW0PuU5c7tYymM=,STrUE9av7xoG8Fu2LzBWKSpBm8+sor71MxioKHhsq7U=,my library,Local playlist more,local-library,1,情時多雨,HKH621401003,1,0,,9,20140530,20170902
+124,124,/waL2mmZc8jUc2zQdOjJjypxwEHEsm/VksD9bQ8HriQ=,NhQfOVnptpW5z5qsP/sN+hVS8TM2iYvdy/ZGVe7K+kM=,discover,Discover Chart,online-playlist,1,Black Beatles,USUM71603293,1,0,,7,20150815,20170915
+125,125,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,PEr+VUIEq1CiFvNSEotE0VgjPii1wNK0srYkQ629jMw=,discover,Discover Feature,album,0,Things We Lost In The Fire,GBAAA1200932,1,0,,7,20101118,20170810
+126,126,XIpjLNs4f/OHphnrSPoNmsrd45Al8pL0v74FgzDZHnQ=,3VkD5ekIf5duJm1hmYTZlXjyl0zqV8wCzuAh3uocfCg=,my library,Local playlist more,local-playlist,1,We Don't Talk Anymore,USAT21502909,4,23,female,9,20111029,20171002
+127,127,XIpjLNs4f/OHphnrSPoNmsrd45Al8pL0v74FgzDZHnQ=,02gZ0fxCTb73+laNQIEtc9DZN29efUTQ5ppDQkxZ3c4=,my library,Local playlist more,local-playlist,0,好喜歡你,TWUM71600015,4,23,female,9,20111029,20171002
+128,128,UsJ0TVPX7D+XNIS+bD8v/MQ+rw+ZbjW0PuU5c7tYymM=,uvhnnHYdmRoKrjqIZDtkJlrjyA5Ar3yZOG2aaV2q/EI=,my library,Local playlist more,local-library,1,再一步,HKH621401002,1,0,,9,20140530,20170902
+129,129,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,SdrJPjGVS23rS7eNdmTe4h7SX8WAFeSja5XTejy3S0o=,discover,Discover Feature,album,0,Look Down,GBUM71207806,1,0,,7,20101118,20170810
+130,130,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,yIllJ0cE7535hEXIzaQp0ePMojoOmkBYaXV8z1y+0c4=,discover,Discover Feature,album,0,The Bishop,GBUM71207807,1,0,,7,20101118,20170810
+131,131,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,WTQ1doDa8xAetUIXq+G/3AmF8/GPtJfRtbjaaj0vGqQ=,discover,Discover Feature,album,0,Lover,DEA540603719,1,0,,7,20101118,20170810
+132,132,XIpjLNs4f/OHphnrSPoNmsrd45Al8pL0v74FgzDZHnQ=,8OsXpp32oqorzAN4NNkVouaV0I81ddPLZ8DxMRAGJdQ=,my library,Local playlist more,local-playlist,1,說實話,TWUM71600004,4,23,female,9,20111029,20171002
+133,133,AXKTVBbdr2/z7m5WL1IXzlriNbun8B+7wM41MsWCYDw=,iGQWuI/3FeZrHKxt1Yy0A2cfqTFSiNN6DoxnKkb6h5g=,discover,Discover Feature,album,1,Bridge Over Troubled Water(惡水上的大橋),,1,0,,7,20101118,20170810
+134,134,UsJ0TVPX7D+XNIS+bD8v/MQ+rw+ZbjW0PuU5c7tYymM=,2uUGv2mOU0IuMCJRgks/r/hP/nR2KBaEBXsat1443eE=,my library,Local playlist more,local-library,1,First Time,USUM71600805,1,0,,9,20140530,20170902
+135,135,hKwxGNnAnVLbafv2sDSj8hlIf88SbDfnrSeE+R+bqFc=,rFLawM8j/vW78o/S3P2GTsmy6HwkTI15P7NF/i9CkX4=,my library,Local playlist more,local-playlist,1,以後以後 (A better tomorrow),TWX351600002,5,67,female,9,20081117,20171224
+136,136,hOyJGmY7tciqGf1EhDj5UT86IfSSnaTHP5JWAPxYN6s=,evaPiUW4ZoRCp27WhCmBCebbpvDtSW7IBNkhQ6M/ldM=,radio,Radio,radio,0,あなたに恋をしてみました,JPWP01570145,13,22,male,9,20160829,20180505
+137,137,hOyJGmY7tciqGf1EhDj5UT86IfSSnaTHP5JWAPxYN6s=,NMtgLuGwmbrfQijavYXtuQdih6uDDLlgTHy3XOvfeds=,radio,Radio,radio,0,愛很美-feat.sara,CNA231200772,13,22,male,9,20160829,20180505
+138,138,hOyJGmY7tciqGf1EhDj5UT86IfSSnaTHP5JWAPxYN6s=,1PrpGe7/CrprVkup2UkbI10BZ8hSEJURe95KIoe4TDs=,radio,Radio,radio,1,愛在聖誕 (Crying for X'mas),TWA471410007,13,22,male,9,20160829,20180505
+139,139,ocdN6b9BP9Qr0B8q6+UNpcBvfErNMk8P6Ny5CK3CyKA=,dSkGPyBKM97xpD3mOsCmhwSLO42eLuqBaDAamdZNBkI=,search,Online playlist more,online-playlist,0,愛的勇氣,CAN111400333,1,0,,7,20150914,20170911
+140,140,ocdN6b9BP9Qr0B8q6+UNpcBvfErNMk8P6Ny5CK3CyKA=,vNbsKevF4YNuJfDqIDYTPrQaFV2ueSTx8KtRbTp+qFg=,my library,Local playlist more,local-library,1,太坦白,CNA231302851,1,0,,7,20150914,20170911
+141,141,ocdN6b9BP9Qr0B8q6+UNpcBvfErNMk8P6Ny5CK3CyKA=,S+lF2rQKunOeEhqeQRQrQhFWal/bfdeAr5i35Qu72+0=,my library,Local playlist more,local-library,1,下雨的晚上,QMDA71363931,1,0,,7,20150914,20170911
+142,142,ocdN6b9BP9Qr0B8q6+UNpcBvfErNMk8P6Ny5CK3CyKA=,F2d52gKSwWcIHb9TAQRBtj2uJ/ly5b8p5+cEucxV9aw=,my library,Artist more,top-hits-for-artist,1,Life Is Like a Song,CAN111100636,1,0,,7,20150914,20170911
+143,143,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,r01XmbdwG4sqS8ZA7tIx+VAuxrXNuDu7siNQB+Q2jrs=,my library,Album more,album,0,Happy Birthday!,DEHB20700052,13,28,female,9,20120713,20180818
+144,144,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,u70RByc176rGRQLAmXdf7WNM0vU2RrkkYnY7z1wOPyA=,my library,Album more,album,0,I MISS YOU,TWJ010600208,13,28,female,9,20120713,20180818
+145,145,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,ijDKxOgX49hGdPBoC0S7ScN7g2TbuV1C9jfmoQMI6QM=,my library,Search,online-playlist,0,Happy Birthday Metal With Vocals,FR96X1698998,13,28,female,9,20120713,20180818
+146,146,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,wzhGVAOKC5tmBWI7xc/c3NJomswOMoZwsDDifhC5wEo=,my library,Album more,album,0,生日快樂,TWJ010600229,13,28,female,9,20120713,20180818
+147,147,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,0vBTdkfbCDjBihoqg+UAEIkuFS+6WUmTpgv+iPHP9fY=,my library,Search,online-playlist,0,寶貝,TWA470601002,13,28,female,9,20120713,20180818
+148,148,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,uSBqdKWlDHhk/U85eSKfWr014iYbeIEv3DIu/RcYuqw=,my library,Online playlist more,online-playlist,0,My Baby (Bedtime Song),ITO101681586,13,28,female,9,20120713,20180818
+149,149,hE9WBNEn/Wv0qSG2hB7/C4oQStAxcGJgRnpn3ZY/abw=,/tRJOn8mjgWkOnGmG7h43o4hClfmi5hZ9F2r5ZL8F/k=,my library,Album more,album,0,回憶,TWJ010600209,13,28,female,9,20120713,20180818
+150,150,6VAZ05qs9gRNM6FZgGvEs9SukGVvBwF/EJ3pMWxgC24=,cy10N2j2sdY/X4BDUcMu2Iumfz7pV3tqE5iEaup2yGI=,my library,Local playlist more,local-playlist,1,派對動物 (Party Animal),TWK231680790,22,29,male,4,20151115,20180604
+151,151,6VAZ05qs9gRNM6FZgGvEs9SukGVvBwF/EJ3pMWxgC24=,wp1gSQ4LlMEF6bzvEaJl8VdHlAj/EJMTJ0ASrXeddbo=,my library,Local playlist more,local-playlist,1,回憶那麼傷 (Sad Memory),CNA231601679,22,29,male,4,20151115,20180604
+152,152,6VAZ05qs9gRNM6FZgGvEs9SukGVvBwF/EJ3pMWxgC24=,vquppmLIuWmhdQmP2PEnnT0iBbrESHVdxm9Gk/nj99Q=,my library,Local playlist more,local-playlist,1,不公平,TWJ810600002,22,29,male,4,20151115,20180604
+153,153,VRLT9Fytl3J4OHAUOvwHVuMlSiAeuZsXddETBQ/navk=,GAWjH9Uns87Q1pcQTJZo+PaiJIsUj3DEWjtGqyMUZm4=,my library,Local playlist more,local-library,1,忘記擁抱,TWA471515001,13,30,female,9,20110629,20171001
+154,154,vmpdGkTolfjP2xTna7cYfeRpt/31h0lvHEu2GdXjqm0=,5pSFbaPtNR/DZ6pHuKOqRehOK2Jrf5TUxxd4org8HxU=,my library,Local playlist more,local-library,1,無盡透明的思念,TWB730910002,4,0,,7,20120701,20171011
+155,155,mDJCU+fKu/mbdk9l4SmPYiJwpeMyK44o9wmG1X3735A=,t2Ndon5SEy1tMNP/KP0Tgiql9e3GwP9KPoODXDyk8FA=,my library,Local playlist more,local-library,1,喜歡你,TWJ011300108,13,32,female,9,20040506,20171130
+156,156,mDJCU+fKu/mbdk9l4SmPYiJwpeMyK44o9wmG1X3735A=,x0AQuGp6SHvaD/fLkk+6JzAp6zOUgd30Tx4oL3YBz5Y=,my library,Local playlist more,local-library,1,Rockabye,GBAHS1600363,13,32,female,9,20040506,20171130
+157,157,mDJCU+fKu/mbdk9l4SmPYiJwpeMyK44o9wmG1X3735A=,0J2MM7SfXD1MR/A/fv+20HNXJPoLtIdGfauVTMU6C6w=,my library,Local playlist more,local-library,1,終於結束的起點 (Beginning of the End),TWK231610211,13,32,female,9,20040506,20171130
+158,158,5CgPoKHDYW5q61nKmYbeGcfTcEw70DWko9czSHiIIn0=,m6FICEn6fkFZXdvyNE7PdgDCf5blJWWGgUjVBOph4io=,my library,Local playlist more,local-library,1,數到五答應我,TWA450587608,5,34,female,9,20110222,20170510
+159,159,5CgPoKHDYW5q61nKmYbeGcfTcEw70DWko9czSHiIIn0=,h6SYWHqaMPtbHyqeNQGtCRfq7GAH4+9hrauUwd5z2VA=,my library,Local playlist more,local-library,0,Try,USUM71407113,5,34,female,9,20110222,20170510
+160,160,5CgPoKHDYW5q61nKmYbeGcfTcEw70DWko9czSHiIIn0=,GAWjH9Uns87Q1pcQTJZo+PaiJIsUj3DEWjtGqyMUZm4=,my library,Local playlist more,local-library,1,忘記擁抱,TWA471515001,5,34,female,9,20110222,20170510
+161,161,1wrR13fpKHx7TLgRz9FCROFr8iMMxED6G+RKG4RdGSM=,Rerp71vL127G1162T5Bwgk3D6r/ZtiXDfWvYz+3ljhE=,my library,Local playlist more,local-library,1,女孩 (Girl),TWA211553801,1,0,,7,20131010,20170910
+162,162,PQfNQQon0CwOLghOAyztQYVw6yJTVgmFpJ650q/UF1s=,tVAxrAlDEmQvSc4xfh4Sd5wvV6oIgHi8DJvtfJhGwzs=,discover,Discover Feature,top-hits-for-artist,1,我懂了她,TWF750481606,22,21,female,3,20141102,20170617
+163,163,PQfNQQon0CwOLghOAyztQYVw6yJTVgmFpJ650q/UF1s=,wp1gSQ4LlMEF6bzvEaJl8VdHlAj/EJMTJ0ASrXeddbo=,discover,Discover Feature,song-based-playlist,1,回憶那麼傷 (Sad Memory),CNA231601679,22,21,female,3,20141102,20170617
+164,164,PQfNQQon0CwOLghOAyztQYVw6yJTVgmFpJ650q/UF1s=,Pi/UFGfdwTNL16GM/+2JRttGTs2Nk4iZTehyMTfGibQ=,discover,Discover Feature,top-hits-for-artist,1,原諒我沒有說,TWO910902004,22,21,female,3,20141102,20170617
+165,165,8cX8QtD/k7cVXrWOJpG9KqcN78aqC+Yw4ii8XALYWS8=,nXaQvi9K1bAXRBHHz1vnlYaHk7s6u+2XM/Yv7W80fwc=,my library,Local playlist more,local-library,1,我深深渴慕,TWO471600208,6,20,male,9,20130919,20171017
+166,166,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,1NvI7CQryCmAd1N+kmYDff3a6aQN61dih8YUAjh8ukI=,discover,Online playlist more,song-based-playlist,1,Roses,USQX91500801,13,26,female,7,20120514,20171119
+167,167,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,zHqZ07gn+YvF36FWzv9+y8KiCMhYhdAUS+vSIKY3UZY=,discover,Online playlist more,song-based-playlist,1,Sing Me to Sleep,NOG841611010,13,26,female,7,20120514,20171119
+168,168,69zw2q5cjT4DcLpn+7UAETUg5cFAZTRF3885oqpMQ3U=,Ru7n8Xw2s8LGDsgDhyzWqCWQRWQW9KNPY9qMOFAf5x0=,my library,Local playlist more,local-playlist,1,My Way,GBARL1601358,1,0,,3,20131027,20170605
+169,169,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,0ee/D6HjX0jSytUn3v58C0x6zEzN4bcPq3WlqvrG/Xo=,discover,Online playlist more,song-based-playlist,1,Heathens,USAT21601930,13,26,female,7,20120514,20171119
+170,170,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,IKMFuL0f5Y8c63Hg9BXkeNJjE0z8yf3gMt/tOxF4QNE=,discover,Online playlist more,song-based-playlist,1,Closer,USQX91601347,13,26,female,7,20120514,20171119
+171,171,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,MtFK4NN8Kv1k/xPA3wb8SQaP/jWee52FAaC1s9NFsU4=,discover,Online playlist more,song-based-playlist,1,This Is What You Came For,GBARL1600460,13,26,female,7,20120514,20171119
+172,172,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,f0Yvo22LVUbRIlICXcEEym7IYNVjUqghZryP6Vf103A=,discover,Online playlist more,song-based-playlist,1,Outside,GBARL1401201,13,26,female,7,20120514,20171119
+173,173,69zw2q5cjT4DcLpn+7UAETUg5cFAZTRF3885oqpMQ3U=,GQqErVwbH/YaifR6wl2S6prosRVHhwGO2/Aq5aIJLA8=,my library,Local playlist more,local-playlist,1,Demons (電影「跨越世紀的情書」預告曲、美國職棒大聯盟一週好球),USUM71201071,1,0,,3,20131027,20170605
+174,174,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,4tFHtB3++eobi3kDqKVourZgXgjcB3t+GxZai/2a1YM=,discover,Online playlist more,song-based-playlist,0,How Deep Is Your Love,DEHT41304354,13,26,female,7,20120514,20171119
+175,175,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,ClazTFnk6r0Bnuie44bocdNMM3rdlrq0bCGAsGUWcHE=,discover,Online playlist more,song-based-playlist,1,Let Me Love You,QMZSY1600015,13,26,female,7,20120514,20171119
+176,176,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,9YYrODwrXpDcCjOJypHROv3f5z40y11QlmgQjmzp2vQ=,discover,Online playlist more,song-based-playlist,1,The Ocean,SE3AA1600005,13,26,female,7,20120514,20171119
+177,177,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,+LztcJcPEEwsikk6+K5udm06XJQMzR4+lzavKLUyE0k=,discover,Online playlist more,song-based-playlist,1,Don't Let Me Down,USQX91600011,13,26,female,7,20120514,20171119
+178,178,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,T7YFpVp/WyTCG1GP/MGmc32ougnXl0qiw67NV7xf83Y=,discover,Online playlist more,song-based-playlist,0,No Money,USAT21600941,13,26,female,7,20120514,20171119
+179,179,69zw2q5cjT4DcLpn+7UAETUg5cFAZTRF3885oqpMQ3U=,LBFRdBacp7Ob6Ada2N7uCQ47DhiNT2KjUtwOA7oSm7I=,my library,Local playlist more,local-playlist,1,迷些路 (Lost On The Way),TWA451601607,1,0,,3,20131027,20170605
+180,180,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,rzNV1cnIgp/1bfcwbeomcnynCtGa2yk0wp5ZHrkeJJk=,discover,Online playlist more,song-based-playlist,1,Hey Mama (feat. Nicki Minaj| Bebe Rexha & Afrojack),GB28K1400058,13,26,female,7,20120514,20171119
+181,181,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,3VkD5ekIf5duJm1hmYTZlXjyl0zqV8wCzuAh3uocfCg=,discover,Online playlist more,song-based-playlist,1,We Don't Talk Anymore,USAT21502909,13,26,female,7,20120514,20171119
+182,182,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,i356q8t0P9emMJq8PsFkY6CGoi34mP3cgXuDpfEDyhY=,discover,Online playlist more,song-based-playlist,1,In the Name of Love,NLM5S1600003,13,26,female,7,20120514,20171119
+183,183,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,rlYnPwLwSC4JFiDPM7yeXPERqHWkG0bU2UAJZ2dVbwc=,discover,Online playlist more,song-based-playlist,1,Take over Control (Dubstep Party Remix),QMFMF1430426,13,26,female,7,20120514,20171119
+184,184,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,FrOb8MDlBfB5wm3L8vUXWIPiu4YFONgKG/w4WmCsHQ8=,discover,Online playlist more,song-based-playlist,1,Cold Water (feat. Justin Bieber & MØ),QMUY41600056,13,26,female,7,20120514,20171119
+185,185,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,1UHqpOyecqH+8NytyogNdQz/2zUDpmHzUF5lgH1gvyw=,discover,Online playlist more,song-based-playlist,1,7 Years,USWB11506516,13,26,female,7,20120514,20171119
+186,186,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,6pe6XOKc+06NhkgrFitOb/EKMj910AlS34LdhP510LE=,discover,Online playlist more,song-based-playlist,1,Lean On (feat. MØ & DJ Snake),QMUY41500008,13,26,female,7,20120514,20171119
+187,187,LGIeu7rj6KryPWev2nr5g807ZPtw4b59wqDn5jighcw=,UU8jHj6E2U36xbx7S6o4w7NmFwffx2xPkOs7d87ML5g=,discover,Online playlist more,song-based-playlist,0,Titanium (feat. Sia),GB28K1100036,13,26,female,7,20120514,20171119
+188,188,rCUwLPDFrjzJg4VxfME1d2GQvqWIIEyfUcjqPC5l6l4=,g8qlCRZg0o+/g0AwHn1F88a3dqFL1UmsACiE40OWQXE=,my library,Local playlist more,local-library,1,羅德利果：阿蘭費茲吉他協奏曲/第二樂章：慢板 (Concierto de Aranjuez - Adagio),TWA450804046,5,0,,3,20131110,20180514
+189,189,rCUwLPDFrjzJg4VxfME1d2GQvqWIIEyfUcjqPC5l6l4=,rJh4eWsObWMsy/aZD0sNLS34vcIa8vO/cS2xWVnOxAo=,my library,Album more,album,1,莫札特：第23號鋼琴協奏曲/第二樂章：慢板 (Piano Concerto No. 23 in A Major| K. 488 – Adagio),TWA450804041,5,0,,3,20131110,20180514
+190,190,xbodnNBaLMyqqI7uFJlvHOKMJaizuWo/BB/YHZICcKo=,B2jGIdcFp/C/jeFaJdOwrw72q0kEetFFo+fReLkd6o0=,my library,Local playlist more,local-playlist,1,給我一個理由忘記,TWA771000967,1,0,,7,20120804,20171004
+191,191,xbodnNBaLMyqqI7uFJlvHOKMJaizuWo/BB/YHZICcKo=,+LztcJcPEEwsikk6+K5udm06XJQMzR4+lzavKLUyE0k=,my library,Local playlist more,local-playlist,1,Don't Let Me Down,USQX91600011,1,0,,7,20120804,20171004
+192,192,xbodnNBaLMyqqI7uFJlvHOKMJaizuWo/BB/YHZICcKo=,O+azAuxxhTE27OXm23raLUOTey/RS3+sceZDO2iFXys=,my library,Local playlist more,local-playlist,1,微微一笑很傾城,CNZ481600012,1,0,,7,20120804,20171004
+193,193,xbodnNBaLMyqqI7uFJlvHOKMJaizuWo/BB/YHZICcKo=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,my library,Local playlist more,local-playlist,1,帥到分手,TWAG11600306,1,0,,7,20120804,20171004
+194,194,xbodnNBaLMyqqI7uFJlvHOKMJaizuWo/BB/YHZICcKo=,8qWeDv6RTv+hYJxW94e7n6HBzHPGPEZW9FuGhj6pPhQ=,my library,Local playlist more,local-playlist,1,愛．這件事情,HKH621401001,1,0,,7,20120804,20171004
+195,195,OHG7oOkBJM/7L9MSLS1uUDyxuJJMBhdhCYhAhwekGgQ=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,my library,Local playlist more,local-library,1,帥到分手,TWAG11600306,15,28,male,3,20150903,20170908
+196,196,/h2mxdbdqqwX+we/dTYz+i29XVVUB+sdjn+NXcwry/A=,nxFf702AZs2zkZktQNBMXzdATyA+hI3uFzxHyltNJo4=,my library,Local playlist more,local-library,1,Part Of Me,USCA21102809,1,0,,3,20130201,20161214
+197,197,/h2mxdbdqqwX+we/dTYz+i29XVVUB+sdjn+NXcwry/A=,Mu+DpZFj/ntDI7LWpQJmN1rp7Ki0qUVQP59uaWBN4mc=,my library,Local playlist more,local-library,1,Love Me Harder,USUM71409728,1,0,,3,20130201,20161214
+198,198,/h2mxdbdqqwX+we/dTYz+i29XVVUB+sdjn+NXcwry/A=,IKMFuL0f5Y8c63Hg9BXkeNJjE0z8yf3gMt/tOxF4QNE=,my library,Local playlist more,local-library,1,Closer,USQX91601347,1,0,,3,20130201,20161214
+199,199,/h2mxdbdqqwX+we/dTYz+i29XVVUB+sdjn+NXcwry/A=,QjOrj4Iy0r5r2bJsB1JVld+qpJwqQWkWO5MAlw1sQ74=,my library,Local playlist more,local-library,1,Die Young ,USRC11201008,1,0,,3,20130201,20161214
+200,200,7KM518N8i8lbyZFC7TrM0mXsUS2dlgOgA3KbwyKq6Uc=,qXn1zAbO9asajKxw1Bj48KpLapTVN3c1tLHkskw42vU=,discover,Discover Feature,online-playlist,1,I Would Like,USSM11609249,14,23,female,9,20110206,20170420
+201,201,7KM518N8i8lbyZFC7TrM0mXsUS2dlgOgA3KbwyKq6Uc=,oyIoUn4DdUQ2jo3nWMhbPaegKQn2yInPdaTH6l61KCU=,discover,Discover Feature,online-playlist,1,Closer,USQX91601347,14,23,female,9,20110206,20170420
+202,202,76Z1lfM+8Wqkphoi57H/fBdxzeJKiDtjwlZ3jjJhTlI=,y8JYlcylCZJH2konx5DZ1iuavc3vQGCJIUeKaE/vATA=,my library,Local playlist more,local-playlist,1,Dancing King,KRA301600327,13,28,female,9,20060704,20170926
+203,203,76Z1lfM+8Wqkphoi57H/fBdxzeJKiDtjwlZ3jjJhTlI=,VcdqbHHzYSFSwSZQv8sApLdPsjP7yEvjS1MEQ6FETAM=,my library,Local playlist more,local-playlist,1,How Can I Love You,TWA531600804,13,28,female,9,20060704,20170926
+204,204,76Z1lfM+8Wqkphoi57H/fBdxzeJKiDtjwlZ3jjJhTlI=,mkfoUQG7DUvB7axTbdjnJc96elYMdO8M+PrMrzF8cek=,my library,Local playlist more,local-playlist,1,Growing pains,KRA301500099,13,28,female,9,20060704,20170926
+205,205,mryv/byXuAuoBv/Rok4PsrH2s/SYy48cpi7GVyMYaBs=,IlsWskik3I0whRNda+g6yPh9yhxdX3QOzwKpjfk1g3Y=,my library,Local playlist more,local-playlist,1,Unsteady,USUM71400108,6,0,,4,20160805,20170408
+206,206,mryv/byXuAuoBv/Rok4PsrH2s/SYy48cpi7GVyMYaBs=,xW0FOZApEaSXLkd7zWAL4cqUfibqOXo1keb7YQ+0TGA=,my library,Local playlist more,local-playlist,1,My Gospel,USAT21502910,6,0,,4,20160805,20170408
+207,207,mryv/byXuAuoBv/Rok4PsrH2s/SYy48cpi7GVyMYaBs=,t5T40+KJ9ozduS+w/L7CMHaKd30ZTERd4RbNhEWyd7I=,my library,Local playlist more,local-playlist,1,Let Me Love You,GBDMT1600210,6,0,,4,20160805,20170408
+208,208,mryv/byXuAuoBv/Rok4PsrH2s/SYy48cpi7GVyMYaBs=,jPFQ9K/RiFccYdgYh6a8+zc906Sl1oYTPNH/NARQslI=,my library,Local playlist more,local-playlist,1,Heartbeat,DKAZA1600015,6,0,,4,20160805,20170408
+209,209,lW4VfHcXYCumiS0vfPsMHKNhdzBkZ5h4KGieh4ZZbJo=,OUoQjg90oZPpE/VKcWJxziMLODO6Kh+36ri2R+qxp2s=,my library,Local playlist more,local-library,0,幸福的忘記《女王的誕生》插曲,HKUM71300415,4,22,female,3,20150120,20171004
+210,210,lW4VfHcXYCumiS0vfPsMHKNhdzBkZ5h4KGieh4ZZbJo=,9SC1HorrRiyFVUQmky0hSHuGEYCplKpIzFLd06ToLqw=,my library,Local playlist more,local-library,0,流浪記,,4,22,female,3,20150120,20171004
+211,211,lW4VfHcXYCumiS0vfPsMHKNhdzBkZ5h4KGieh4ZZbJo=,QOpcw1mP1f4Awj24eDbyQta4Anhg8f4A5txVrBri7Zk=,my library,Local playlist more,local-library,0,We Belong Together,USIR20500195,4,22,female,3,20150120,20171004
+212,212,uJLgZi0wJA39QjcZB0xNgM7XGy0hiFhM3+ziyq1hLEw=,KcQ4assZxaXsdizqxGjUSAY7CNc6+6hQzpVsjnWsShQ=,my library,Local playlist more,local-library,1,怎麼還不愛 (Why Not Love),TWA471505003,17,28,female,3,20151116,20171124
+213,213,mU0TWs54NBpozxzUd7wN2ZTlS6d9Nm9GEcfRhFg132o=,WAO/RJNIJOOOLBLfmGjzWL9DpEGqSVNqA0unDLFf0Oo=,my library,Local playlist more,local-library,1,公轉自轉 (Gong Zhuan Zi Zhuan),TWA479820001,1,0,,7,20110705,20170930
+214,214,mU0TWs54NBpozxzUd7wN2ZTlS6d9Nm9GEcfRhFg132o=,G+6INCXzchsO6sgLbkwPWmiZexXSHdGYC39MucFg8gI=,my library,Local playlist more,local-library,1,結婚進行曲,HKD450200008,1,0,,7,20110705,20170930
+215,215,uJLgZi0wJA39QjcZB0xNgM7XGy0hiFhM3+ziyq1hLEw=,j8hEVFwEKgkuNUQak+MbXoWoxZSf9uH/H/ZXrOTAHWY=,my library,Local playlist more,local-library,1,祈禱,TWC150508004,17,28,female,3,20151116,20171124
+216,216,mU0TWs54NBpozxzUd7wN2ZTlS6d9Nm9GEcfRhFg132o=,H9Q4aj8keSxmdTuu38B6TgCwIN/C4KKUCwX+OuCX9lI=,my library,Local playlist more,local-library,1,流沙,TWC219701010,1,0,,7,20110705,20170930
+217,217,mU0TWs54NBpozxzUd7wN2ZTlS6d9Nm9GEcfRhFg132o=,piaM/01UevS6fceejO9bXDqJZVLRnYImdSqAPyI9MvI=,my library,Local playlist more,local-library,1,唯舞獨尊 (Dancing Forever),TWA270613001,1,0,,7,20110705,20170930
+218,218,iVDh2yjFOMgO7Ew2vuDv9n8g+uVX8wW5wkuSdeqCf8Q=,av5f/tezTRcEtZbFMT77fcbEKLU4ADJdNv7gcyco4kI=,my library,Local playlist more,local-library,1,是不是這樣的夜晚你才會這樣的想起我,MYAW11300001,5,21,male,9,20110510,20170930
+219,219,BT9T8dvM4k3Xx2UZd5m+GwUnhOR5+5Q4XPbpOR5rj8o=,yhcnDuO9jvGMit267O8HTDMlA08OSyrG7aMbrisR1CU=,discover,Online playlist more,online-playlist,0,一個人也可以幸福 (Happiness For One),TWU651601004,1,0,,7,20110426,20170930
+220,220,BT9T8dvM4k3Xx2UZd5m+GwUnhOR5+5Q4XPbpOR5rj8o=,izWkEacMHX6lc+hEC3QnWwWd2LXiHZ9tacUNpfUz+aw=,discover,Online playlist more,online-playlist,0,大齡女子 (Darling),TWW851500003,1,0,,7,20110426,20170930
+221,221,iVDh2yjFOMgO7Ew2vuDv9n8g+uVX8wW5wkuSdeqCf8Q=,pCf4HI+z4rQsY9FF79m+Sojnl207qtHqtOWU2VFW1ZE=,my library,Local playlist more,local-library,0,回來我身邊,TWA451500404,5,21,male,9,20110510,20170930
+222,222,iVDh2yjFOMgO7Ew2vuDv9n8g+uVX8wW5wkuSdeqCf8Q=,nFahnwpZ1xS1sO7g3LSOcqZGX8KSgZcEBY4X60mzUN4=,my library,Local playlist more,local-library,0,愛一直閃亮,TW1850201020,5,21,male,9,20110510,20170930
+223,223,BT9T8dvM4k3Xx2UZd5m+GwUnhOR5+5Q4XPbpOR5rj8o=,E9e7rcarCZI590squoGDSVS1QfJxz9FiX6bTDdlEHDU=,discover,Online playlist more,online-playlist,0,幸福的可能,TWK231388837,1,0,,7,20110426,20170930
+224,224,BrjHr2sDwLNsKLfAoTZwx6D7+W55aC2+H+UHWLFzVRI=,CTwL9Gnx6QsaZ6+ygo/VHirN/XZKxlUJEB2VGQX8yjg=,discover,Search,online-playlist,1,稻香,TWK970801511,13,41,male,3,20130317,20170915
+225,225,XCwJ8FXEUYuzJ3DBDE7AXqS3mzlnEx/pqAEs2WLuFkI=,vmtbcUCwK/+a2PpaquyllzeRUhxQKcn2tCOQ+Lh84r0=,my library,Local playlist more,local-library,1,Mr. Simple,KRA300811595,15,36,male,7,20150811,20170911
+226,226,KRggWF6YvRM/zOh658DH/mgsi5HDjncz4qcHxQfn1Uc=,PgRtmmESVNtWjoZHO5a1r21vIz9sVZmcJJpFCbRa1LI=,discover,Online playlist more,online-playlist,1,謝謝妳愛我 (Thanks For Your Love),TWA531657203,15,20,female,9,20100730,20170925
+227,227,KRggWF6YvRM/zOh658DH/mgsi5HDjncz4qcHxQfn1Uc=,FynUyq0+drmIARmK1JZ/qcjNZ7DKkqTY6/0O0lTzNUI=,discover,Online playlist more,online-playlist,1,你，好不好？ (How Have You Been?),TWA471602002,15,20,female,9,20100730,20170925
+228,228,KRggWF6YvRM/zOh658DH/mgsi5HDjncz4qcHxQfn1Uc=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,discover,Online playlist more,online-playlist,1,帥到分手,TWAG11600306,15,20,female,9,20100730,20170925
+229,229,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,J9EcIEDOoNbdN2ku4SGtIp0pmg/k+NRWLOZIra16DUk=,my library,Local playlist more,local-library,1,第一個想到你 (Think Of You First),TWA211630906,1,0,,7,20151026,20170930
+230,230,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,UtDocAR5A4LBezZCj7amcjNq1isSp+NUioxQMBH2MQI=,my library,Local playlist more,local-library,1,Bring Out The Bottles,USUM71215985,1,0,,7,20151026,20170930
+231,231,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,TZLLa2Nq+ItKgtat6wl1BLeIv0KFxquvDAX/dGmfRUY=,my library,Local playlist more,local-library,1,Morning Sun,USUM71505604,1,0,,7,20151026,20170930
+232,232,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,z8xAhD/t0v/wUKZ8Rz0Pwojr5psdmUQn3/eu0Yw11zQ=,my library,Local playlist more,local-library,1,Let’s not fall in love,KRA401500590,1,0,,7,20151026,20170930
+233,233,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,yYI9yzzPw6ohStODOP3P/5VHCowB29aUMW4tlZUGdQk=,my library,Local playlist more,local-library,1,Elastic Heart,USRC11301541,1,0,,7,20151026,20170930
+234,234,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,b2EDcNBKsrO06KC4S+gx4SDi5ixR7iPXmteJFmPRCZs=,my library,Local playlist more,local-library,1,檸檬草的味道 (Ning Meng Cao De Wei Dao),TWA470408003,1,0,,7,20151026,20170930
+235,235,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,VjUE1a21Vimhk/M19iGtXUKV8xzDh/mPPus+s9MqfDM=,my library,Local playlist more,local-library,1,差不多先生,TWA450893202,1,0,,7,20151026,20170930
+236,236,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,DT35ri8FZuj7PGLxW/PhK5lt+CFVV85jDqPrBz6kixc=,my library,Local playlist more,local-library,1,說好的幸福呢,TWK970801506,1,0,,7,20151026,20170930
+237,237,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,0+VfB1++V+Eyz9ngmd77r4ZNq22GX74DcGDrqcUc1P0=,my library,Local playlist more,local-library,0,說真話的朋友,TWUM71500060,1,0,,7,20151026,20170930
+238,238,fg1w6/8iqYE0wNR5PuqkXbCkfShG/JgL7whHhA8eraY=,IouVtHBa0SRl7CqYwGkyvN7Vu7drl0Llq9swfIXwLx8=,my library,Local playlist more,local-library,1,甘心替代你,HKD049800015,1,0,,7,20151026,20170930
+239,239,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,9zlrAle8Ec1TB/B6wxdWNQ1Ha8g4co8OE58vVELgPZY=,my library,Local playlist more,local-playlist,1,Latch,TCABY1407538,13,30,female,9,20110814,20171005
+240,240,30mzMBkLfBFFn+U0VpWu8nyo76SIiz2AZZgoYWpIjXU=,3MkaOgdxd4cuJmC1WHXb9q+dDrwenRvp2upvtEBJtcU=,my library,Local playlist more,local-playlist,1,曾經瘋狂 (Chen 52),TWBF31609001,4,31,female,9,20080105,20170922
+241,241,30mzMBkLfBFFn+U0VpWu8nyo76SIiz2AZZgoYWpIjXU=,LBnwicJLcepb/l8c68qpMRJIaUcm1UvgtKEfQwITrpI=,my library,Local playlist more,local-playlist,1,勇敢 (Braveness),TWK231588891,4,31,female,9,20080105,20170922
+242,242,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,ljtS2z9UNtDmehbGXWjdi6z1FvznJHN9j3Uk0Nxe+so=,my library,Local playlist more,local-playlist,1,因為你愛我 (Yin Wei Ni Ai Wo),TWA470722016,13,30,female,9,20110814,20171005
+243,243,30mzMBkLfBFFn+U0VpWu8nyo76SIiz2AZZgoYWpIjXU=,Z+kZanRGIjuGfGG+DPRH9gEgWZxK6fEQZnaCNwyNNiI=,my library,Local playlist more,local-playlist,1,OAOA,TWK231088813,4,31,female,9,20080105,20170922
+244,244,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,Pd7EHkrFqWlcUnlTyIQ/Pp+moisxl7/QySuEF2BMaHk=,my library,Local playlist more,local-playlist,1,All Of The Stars,USAT21401437,13,30,female,9,20110814,20171005
+245,245,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,oDukab+OdtLOgYcTAP3Y5beSN7ZJaDYnFV5IjPtb/24=,my library,Local playlist more,local-playlist,1,Patient Love,GBMQN1100009,13,30,female,9,20110814,20171005
+246,246,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,h3NQeJQG2Fkhf51m4pGpBcOCuleU2ouKWVmUKrB7W4k=,my library,Local playlist more,local-playlist,1,Oasis,USSM11508395,13,30,female,9,20110814,20171005
+247,247,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,DyHtKDFSj6jxlka6591e3ksO6L/S9ss9Hzq/q89m9oA=,my library,Local playlist more,local-playlist,1,一個人 (Single),TWA211630913,13,30,female,9,20110814,20171005
+248,248,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,G21dv1ZiXpa7iO6UrKktIgqRdrvx7nLjRbRHGmtzGvQ=,my library,Local playlist more,local-playlist,1,Thinking Out Loud,GBAHS1400099,13,30,female,9,20110814,20171005
+249,249,30mzMBkLfBFFn+U0VpWu8nyo76SIiz2AZZgoYWpIjXU=,b7yydI1iGdF/kFybrbVHHDXeI/9stzEWK1i77MLj4rU=,my library,Local playlist more,local-playlist,1,Me Too,USSM11601177,4,31,female,9,20080105,20170922
+250,250,/Cn9pTzeQ7x1/Igy4gOS66nW2473FQJR/6nGAdeu3WQ=,6rITBGIcruG65K47UMenb2NT7jlomk7MPPKLKv8VdGc=,my library,Local playlist more,local-playlist,1,預感,,13,30,female,9,20110814,20171005
+251,251,/rOCIqfil6QakFsOkPh+G1g3g2VVzdUh9C5sODyv0Fo=,DnC275Ws/5+s60hml3UEv1PXzy7pXVUVKw1Wuvt2OrE=,my library,Local playlist more,local-playlist,0,GENIE,JPPO01095630,13,28,male,3,20140606,20170907
+252,252,GNLmyQKbRgheohNbGT5DpPVg6fAVwiO6WPigR+dlIyY=,tuGi+hazI5xZ7gQVdHvFzYpETXiwwX56pe99vLQba28=,my library,Local playlist more,local-playlist,1,時之歌,JPQ700600233,22,0,,4,20160408,20170820
+253,253,/rOCIqfil6QakFsOkPh+G1g3g2VVzdUh9C5sODyv0Fo=,FARI5u04iO/LBB71OXHBDPgi9wo41wU3+0wbPClbS0E=,my library,Local playlist more,local-playlist,1,Golden Sky,QMG551450344,13,28,male,3,20140606,20170907
+254,254,/rOCIqfil6QakFsOkPh+G1g3g2VVzdUh9C5sODyv0Fo=,wBTWuHbjdjxnG1lQcbqnK4FddV24rUhuyrYLd9c/hmk=,my library,Local playlist more,local-playlist,1,小幸運 (A little happiness),TWD951562101,13,28,male,3,20140606,20170907
+255,255,GNLmyQKbRgheohNbGT5DpPVg6fAVwiO6WPigR+dlIyY=,UsSSXKCwqKPBCSdqCGKlf5SDZ1G7eOrWx7nLbmJuTpI=,my library,Local playlist more,local-playlist,1,瑟魯之歌,JPQ700600232,22,0,,4,20160408,20170820
+256,256,/rOCIqfil6QakFsOkPh+G1g3g2VVzdUh9C5sODyv0Fo=,FOgcs6jEMvhPkHzO2oiY7lp5IAdQMKCi5S/pahnrB+c=,my library,Local playlist more,local-playlist,0,BAD GIRL,JPPO01137987,13,28,male,3,20140606,20170907
+257,257,GNLmyQKbRgheohNbGT5DpPVg6fAVwiO6WPigR+dlIyY=,lPvlfq3QvA2N/qAp9rsMhWpgRnK2VIynAcESgCMH6H0=,my library,Local playlist more,local-playlist,1,風的通道,JPQ700600241,22,0,,4,20160408,20170820
+258,258,ib5oZIKb0X16rGwGkVvX6LGEcZ9xIZ/dkedHZHeBwz0=,rwn4vuaBYGXrcj+ivp7R7LyW2TDUAp0jSRvrYH25V7g=,my library,Local playlist more,local-library,1,我的淚 (There are Tears),TWA211656001,5,23,female,9,20120531,20170719
+259,259,ib5oZIKb0X16rGwGkVvX6LGEcZ9xIZ/dkedHZHeBwz0=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,my library,Local playlist more,local-library,1,告白氣球,TWK971601308,5,23,female,9,20120531,20170719
+260,260,i7N2QtNrlMbyDVHDjwr5iwDCXSATQcaKBpucScnY0x0=,VkDBgh89umc9m6uAEfD6LXngetyGhln4vh/ArCGO0nY=,my library,Local playlist more,local-library,1,如果我們不曾相遇 (What If We Had Never Met),TWK231680820,1,0,,4,20161128,20170929
+261,261,i7N2QtNrlMbyDVHDjwr5iwDCXSATQcaKBpucScnY0x0=,43Qm2YzsP99P5wm37B1JIhezUcQ/1CDjYlQx6rBbz2U=,my library,Local playlist more,local-library,1,後來的我們 (Here| After| Us),TWK231610206,1,0,,4,20161128,20170929
+262,262,NxObdMwkWPWkMwB38jQn/xsPFMG2IQ/GX6+OaFlFkiQ=,q438zIOMC7re7W4WwNxCY08Dnwwxx4tpXHUbadbHo+4=,my library,Local playlist more,local-library,1,胡思亂想,TWA459755503,5,36,male,9,20110226,20170926
+263,263,NxObdMwkWPWkMwB38jQn/xsPFMG2IQ/GX6+OaFlFkiQ=,OhNgd6cdvs3e1eXbfCF5+9K3bUkuklhI6ZRnqf/tqjo=,my library,Local playlist more,local-library,1,身邊,TWA459960206,5,36,male,9,20110226,20170926
+264,264,7gSTc/ukogoLKPtnBJDDOAWa+Y1WQJDNIfcUfg8ynoI=,w4Zku7HxtkAKl/BB8H81ZfWOXwnnmVbZBvFZeRPuRUU=,my library,Local playlist more,local-library,1,Blood Sweat & Tears,KRA381601892,13,24,female,9,20150109,20180128
+265,265,NxObdMwkWPWkMwB38jQn/xsPFMG2IQ/GX6+OaFlFkiQ=,fDBtAj8rHHCQGeSsDEeT0WA3gSp6p7g3z71981gFuQA=,my library,Local playlist more,local-library,1,我難過,TWA770200039,5,36,male,9,20110226,20170926
+266,266,7gSTc/ukogoLKPtnBJDDOAWa+Y1WQJDNIfcUfg8ynoI=,cPVPaKk/Qy2j1LQ6sEP3JUWBjey7FgHRkkjX8cr+xjw=,my library,Local playlist more,local-library,1,Blow Your Mind (Mwah),GBAHT1600302,13,24,female,9,20150109,20180128
+267,267,NxObdMwkWPWkMwB38jQn/xsPFMG2IQ/GX6+OaFlFkiQ=,DJNJXNxzFSqDrp5zbMu6hblMpTE/SLKVRy3H1Moda4U=,my library,Local playlist more,local-library,1,是你變了嗎,TWA459755501,5,36,male,9,20110226,20170926
+268,268,7gSTc/ukogoLKPtnBJDDOAWa+Y1WQJDNIfcUfg8ynoI=,s4F3bA45kbeOv2piYvEIiBsQqhLrEW4BIQPI+P38is4=,my library,Local playlist more,local-library,1,HandClap,USAT21600408,13,24,female,9,20150109,20180128
+269,269,4H6YvwwaZTqp0K52ildhnudkRNux2G4CZSrIADbtW9k=,I1tqmFQRttTkQ8dQc3e3H3E6TXi/cjNjew2WHp5LptQ=,search,Search,song,1,짧은치마,TWA531401159,1,0,,7,20140216,20170916
+270,270,zkx4wHRFZjeFuTgkglS1hSx8O6gPCwaoWppiimL2dHQ=,7H2Pz6ag57Mp8tJ6pkWPKZshVBRIAKRYeujYoezYa68=,my library,Local playlist more,local-library,1,半醉人生,TWE531620607,5,39,female,9,20111118,20170911
+271,271,zkx4wHRFZjeFuTgkglS1hSx8O6gPCwaoWppiimL2dHQ=,IF+hcR4z9qyFPehx7iReyr4vHGThZrHgMlkK2ea7Fak=,my library,Local playlist more,local-library,1,夢中情緣,TWK811607003,5,39,female,9,20111118,20170911
+272,272,zkx4wHRFZjeFuTgkglS1hSx8O6gPCwaoWppiimL2dHQ=,bmchKK/UdPV2Ef+B86SuZCmKpWCoY5VhIsawUo5qbf0=,my library,Local playlist more,local-library,1,袂凍將妳留,TWK811607004,5,39,female,9,20111118,20170911
+273,273,zkx4wHRFZjeFuTgkglS1hSx8O6gPCwaoWppiimL2dHQ=,yciKx3VagNk6RuCqe0KbTbwl+cWXKVYWAeI8UFe9Dfw=,my library,Local playlist more,local-library,1,末班車,TWA531156609,5,39,female,9,20111118,20170911
+274,274,DieOcrdVf9woWWzb1CfIHkT/OdviM2SaHnv/NgidWSc=,XgqOptE55Y02UpIoPsw0LgobCkrZsrETmxaMUlzAxtM=,my library,Local playlist more,local-library,1,Can't Help Falling in Love,US4EB0401204,1,0,,7,20100920,20170924
+275,275,WqrJidyNSkS0WdzilEbfvU2zfEHS1M+a8lGri+Q46Dw=,02gZ0fxCTb73+laNQIEtc9DZN29efUTQ5ppDQkxZ3c4=,my library,Local playlist more,local-playlist,1,好喜歡你,TWUM71600015,1,0,,7,20160220,20170911
+276,276,WqrJidyNSkS0WdzilEbfvU2zfEHS1M+a8lGri+Q46Dw=,cR+VrCdZkNm/QM0WjQQip9AnOrT/auRDZboM1KpevS4=,my library,Local playlist more,local-playlist,1,爸爸媽媽 (Mama & Papa),TWA531651904,1,0,,7,20160220,20170911
+277,277,DieOcrdVf9woWWzb1CfIHkT/OdviM2SaHnv/NgidWSc=,7VUmIK+w5NY8+kK1HfNhB1ax626boCS7qbUzJqREkt0=,my library,Local playlist more,local-library,1,Unchained Melody,US4EB0937608,1,0,,7,20100920,20170924
+278,278,DieOcrdVf9woWWzb1CfIHkT/OdviM2SaHnv/NgidWSc=,+iLnZ8RatKo7sP1nmukx7MaJtK+y+77F/Q/6BoVT5vU=,my library,Local playlist more,local-library,1,Rock-a-Bye Baby,TCABM1333385,1,0,,7,20100920,20170924
+279,279,F6PZs1Qv0d9ubUQSLscpxRHp3RVctLJ1hMQrv8QJz5s=,HU8m3Eh0AbBzs7mvRcELjKIRu0a889Rag+SjFUHxx5Y=,my library,Local playlist more,local-library,1,般若波羅蜜多心經,TW1910319003,1,0,,7,20151010,20170909
+280,280,F6PZs1Qv0d9ubUQSLscpxRHp3RVctLJ1hMQrv8QJz5s=,BJWGjituxwP9i+MbjQs9EP3k1aaRipOBxCVyrl4czzo=,my library,Local playlist more,local-library,1,美麗的聖誕樹,TWC019603410,1,0,,7,20151010,20170909
+281,281,WqrJidyNSkS0WdzilEbfvU2zfEHS1M+a8lGri+Q46Dw=,k4GxTaY1UF8dTsAvDFCjQJZlqnVEsH4OZsGUT0oZjAw=,my library,Local playlist more,local-playlist,1,野生動物 (Wild Animals),TWA531651912,1,0,,7,20160220,20170911
+282,282,dLFvzIVbfES/pWPNYW4RP/NdP01kI3FGv/G2kpbO2sg=,tuGi+hazI5xZ7gQVdHvFzYpETXiwwX56pe99vLQba28=,my library,Local playlist more,local-playlist,1,時之歌,JPQ700600233,1,0,,7,20131226,20170921
+283,283,NGBFuLGTCYZyIikX2bKpI2Z+zO7ILujTyuF5YUOqFzQ=,CXdtx7/QxePhjYwYFcXVv+lXjCDEGRJ9r/OC7IQXthw=,discover,Discover Chart,online-playlist,1,浪費,TWD951234104,1,0,,7,20160401,20170930
+284,284,NGBFuLGTCYZyIikX2bKpI2Z+zO7ILujTyuF5YUOqFzQ=,TbrfWJpl81E4alsi2+b84oeUu+b5S/8n9yFlZDriNYs=,discover,Discover Chart,online-playlist,1,觀眾,TWUM71600048,1,0,,7,20160401,20170930
+285,285,NGBFuLGTCYZyIikX2bKpI2Z+zO7ILujTyuF5YUOqFzQ=,+bXHmkz7OOdkDZOl68QIZA2Xg98fD6bwS6vA+8Mk7oQ=,discover,Discover Chart,online-playlist,1,左耳 (Left Ear),TWBW51600301,1,0,,7,20160401,20170930
+286,286,dLFvzIVbfES/pWPNYW4RP/NdP01kI3FGv/G2kpbO2sg=,53TLcbJMoL3Vk9pTotc7FR2Ud9iXHg7VRqdigKdqDlw=,my library,Local playlist more,local-playlist,1,世界的約束,JPQ700600234,1,0,,7,20131226,20170921
+287,287,NGBFuLGTCYZyIikX2bKpI2Z+zO7ILujTyuF5YUOqFzQ=,IiO/4aXuzEtXpyd1A7LV2TlAdIS5Rzl3hwdtbKuNBQ4=,discover,Discover Chart,online-playlist,1,Just Believe,TWA451407917,1,0,,7,20160401,20170930
+288,288,dLFvzIVbfES/pWPNYW4RP/NdP01kI3FGv/G2kpbO2sg=,u0bSyq3UBoLQ7TB2AFSvLC4ya39s8EDHwH6W+fNucMI=,my library,Local playlist more,local-playlist,1,魔法公主,JPQ700600237,1,0,,7,20131226,20170921
+289,289,W5/Zf2XBU+3wkx81edpZMHev/NNgy6JujZ3nR/A+euo=,7Xxzo9Z584Z1AhkaLLWEcpzcEuxcquGE52Ztc4879YI=,radio,Radio,radio,0,寂寞寂寞就好,TWD951043107,4,30,male,9,20120706,20171006
+290,290,W5/Zf2XBU+3wkx81edpZMHev/NNgy6JujZ3nR/A+euo=,7A/tAWUb6Y2Rt1pYDjLqy47YL5QB1xrAK0EXhpcv+O8=,radio,Radio,radio,0,傻孩子,,4,30,male,9,20120706,20171006
+291,291,W5/Zf2XBU+3wkx81edpZMHev/NNgy6JujZ3nR/A+euo=,t3XmwwCrMezC2NYlDbIFcVOytrHT5kwgXo4/de1wVro=,radio,Radio,radio,0,該忘了 (Forget Me Not),TWA531261804,4,30,male,9,20120706,20171006
+292,292,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,Q+minHX51E+PXPs1VxkIlW+XhmV9ANm2rchEcZ8Wt9k=,my library,Local playlist more,local-library,1,分手後不要做朋友,TWUM71300116,15,35,female,3,20141010,20180204
+293,293,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,UtDocAR5A4LBezZCj7amcjNq1isSp+NUioxQMBH2MQI=,my library,Local playlist more,local-library,1,Bring Out The Bottles,USUM71215985,15,35,female,3,20141010,20180204
+294,294,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,Ju76tl7sst2EnhNgDV5Dv+Dfx4GdABb+WePRuezjpS8=,my library,Local playlist more,local-library,0,眼底星空,TWF750688201,15,35,female,3,20141010,20180204
+295,295,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,Rd0ryyxvXtl97Hz89rbSznFLRsgDiftcMkSm+XNetTo=,my library,Local playlist more,local-library,1,因為愛,TWA211024704,15,35,female,3,20141010,20180204
+296,296,JCD4U8rE4W7KNsonRdXyhv9B7E/iOT/Xyv/9BMcITIo=,zEoJt1z9cheRAXxq07RyvfSIKePC78BJbgs1UVDmJNw=,my library,Local playlist more,local-library,1,愛的許願瓶,,1,23,female,3,20151003,20170911
+297,297,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,KRmR66oedDzaQqRVnBFWvllHXAk2KBV2jUKK4U6V3AQ=,my library,Local playlist more,local-library,1,有愛到就好,TWEM31216004,15,35,female,3,20141010,20180204
+298,298,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,pfmY16EfQekUrFsCQKS0ptDcOoGpRcNKNy0aZwHLuks=,my library,Local playlist more,local-library,1,Theme From Dying Young,USAR19700069,15,35,female,3,20141010,20180204
+299,299,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,FpPpQz9dOL5NXr21CsTjRS/ItkyL4YxC8zoItHzjM7s=,my library,Local playlist more,local-library,1,洋蔥,TWK231003205,15,35,female,3,20141010,20180204
+300,300,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,yNZesQPg9n4FuV8hvyXznss+/lAavj59F/IivD4/Oe4=,my library,Local playlist more,local-library,1,兩個人 (2 People),TWA451599505,15,35,female,3,20141010,20180204
+301,301,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,vt7nX0TiJiZwN4fUYJMPkWuGZBkI4bheTzU6aBDTMr0=,my library,Local playlist more,local-library,1,你是我心中一句驚嘆,SEADD0004918,15,35,female,3,20141010,20180204
+302,302,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,QXIDT7koRLi/jl79uu9AYRERZ+PWyTuyv+8hF4/r2Pw=,my library,Local playlist more,local-library,1,好好先生,TWA531320802,15,35,female,3,20141010,20180204
+303,303,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,ZyxTbIQ+1GJF6iX3SOZgavNfDIkDjCDLnsc0fhQDgzg=,my library,Local playlist more,local-library,0,搖勒搖勒,TWA451408307,15,35,female,3,20141010,20180204
+304,304,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,WznMG5LmzE4k7q1OQLPAV2s96k8ZIrVvG/rihErlYWk=,my library,Local playlist more,local-library,1,安靜 (Quietness),TWD631557601,15,35,female,3,20141010,20180204
+305,305,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,gZphe9aRvr0vVO/oEt23amqyDc+YabbIJ9WIzZTVjG0=,my library,Local playlist more,local-library,1,Whistle,USAT21201745,15,35,female,3,20141010,20180204
+306,306,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,U8VgelI8G461f4FVJHnavdn4zx7XjmSFcNHZ3Hru3TU=,my library,Local playlist more,local-library,1,我還是愛著你【三立華劇[幸福兌換券]片尾曲】,TWK231407705,15,35,female,3,20141010,20180204
+307,307,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,uWfF+7Tl/V+phd01+33EDRjMiRZz4adW0bI/Mh194L8=,my library,Local playlist more,local-library,1,幸福太短 (Fleeting Happiness),TWA471601001,15,35,female,3,20141010,20180204
+308,308,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,VFWmrWVR8IbIiP4iwS+RwATCVRqZozRMJ06PqQQeEBI=,my library,Local playlist more,local-library,1,We Found Love,USUM71115507,15,35,female,3,20141010,20180204
+309,309,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,i+VG863+oGmMZQ5T1hnd6jr6D7RgRstsePiUoNNpQUw=,my library,Local playlist more,local-library,1,手掌心,TWK231388831,15,35,female,3,20141010,20180204
+310,310,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,gSX+QthGgdSEVOcvMxfkKYyP/FBVjvEqyKVXsos5LlA=,my library,Local playlist more,local-library,1,只能想念你,TWA531176504,15,35,female,3,20141010,20180204
+311,311,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,SLks4zF/XqBK2h/oa7osW0TqNmSMF3MkAzO2Ulkfqgw=,my library,Local playlist more,local-library,1,The Moment,USAR19700061,15,35,female,3,20141010,20180204
+312,312,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,IEBOvGhtj0uhqcdmH41YJVUlTMyRNDpZ/jTaFR0NkWE=,my library,Local playlist more,local-library,1,太極拳Cypher (Tai Chi Fist Cypher),TWP011620421,15,35,female,3,20141010,20180204
+313,313,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,eq2bsIADV2vT3O1Q9XRd1mmI84wG5I/FLXvbk7korXg=,my library,Local playlist more,local-library,1,Dope,KRA381210557,15,35,female,3,20141010,20180204
+314,314,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,PgRtmmESVNtWjoZHO5a1r21vIz9sVZmcJJpFCbRa1LI=,my library,Local playlist more,local-library,1,謝謝妳愛我 (Thanks For Your Love),TWA531657203,15,35,female,3,20141010,20180204
+315,315,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,iQ4cX4/a1zDyRhISiCjYMxSCimCSkshoJkPW/9P7w8Y=,my library,Local playlist more,local-library,1,愛太痛,TWF710800044,15,35,female,3,20141010,20180204
+316,316,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,D9rjQY1UxHEVmOrYs+3tkB6530oEEp8/fypbfPf8bzw=,my library,Local playlist more,local-library,1,無條件為你,TWA450171201,15,35,female,3,20141010,20180204
+317,317,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,g2TxUJZJZW/LNaryWMEKnwjcQL9o7lTW5pMdjmjLynE=,my library,Local playlist more,local-library,1,寂寞不痛,TWA771000966,15,35,female,3,20141010,20180204
+318,318,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,Tbhgwv7C4b2auMlGaFiO6nEvSFO23tB2O9DAyoS0B7I=,my library,Local playlist more,local-library,1,Sailing (0805),KRA301600267,15,35,female,3,20141010,20180204
+319,319,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,e14xz2xrcxBCRUy07nLE98GAqgSWngMq3cmldoqZCuc=,my library,Local playlist more,local-library,1,Just Lose It,USIR10400682,15,35,female,3,20141010,20180204
+320,320,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,NO3PiEzofJglKjD8+biTGWkEVRDfE799y8c9wQS1XWo=,my library,Local playlist more,local-library,1,I Really Like You,USUM71501431,15,35,female,3,20141010,20180204
+321,321,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,EAATsliWBpgxGx8qR9izI9YBJErUPwyQ5DIp2J66MjI=,my library,Local playlist more,local-library,1,求婚進行曲,TWD971500031,15,35,female,3,20141010,20180204
+322,322,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,d9Flpsyq/y8CR3F213pnXUkrfK1fMClvhYH37pFSc7s=,my library,Local playlist more,local-library,1,Hello,GBBKS1500214,15,35,female,3,20141010,20180204
+323,323,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,X96NEF2NcG6gyKVF0+U3H98CgAlgecjthmaqQe0nLPE=,my library,Local playlist more,local-library,1,晴天,TWK970300503,15,35,female,3,20141010,20180204
+324,324,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,QQ4hCs7U7EVSlrZBjXRrpkXQ+m6phu94uQ7+g2QtsXo=,my library,Local playlist more,local-library,1,Funky那個女孩,TWUM71500033,15,35,female,3,20141010,20180204
+325,325,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,B4zTMZ/an9RmxBJHxlP07ByYW45ycQGtqu6G89GNFM0=,my library,Local playlist more,local-library,0,星晴,TWK970000103,15,35,female,3,20141010,20180204
+326,326,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,DfUsFNTXUTbVKCPHvGg7SAOdMmlULE23hcqZSke6IAg=,my library,Local playlist more,local-library,1,相思無用,TWA119612070,15,35,female,3,20141010,20180204
+327,327,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,d5ayexvXscdzmuGxENyY8Uwb4AQaxt0dEcnkAgES7xw=,my library,Local playlist more,local-library,1,明天再擱來,TWA451500409,15,35,female,3,20141010,20180204
+328,328,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,7Xxzo9Z584Z1AhkaLLWEcpzcEuxcquGE52Ztc4879YI=,my library,Local playlist more,local-library,0,寂寞寂寞就好,TWD951043107,15,35,female,3,20141010,20180204
+329,329,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,h7O1gouOltocwSPgiW6eEJlzMYr1dTY+B5C/P6oYBFg=,my library,Local playlist more,local-library,1,青春修煉手冊,,15,35,female,3,20141010,20180204
+330,330,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,PudPR2MUQJp7HokSfvuJ1jQNakvah0OgDA5xkILxfSE=,my library,Local playlist more,local-library,1,疼愛,TWA530887305,15,35,female,3,20141010,20180204
+331,331,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,NAFUMoVn+KTJxhV52gzBUJEVTytwhwbt7kVG6dqxxGA=,my library,Local playlist more,local-playlist,1,公公偏頭痛,TWK971201103,15,35,female,3,20141010,20180204
+332,332,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,/yLK2p2ka4BYpIabe/OQmRkSFGhAvswEcAQz2fJ3FUg=,my library,Local playlist more,local-library,1,怎麼說我不愛你,TWA531176506,15,35,female,3,20141010,20180204
+333,333,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,RxCEvZAXgnh1ZDlQBuVb/J9xpnopFSJBaBxLqGZIXSs=,my library,Local playlist more,local-library,1,手寫的從前,TWK971401108,15,35,female,3,20141010,20180204
+334,334,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,q+OxyXbHNfXmHsYjv6ORLDRAAfEDM6yF+NxURX2cSRM=,my library,Local playlist more,local-library,1,棟未條,,15,35,female,3,20141010,20180204
+335,335,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,JTMsJNPcL2ambkp1Z/MeBEnFEzZEOKetdLPrJxHf7v8=,my library,Local playlist more,local-library,1,BANG BANG BANG,KRA401500556,15,35,female,3,20141010,20180204
+336,336,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,Q6x3sro/QARSuQ4ktVIXnGYjFYH22iBDYw3FvQc2gfk=,my library,Local playlist more,local-library,1,在你眼裡 (In Your Eyes),TWO471400104,15,35,female,3,20141010,20180204
+337,337,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,uPKb+5rSu9MAHVeXv1rAXXFk6CWaC5SB4OIpwqk6BoA=,my library,Local playlist more,local-library,1,美人魚,TWK971401111,15,35,female,3,20141010,20180204
+338,338,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,JQbbf31I6j2onsn3JgKpE7drdjq7+Lwj9J1z9vErIV8=,my library,Local playlist more,local-library,1,貧民百萬歌星 (Ghetto Superstar),TWA451294102,15,35,female,3,20141010,20180204
+339,339,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,XkvpC4yaPtzNf95XHujV5rFi6T+irQ7jLW/A6sVXjdI=,my library,Local playlist more,local-library,1,愛你沒差,TWK971201107,15,35,female,3,20141010,20180204
+340,340,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,zcieWa7/2VeVp0m0fa95RI3i6FIfNTMzVvYXm3X64Y8=,my library,Local playlist more,local-library,1,失憶的金魚,TWUM71400086,15,35,female,3,20141010,20180204
+341,341,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,doSc+a6NWyq83MvQRihhH3RIQt617F7d4X9Q34ZapgQ=,my library,Local playlist more,local-library,1,International Love (Featuring Chris Brown),USJAY1100015,15,35,female,3,20141010,20180204
+342,342,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,G/4+VCRLpfjQJ4SAwMDcf+W8PTw0eOBRgFvg4fHUOO8=,my library,Local playlist more,local-library,1,道聽塗說 (Remembering you),TWX351600001,15,35,female,3,20141010,20180204
+343,343,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,0vHg1i5m+5MD19Cp5BK8Ox5slqW4rVSdBqifyC37pyA=,my library,Local playlist more,local-library,1,你好可愛 (You Are So Cute),TWA531583710,15,35,female,3,20141010,20180204
+344,344,rr4UgAoJj0ry3aAo7SJy6RZy8psI9aPwgIQiA1cu39Q=,XUz4Z4wPPChz+OIwkwj7HJ8teIjW3rEMdEATM80rDxM=,my library,Local playlist more,local-library,1,Sorry,USUM71516760,15,35,female,3,20141010,20180204
+345,345,mWeiJ5V5cn+BQKvjKJHIzh4YJpH2gLiK/3ZdakW6x20=,wa6Fa5oHdhUlYV6BTABU+RIkJ3qztKJvuYTaX2HMLzw=,my library,My library,local-playlist,1,花很迷惘,TWA450891602,5,39,female,9,20081223,20171231
+346,346,mWeiJ5V5cn+BQKvjKJHIzh4YJpH2gLiK/3ZdakW6x20=,u2dd1AZaC/S7ErUIEl2KnvyUe++CsHMvP31jONsdur4=,my library,My library,local-playlist,1,把你寫進我的情歌裡,TWZ811400005,5,39,female,9,20081223,20171231
+347,347,mWeiJ5V5cn+BQKvjKJHIzh4YJpH2gLiK/3ZdakW6x20=,y/rsZ9DC7FwK5F2PK2D5mj+aOBUJAjuu3dZ14NgE0vM=,my library,My library,local-playlist,1,她說,TWB671005201,5,39,female,9,20081223,20171231
+348,348,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,P9D6C6XHotwuJK+lDT8JBBd5tyioJHrqZYdj8kpL6oQ=,my library,Local playlist more,local-library,1,再見陌生人,TWUM71400042,14,24,male,9,20131228,20171029
+349,349,mGRmAKp6luFlTzh/LOSiaResvIat12ErReDU7cGHV38=,OvBQMyjY7MptAz37Z+k4WnEhktIf/FbBvpjqDyqEsAg=,my library,Local playlist more,local-playlist,1,吼【可口可樂[年份瓶2015未來版]活動主題曲】,TWK231488840,4,16,male,7,20161113,20170912
+350,350,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,syMOxpgKepmGSuD4tRGAWDrEVNJqrKVcE+Ic0icQ/ws=,my library,Local playlist more,local-library,1,最後的請求 (Please),TWA531669702,14,24,male,9,20131228,20171029
+351,351,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,b7yydI1iGdF/kFybrbVHHDXeI/9stzEWK1i77MLj4rU=,my library,Local playlist more,local-library,1,Me Too,USSM11601177,13,21,female,9,20160425,20180916
+352,352,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,y9Ocq1kkar60lq7jevXRucIIFxWiNm4XTX4NA1Im3LI=,my library,Local playlist more,local-library,1,走在雨中,,14,24,male,9,20131228,20171029
+353,353,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,j7+5QN2jrM1/brTfS1tBLbgVSxm7enfKWlheRLUpo9A=,my library,Local playlist more,local-library,0,Amazing You,KRA381601597,13,21,female,9,20160425,20180916
+354,354,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,+SstqMwhQPBQFTPBhLKPT642IiBDXzZFwlzsLl4cGXo=,my library,Local playlist more,local-library,1,好愛好散 (Blue Love Theme),TWA531658601,14,24,male,9,20131228,20171029
+355,355,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,+2r/RLKIXV7fDGROmzAKu9NOiH0zsbe6eAwrhijRFBc=,my library,Local playlist more,local-library,1,人在雨中,TWUM71300012,14,24,male,9,20131228,20171029
+356,356,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,IlNTgOUmmXElav8hTkv9ps73MvfeAgAGEQMGDEYD5xs=,my library,Local playlist more,local-library,1,寵兒,TWD951634111,14,24,male,9,20131228,20171029
+357,357,mGRmAKp6luFlTzh/LOSiaResvIat12ErReDU7cGHV38=,fM+7pklyOkcD64nrxfPn4PJR0pf0fr0C3Jv2mCdCuS8=,my library,Local playlist more,local-playlist,1,維納斯,TWK231407709,4,16,male,7,20161113,20170912
+358,358,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,Ru7n8Xw2s8LGDsgDhyzWqCWQRWQW9KNPY9qMOFAf5x0=,my library,Local playlist more,local-library,1,My Way,GBARL1601358,13,21,female,9,20160425,20180916
+359,359,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,qpbDKR4AVJQgP3BuyFMIXaUyN9PxEFQ5SEa8BzTCYxs=,my library,Local playlist more,local-library,1,走在雨中,TWA457901208,14,24,male,9,20131228,20171029
+360,360,0tKt//St06ZlgzbIaDrZXURXrTbsQ0V3PMm8jy67qVw=,sgHKhG2d57U2o88razl9SyG1nuuMDf0J2BuDhzoI12Y=,discover,Discover Chart,online-playlist,1,All We Know,USQX91602153,1,0,,7,20111115,20170930
+361,361,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,TVtxD8qAAl8KeA5CU+1c4Pg6+/PR3vK2vYMnY/eSGho=,my library,Local playlist more,local-library,1,Love More - 三立、東森偶像劇<料理高校生>插曲,TWD631517901,14,24,male,9,20131228,20171029
+362,362,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,N/jqBO5BTePFm60e3huQoLdsQ1ka4zWbbqEx0uS1Q8M=,my library,Local playlist more,local-library,1,Alarm,GBAHS1600223,13,21,female,9,20160425,20180916
+363,363,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,S5p1vvpFEqeIOmSOQ9+cgDZ3uyGCW+TKYCeuaQ9k+WQ=,my library,Local playlist more,local-library,1,鋼琴鍵 (Piano Keys),TWP031600104,14,24,male,9,20131228,20171029
+364,364,0tKt//St06ZlgzbIaDrZXURXrTbsQ0V3PMm8jy67qVw=,MtFK4NN8Kv1k/xPA3wb8SQaP/jWee52FAaC1s9NFsU4=,discover,Discover Chart,online-playlist,1,This Is What You Came For,GBARL1600460,1,0,,7,20111115,20170930
+365,365,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,5IdY2MN2AQOk9KCW8zFJukEokM8IMvAo9/1A5sEJCvk=,my library,Local playlist more,local-library,1,Quicksand,GBUM71603786,13,21,female,9,20160425,20180916
+366,366,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,A0t3F/l/3A5UvyPnNQNkrwJuW4vH7f/ttZZ9ud7eWx8=,my library,Local playlist more,local-library,1,Cold Water,QMUY41600027,13,21,female,9,20160425,20180916
+367,367,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,VkILU0H1h3NMmk9MQrXouNudGk5n8Ls5cqRRuBxeTh4=,my library,Local playlist more,local-library,1,眼| 鼻| 口 (Eyes| Nose| Lips),TWA531400512,13,21,female,9,20160425,20180916
+368,368,mGRmAKp6luFlTzh/LOSiaResvIat12ErReDU7cGHV38=,D1yPhbS3FxT64wFGZXOcpbAOueAhQv169lg0HD78q6o=,my library,Local playlist more,local-playlist,1,天堂之後,TWK231407711,4,16,male,7,20161113,20170912
+369,369,0tKt//St06ZlgzbIaDrZXURXrTbsQ0V3PMm8jy67qVw=,KZ5hwP74wRO6kRapVIprwodtNdVD2EVD3hkZmmyXFPk=,discover,Discover Chart,online-playlist,1,Love Yourself,USUM71516761,1,0,,7,20111115,20170930
+370,370,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,bUPiv+zDZZuM0Ja4qoHw9e7EhNhby9j+M15N1tmoUY8=,my library,Local playlist more,local-library,1,雨中漫步,TWC010103640,14,24,male,9,20131228,20171029
+371,371,2XQPA+AZMulRgZ33ZH1w4GE6sKyssBCnkrTBnrwQV/I=,bG9ptdK+Pb7m4ozflF/RjUqbG/uo5ipgAo1ffT8mnfU=,my library,Local playlist more,local-playlist,1,你不是真正的快樂 (G.E.M.鄧紫棋),TWK231508806,13,16,female,3,20150501,20170923
+372,372,2XQPA+AZMulRgZ33ZH1w4GE6sKyssBCnkrTBnrwQV/I=,WL4ipO3Mx9pxd4FMs69ha6o9541+fLeOow67Qkrfnro=,my library,Local playlist more,local-playlist,1,夜空中最亮的星,HKI111600009,13,16,female,3,20150501,20170923
+373,373,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,+9cKsPJH9rOF2YYq76vT5uUYZ1GVIaaArYXnd0M1vPk=,my library,Local playlist more,local-library,1,When We Were Young,GBBKS1500217,13,21,female,9,20160425,20180916
+374,374,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,U0TDs2qg5AXXAV3tJ0ageVvOdCEZOILhp0lwmlOvfPc=,my library,Local playlist more,local-library,1,Only For Her,KRA251601807,13,21,female,9,20160425,20180916
+375,375,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,qUpTcTI2v+VuDkPY3ZXuJ1UHpniSACOiAmEDwF2rJ2A=,my library,Local playlist more,local-library,0,Tilted,FR6P11500950,13,21,female,9,20160425,20180916
+376,376,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,XUz4Z4wPPChz+OIwkwj7HJ8teIjW3rEMdEATM80rDxM=,my library,Local playlist more,local-library,1,Sorry,USUM71516760,13,21,female,9,20160425,20180916
+377,377,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,Dla931xrXcqK2tJPlhEOkoE9ewQVCLElV3eyP9YdZjw=,my library,Local playlist more,local-library,1,Bacon,USUM71602418,13,21,female,9,20160425,20180916
+378,378,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,DgVerPptwKjtmNUheQ/FN3wNWDbU9ZWjMWA8BI0eEGs=,my library,Local playlist more,local-library,1,未完不待續 (Not To Be Continued),TWP031600108,14,24,male,9,20131228,20171029
+379,379,2XQPA+AZMulRgZ33ZH1w4GE6sKyssBCnkrTBnrwQV/I=,bTlSHgnwaBMIKHseTFHanJ3Zr4x82ybrGkexpnxDhTY=,my library,Local playlist more,local-playlist,1,愛情教會我們的事 (What Love Has Taught Us),TWA471602008,13,16,female,3,20150501,20170923
+380,380,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,vFqdIOMZArcrRDXmvVRxEkAApbpcOrA2ngotwk5I05I=,my library,Local playlist more,local-library,1,遇見 (Encounter),TWA530355702,14,24,male,9,20131228,20171029
+381,381,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,Vla6ngHTZjRhkJB5k0kWs6EowfaJsyl3nOA1QVP0O98=,my library,Local playlist more,local-library,1,Only U,KRC211600007,13,21,female,9,20160425,20180916
+382,382,2XQPA+AZMulRgZ33ZH1w4GE6sKyssBCnkrTBnrwQV/I=,kFx6IW7O34CiWxdfV61/cIjZs57ZasQBPjJQSJk2pk0=,my library,Local playlist more,local-playlist,1,喜歡你,HKI111400029,13,16,female,3,20150501,20170923
+383,383,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,ngEvjedMDSk6+TCOX1gDsIlbRe8OpoCvDx8U1W4S3Wc=,my library,Local playlist more,local-library,1,Get High (Get High),TWA530671202,14,24,male,9,20131228,20171029
+384,384,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,zx4aCmk+b/uPmvESsG8ekvi7qWmifSPNMXg1i8wyG8Q=,my library,Local playlist more,local-library,1,寂寞無害 (Harmless Loneliness),TWA471603002,14,24,male,9,20131228,20171029
+385,385,2XQPA+AZMulRgZ33ZH1w4GE6sKyssBCnkrTBnrwQV/I=,oTGg75yjTAP0grXmGld3EUD0b/b9u7lW2JyUX/mBiXI=,my library,Local playlist more,local-playlist,1,我愛過你 (I Loved You),TWA471602011,13,16,female,3,20150501,20170923
+386,386,0tKt//St06ZlgzbIaDrZXURXrTbsQ0V3PMm8jy67qVw=,ux6db2W4f9nhapYVkSg81Uzhxnw0vf44cFWHSd2EuJo=,discover,Discover Chart,online-playlist,1,Don't Wanna Know,USUM71609975,1,0,,7,20111115,20170930
+387,387,mGRmAKp6luFlTzh/LOSiaResvIat12ErReDU7cGHV38=,HI7JQES1s2IXSrslLlAQ7CVgW8ov8OFKoABoUyZrN10=,my library,Local playlist more,local-playlist,1,我們的主場,TWK231407707,4,16,male,7,20161113,20170912
+388,388,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,VhjYjor/PN9DpNFCPx/7NVw0xyGPrkLH1nUDNvVc91U=,my library,Local playlist more,local-library,1,LOST CHILD,KRA380900707,13,21,female,9,20160425,20180916
+389,389,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,CutvaCB9vP/Ne7YKxxjpctgdIdVxaXeswuCq28030IE=,my library,Local playlist more,local-library,0,Meteorite,GBUM71603866,13,21,female,9,20160425,20180916
+390,390,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,z0iT0Kko6Bga/c57YgVR8w59M5kzQrWIbqRhvxTn/TM=,my library,Local playlist more,local-library,1,Ribbon,KRA391600031,13,21,female,9,20160425,20180916
+391,391,mGRmAKp6luFlTzh/LOSiaResvIat12ErReDU7cGHV38=,nm1dzRfsacRpCA61PN0mLJXk13mCAjij0jitcrV/rDc=,my library,Local playlist more,local-playlist,1,Miss Incredible,TWK231407710,4,16,male,7,20161113,20170912
+392,392,2XQPA+AZMulRgZ33ZH1w4GE6sKyssBCnkrTBnrwQV/I=,GkWQerdfaBuNhqBxdxZhvhJNIaDfakOEG6hsHMd0kBU=,my library,Local playlist more,local-playlist,1,不期而遇,TWUM71600052,13,16,female,3,20150501,20170923
+393,393,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,8OsXpp32oqorzAN4NNkVouaV0I81ddPLZ8DxMRAGJdQ=,my library,Local playlist more,local-library,1,說實話,TWUM71600004,14,24,male,9,20131228,20171029
+394,394,DIkkCsQiSIz/VINZSKvRW8kMYt8+0G2UR5a8eJYHC4E=,8PWJRFEDm23jpgwxHFkW6woatYWKFg3SoFsE/yBAvpg=,my library,Local playlist more,local-library,1,Battle Cry,USUM71406333,13,21,female,9,20160425,20180916
+395,395,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,jOpefqzIMnK/LfCVs6XMQvzkWbHe3yU/t+xfIQZaFuM=,my library,Local playlist more,local-library,1,如果再見 (If We Meet Again),TWA211630909,14,24,male,9,20131228,20171029
+396,396,wRKpx+fzd5Eb0c73MIooZzvPpdOyOnMg1hAKh5dohaw=,ql/TAR4g4O7w9xQUQvt259DeqUTyA4MWJmTYtDz3Ga8=,my library,Local playlist more,local-library,1,致愛 (Your Song),TWH771525006,14,24,male,9,20131228,20171029
+397,397,sLcnHzOjeViYF6Hddp2CoaG4Xul3MtCIUqubTmhV0do=,lV/CT1FpIFWTYktIQFzvYegydQe4QXNIUe8+BKysJaY=,my library,Local playlist more,local-library,1,忘了說愛你,TWD950838104,5,20,male,3,20120608,20180504
+398,398,f1jGwInPhwe0eevPLEE3Nv5QGCPiXoHBYcsyLKKCgpA=,PqajZNgpw0FinTElsZwM84RC93/d1TiCPzjhfk+Fm2I=,my library,Local playlist more,local-playlist,1,分開的學問,TWU711601568,5,0,,7,20110715,20170921
+399,399,AlZcgP55T9abwVPS9F7JVwdgsU02YjIPWqJ2cTINWsA=,HTu0yj2OGmSKPV6I6ktmb6DnmnZY8ZSFrrzNFR/MOfQ=,discover,Discover Chart,online-playlist,1,Perfect Strangers,GBUM71602437,5,36,female,3,20111216,20181013
+400,400,AlZcgP55T9abwVPS9F7JVwdgsU02YjIPWqJ2cTINWsA=,YJKHI4Asj1oM5vJftbISis2QYliVSExtWiWnwb7TOgo=,discover,Discover Chart,online-playlist,1,This Love,USJAY0300080,5,36,female,3,20111216,20181013
+401,401,3YP0jWMILsszO+UlJzGlCadbCIw1P3hIrYrDiatrJBo=,f63hfddZjOyVnUEmQ8oX4jvCbFNVuz6bnFhXCzAjoLM=,listen with,Others profile more,listen-with,0,First Love,TWD631416106,13,27,male,9,20121002,20180220
+402,402,3YP0jWMILsszO+UlJzGlCadbCIw1P3hIrYrDiatrJBo=,zcieWa7/2VeVp0m0fa95RI3i6FIfNTMzVvYXm3X64Y8=,listen with,Others profile more,listen-with,0,失憶的金魚,TWUM71400086,13,27,male,9,20121002,20180220
+403,403,3YP0jWMILsszO+UlJzGlCadbCIw1P3hIrYrDiatrJBo=,t3ksBFRE07SISiIdExxUx4yVVko9xKpvzgvQp61oqz8=,listen with,Others profile more,listen-with,0,風的心,TWA539091203,13,27,male,9,20121002,20180220
+404,404,AlZcgP55T9abwVPS9F7JVwdgsU02YjIPWqJ2cTINWsA=,IKMFuL0f5Y8c63Hg9BXkeNJjE0z8yf3gMt/tOxF4QNE=,discover,Online playlist more,online-playlist,1,Closer,USQX91601347,5,36,female,3,20111216,20181013
+405,405,AlZcgP55T9abwVPS9F7JVwdgsU02YjIPWqJ2cTINWsA=,NhQfOVnptpW5z5qsP/sN+hVS8TM2iYvdy/ZGVe7K+kM=,discover,Online playlist more,online-playlist,1,Black Beatles,USUM71603293,5,36,female,3,20111216,20181013
+406,406,AlZcgP55T9abwVPS9F7JVwdgsU02YjIPWqJ2cTINWsA=,XgLDH2I0dmKXQNQTMsNyGSy5oz+o6o6jPTqj0I8abFY=,discover,Discover Chart,online-playlist,1,Just Like Fire,USWD11676311,5,36,female,3,20111216,20181013
+407,407,3YP0jWMILsszO+UlJzGlCadbCIw1P3hIrYrDiatrJBo=,2Np8hSpSAsEZvbxzivPJFZ6e4iY7zzQpdvxcTUeoZc4=,listen with,Others profile more,listen-with,0,流星飛過,TWD631314103,13,27,male,9,20121002,20180220
+408,408,T2vwMT+2myYGcAJwZFO486TlTBoNit0yzuuuDZc6/Oo=,rbzg+BkkWJX9dEgPktWaoqYV7uc1rfC6Spz2hUwSJzI=,my library,Online playlist more,online-playlist,1,握不住的他 (The taste of love),TWB670601302,1,0,,7,20151226,20170924
+409,409,T2vwMT+2myYGcAJwZFO486TlTBoNit0yzuuuDZc6/Oo=,9qKbZF6dAv2n1hC3U8oMRveo6PPUlNC36lZ11FX7kGk=,my library,Online playlist more,online-playlist,1,藍色眼睛,TWA770400255,1,0,,7,20151226,20170924
+410,410,T2vwMT+2myYGcAJwZFO486TlTBoNit0yzuuuDZc6/Oo=,mVN3k8v2ztZBsdFmQhTYKSVxMufCgGXUuKaXvaGEuNg=,my library,Online playlist more,online-playlist,1,Dream,TWA770400220,1,0,,7,20151226,20170924
+411,411,T2vwMT+2myYGcAJwZFO486TlTBoNit0yzuuuDZc6/Oo=,recYJksos0I1cBzyUE+qafUN1Hlr4FepUkVb/YnTc0E=,my library,Online playlist more,online-playlist,1,夏天的風,TWA770500402,1,0,,7,20151226,20170924
+412,412,T2vwMT+2myYGcAJwZFO486TlTBoNit0yzuuuDZc6/Oo=,0FZAL+MNTfa8wwnWXJ9rLIhGW8NpVjpJ3UieSjcTG8U=,my library,Online playlist more,online-playlist,1,愛X無限大,TWA450688101,1,0,,7,20151226,20170924
+413,413,yp6A/uxyh/0D2+D177JVzWcruMfNzVr6l19bsssb3XY=,43Qm2YzsP99P5wm37B1JIhezUcQ/1CDjYlQx6rBbz2U=,discover,Online playlist more,online-playlist,1,後來的我們 (Here| After| Us),TWK231610206,6,29,female,3,20130402,20171008
+414,414,lygTHDabQgTxGB6WD7oNMt5STSSlT/GvuRivCs1+1cI=,IXP1a2o3NL8WU4WK1X0WJAKaSW+LgGRpPDn4Gt1HrV8=,discover,Online playlist more,online-playlist,1,在沒有你以後 (feat. 張智成) (Without You),TWA531657210,1,0,,7,20160202,20171001
+415,415,yp6A/uxyh/0D2+D177JVzWcruMfNzVr6l19bsssb3XY=,35dx60z4m4+Lg+qIS0l2A8vspbthqnpTylWUu51jW+4=,discover,Online playlist more,online-playlist,1,癡情玫瑰花,TWD971500033,6,29,female,3,20130402,20171008
+416,416,yp6A/uxyh/0D2+D177JVzWcruMfNzVr6l19bsssb3XY=,cy10N2j2sdY/X4BDUcMu2Iumfz7pV3tqE5iEaup2yGI=,discover,Online playlist more,online-playlist,1,派對動物 (Party Animal),TWK231680790,6,29,female,3,20130402,20171008
+417,417,lygTHDabQgTxGB6WD7oNMt5STSSlT/GvuRivCs1+1cI=,G/4+VCRLpfjQJ4SAwMDcf+W8PTw0eOBRgFvg4fHUOO8=,discover,Online playlist more,online-playlist,1,道聽塗說 (Remembering you),TWX351600001,1,0,,7,20160202,20171001
+418,418,lygTHDabQgTxGB6WD7oNMt5STSSlT/GvuRivCs1+1cI=,pHaz1pjrzfa+p9u7Ga2ngsEhHUyUgT1Npouo+nP6e8s=,discover,Online playlist more,online-playlist,1,原來我也可以幸福 (my happiness),TWBW51600302,1,0,,7,20160202,20171001
+419,419,yp6A/uxyh/0D2+D177JVzWcruMfNzVr6l19bsssb3XY=,X9POPzgG9wcthL9a9beND/+ByX3Aych0C/YEPMtT3OM=,discover,Discover Chart,online-playlist,1,島嶼天光,TWM671304801,6,29,female,3,20130402,20171008
+420,420,gvJ0N8gkqJwm4psewGcv/nwXEFe38jacQOz+oyzrmEQ=,PyOTkp+L3tTilhQHyrOxiIiGJAgdy1JVBjPMFaoFYzg=,discover,Online playlist more,song-based-playlist,1,用情,,1,0,,7,20130513,20171001
+421,421,gvJ0N8gkqJwm4psewGcv/nwXEFe38jacQOz+oyzrmEQ=,s/zHMxkHCPE2CMTx5sxYYblYiVansMvdLNBtv4kundA=,discover,Online playlist more,song-based-playlist,1,愛情爐丹,,1,0,,7,20130513,20171001
+422,422,gvJ0N8gkqJwm4psewGcv/nwXEFe38jacQOz+oyzrmEQ=,PSVOKA1j6g0GjRtI07DTdhgy1zSku1eOunNVLJPlgpo=,discover,Online playlist more,song-based-playlist,0,愛你的理由,TWW451103002,1,0,,7,20130513,20171001
+423,423,vGgTZY7wEn1vetPcIf5VmABrqpgamquSzJUSXO5Qqok=,PClw+kzBzD0bzc5b+ciisEx8yAF2KvVTFuOJalvR14g=,search,Online playlist more,online-playlist,1,不要亂說,HKI490651107,1,0,,7,20160825,20170930
+424,424,i20rf6mroP6vsce9ZWJzKI6tdQ3cwBJFkc90lys+W58=,NevP3UESU9O78jplmv9o5m9gN8ntZWXwD7l7VuIM4X8=,my library,My library,album,1,不再怕寂寞 (No longer alone),TWA211659301,1,0,,7,20140724,20170914
+425,425,i20rf6mroP6vsce9ZWJzKI6tdQ3cwBJFkc90lys+W58=,rwn4vuaBYGXrcj+ivp7R7LyW2TDUAp0jSRvrYH25V7g=,my library,My library,album,1,我的淚 (There are Tears),TWA211656001,1,0,,7,20140724,20170914
+426,426,i20rf6mroP6vsce9ZWJzKI6tdQ3cwBJFkc90lys+W58=,0mOLByjaqNUb9QsVFvMc437xnRc2ICEmTq73fC1PSYE=,my library,My library,album,1,粉筆和塗鴉 (Chalk N Doodle) - 衛視中文台戲劇 <長不大的爸爸>插曲,TWA211554101,1,0,,7,20140724,20170914
+427,427,i20rf6mroP6vsce9ZWJzKI6tdQ3cwBJFkc90lys+W58=,Bi1S7r/ax12McxMD8FEE+kivti0JFsCjSE4oo5uG6+0=,my library,My library,album,1,坦然 (What's past is past.),TWA211558101,1,0,,7,20140724,20170914
+428,428,vGgTZY7wEn1vetPcIf5VmABrqpgamquSzJUSXO5Qqok=,Rm/98auv0Zf4pj/FOzp8Ny8duHeOyTmkPenl1L5SMHY=,search,Online playlist more,online-playlist,1,Bad Boy,TWB519703506,1,0,,7,20160825,20170930
+429,429,J8aAM+sSMlwGR8bK52NvJh3oxgg0Ko9uwKdDXrAVzKM=,t4Vlf/YT6j2Uo5XfhKCrBEsYjlya5xW31NKgDSDhErU=,search,Artist more,top-hits-for-artist,1,每天都是生日 (Everyday iz my birthday),TWA451600302,13,25,female,9,20150519,20170918
+430,430,J8aAM+sSMlwGR8bK52NvJh3oxgg0Ko9uwKdDXrAVzKM=,dgM6R3JlD2el8SZlTWaALX1GCNWpX0uK5gx5JEUidQ4=,search,Artist more,top-hits-for-artist,0,Intro Sin city,TWA451600301,13,25,female,9,20150519,20170918
+431,431,J8aAM+sSMlwGR8bK52NvJh3oxgg0Ko9uwKdDXrAVzKM=,Huq3CYF/JwXf1wDXMOIXQ6cXfLzzwr9+7ePz69hzG1c=,search,Search,song,1,土豪情歌Hoya,TWA451600801,13,25,female,9,20150519,20170918
+432,432,vGgTZY7wEn1vetPcIf5VmABrqpgamquSzJUSXO5Qqok=,qn0H+OUWWuJ8MUFBklRcSeq2SijDEAHQbzW9Sdrdbho=,search,Album more,album,1,這樣你還要愛我嗎,TWU971402002,1,0,,7,20160825,20170930
+433,433,vGgTZY7wEn1vetPcIf5VmABrqpgamquSzJUSXO5Qqok=,Qy+gXpJ+XViWd3/wBKB6NMQJgiyfC2Db3eGBeo8Bq5s=,search,Album more,album,1,三月,TWU971402003,1,0,,7,20160825,20170930
+434,434,hfY5sJ1TRsEApk/J9YZBdJlyDa9b8k8W1DvfWwI0c7w=,9Qs49soqHubFbdMCrF/ktmC37eQqWqrUKcZ5uWfdcMA=,my library,My library,local-playlist,1,I Do,HKJ631602001,15,30,male,9,20150518,20181009
+435,435,hfY5sJ1TRsEApk/J9YZBdJlyDa9b8k8W1DvfWwI0c7w=,cy10N2j2sdY/X4BDUcMu2Iumfz7pV3tqE5iEaup2yGI=,my library,Local playlist more,local-playlist,1,派對動物 (Party Animal),TWK231680790,15,30,male,9,20150518,20181009
+436,436,hfY5sJ1TRsEApk/J9YZBdJlyDa9b8k8W1DvfWwI0c7w=,LBnwicJLcepb/l8c68qpMRJIaUcm1UvgtKEfQwITrpI=,my library,My library,local-playlist,1,勇敢 (Braveness),TWK231588891,15,30,male,9,20150518,20181009
+437,437,eSEKewUNs67gdwQSm721KUW8kNgMARhMbknE26jiT7c=,CXdtx7/QxePhjYwYFcXVv+lXjCDEGRJ9r/OC7IQXthw=,my library,Local playlist more,local-playlist,1,浪費,TWD951234104,1,0,female,7,20140915,20170815
+438,438,hfY5sJ1TRsEApk/J9YZBdJlyDa9b8k8W1DvfWwI0c7w=,ais8JywokK/9xknopESh6HsX4hOsVK1Fb1sDszIn15s=,my library,Local playlist more,local-playlist,1,無敵鐵金剛,TWK010800009,15,30,male,9,20150518,20181009
+439,439,hfY5sJ1TRsEApk/J9YZBdJlyDa9b8k8W1DvfWwI0c7w=,DVvcHp25ONgbRX0Uf64sXGcByNe4yGtJfrAT+UMHnC4=,my library,My library,local-playlist,1,別再為他流淚,TWK230901801,15,30,male,9,20150518,20181009
+440,440,eSEKewUNs67gdwQSm721KUW8kNgMARhMbknE26jiT7c=,22wN6a2Q/qVQosA8OBfVg6AbwvI2KJnZ35DXLqpLHJg=,my library,Local playlist more,local-playlist,1,愛_不需要理由 (LOVE_NO REASON),,1,0,female,7,20140915,20170815
+441,441,hfY5sJ1TRsEApk/J9YZBdJlyDa9b8k8W1DvfWwI0c7w=,KcQ4assZxaXsdizqxGjUSAY7CNc6+6hQzpVsjnWsShQ=,my library,My library,local-playlist,1,怎麼還不愛 (Why Not Love),TWA471505003,15,30,male,9,20150518,20181009
+442,442,OqnHbTtm5kM0q7b+e08J1O/vhiBvPvP8plh0rXiWy2M=,EL5DbsSvhAFtMBBoOjs4aipOjC3Xj4syX/l/wlK+kdM=,discover,Online playlist more,online-playlist,1,愛情廢柴,TWK971601310,5,32,female,3,20140711,20170730
+443,443,Uwq4w90xJTWBJk0+3VGcccFsr1htGRCgZZ1LhlJ3JYU=,d7LtyALDMDuIKf18CkEwIKSq2s3n9is80oVbOXY/1m0=,my library,Local playlist more,local-playlist,1,DONKEY BOOGIE DODO,JPPO01506784,5,38,male,9,20100527,20171006
+444,444,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,7eKGhG6Cojjjq+pgEe1knBgc1t6Ivl6Y/i4J+0Uydc8=,my library,Local playlist more,local-library,1,Rather Be (feat. Jess Glynne),GBAHS1300498,12,28,female,9,20080305,20180218
+445,445,OqnHbTtm5kM0q7b+e08J1O/vhiBvPvP8plh0rXiWy2M=,JA6C0GEK1sSCVbHyqtruH/ARD1NKolYrw7HXy6EVNAc=,discover,Online playlist more,online-playlist,1,愛不需要裝乖 (feat.王詩安) (Love Doesn't Need To Pretend),TWA531579711,5,32,female,3,20140711,20170730
+446,446,0WAzZU1GYCwgFJY+zjGFVauHgt4OlNb/TmuC5y+meWI=,+ns7TUfsDgumML8q2hVjpi+B3dDLB/YlrEDoLuSmlKI=,my library,Local playlist more,local-library,1,你眼中的我,TWA211328204,5,20,female,9,20090906,20181007
+447,447,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,X96NEF2NcG6gyKVF0+U3H98CgAlgecjthmaqQe0nLPE=,my library,Local playlist more,local-library,1,晴天,TWK970300503,12,28,female,9,20080305,20180218
+448,448,0WAzZU1GYCwgFJY+zjGFVauHgt4OlNb/TmuC5y+meWI=,Zhv2AmN0/TU8EInrrXnhVO4PDQ1Yiur1ds1+aR8dMow=,my library,Local playlist more,local-library,1,西界,TWB670704204,5,20,female,9,20090906,20181007
+449,449,0WAzZU1GYCwgFJY+zjGFVauHgt4OlNb/TmuC5y+meWI=,ZR8NR3x8/NWKIL6rZ4z/55yHN0x2CkfMCwDZadRuDVk=,my library,Local playlist more,local-library,1,拍檔 (Partners),TWA211650501,5,20,female,9,20090906,20181007
+450,450,OqnHbTtm5kM0q7b+e08J1O/vhiBvPvP8plh0rXiWy2M=,Ce8Mui+yVruumWy9pKMDfSRBFg1m93m/+XR8FHlktaE=,discover,Online playlist more,online-playlist,1,餘波盪漾 (When you are gone),TWD951643107,5,32,female,3,20140711,20170730
+451,451,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,hpGpQSdhVi3+st7q+ZbIhHTlerJ6hHGfh1wc8R8cDAA=,my library,Local playlist more,local-library,1,A Thousand Years,USAT21102141,12,28,female,9,20080305,20180218
+452,452,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,TCxX0RJ2+kfffVeGF3hkkCpH1/HE8xTLxa4AKjTxdxg=,my library,Local playlist more,local-library,1,給未來的自己,TWK230700907,12,28,female,9,20080305,20180218
+453,453,0WAzZU1GYCwgFJY+zjGFVauHgt4OlNb/TmuC5y+meWI=,n27WY2TklZbCCdC5YucOZCB2vJGFs9ea93IIXd6x1EY=,my library,Local playlist more,local-library,1,起飛,,5,20,female,9,20090906,20181007
+454,454,0WAzZU1GYCwgFJY+zjGFVauHgt4OlNb/TmuC5y+meWI=,k/2Kt3KSkuVIY30HleUNWgqVhmDXZxCCchX/Y7eBswc=,my library,Local playlist more,local-library,1,玩遊戲 (Play Games),TWA211630905,5,20,female,9,20090906,20181007
+455,455,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,vLpcngt9yjsufFpN3pYZw6gjRgfPOFfHrPzviFOLNfA=,my library,Local playlist more,local-library,1,浪費眼淚 (Wasted tears),TWD951548106,12,28,female,9,20080305,20180218
+456,456,Uwq4w90xJTWBJk0+3VGcccFsr1htGRCgZZ1LhlJ3JYU=,x0iMw0xgq1tn0Der7mqk2JVTsmDU9GoNphVKmMVx4MA=,my library,Local playlist more,local-playlist,1,Rain,JPVP01322912,5,38,male,9,20100527,20171006
+457,457,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,wRzX430pQiP26msWq0aRKX7wSzNdyKZRT/obMFyieKs=,my library,Local playlist more,local-library,1,Your Type,USUM71507029,12,28,female,9,20080305,20180218
+458,458,Uwq4w90xJTWBJk0+3VGcccFsr1htGRCgZZ1LhlJ3JYU=,/8k9VTJpgXeFB+huSIuhqIYVgVhwMFfrmxlM7l1NHW8=,my library,Local playlist more,local-playlist,1,Pictures,JPVP01002801,5,38,male,9,20100527,20171006
+459,459,YUp+WdysLxN/tub5lQ3wHIjDdrgK0eNtlJE6+c/fk2g=,NO3PiEzofJglKjD8+biTGWkEVRDfE799y8c9wQS1XWo=,my library,Local playlist more,local-library,1,I Really Like You,USUM71501431,12,28,female,9,20080305,20180218
+460,460,0WAzZU1GYCwgFJY+zjGFVauHgt4OlNb/TmuC5y+meWI=,6YoRwPzjCBSfyS7XcBlEH0IXl4UWSiLINWFneZT/vII=,my library,Local playlist more,local-library,1,一起,TWR031404010,5,20,female,9,20090906,20181007
+461,461,1zZ64TPZtxKtvThrf8f5qWM2MyvxfEiO3mg+anzM1EY=,TkagyGzNU1Oo9pLLhPGTUh9i2KGxUMFjsyGnizjnA3E=,my library,Local playlist more,local-library,1,Addicted,GBCTA0400276,6,0,,4,20160811,20180416
+462,462,1zZ64TPZtxKtvThrf8f5qWM2MyvxfEiO3mg+anzM1EY=,On5d3gifgPbAQBzoIMvpfvudWqYf0S5fUJhF3jTHBJc=,my library,Local playlist more,local-library,1,Where Is Your Heart,GBCTA0400232,6,0,,4,20160811,20180416
+463,463,1zZ64TPZtxKtvThrf8f5qWM2MyvxfEiO3mg+anzM1EY=,nSjipm9IDOVp3xBySoTctILRa/CYEVAwviNKm00GM1c=,my library,Local playlist more,local-library,1,Gone,GBCTA0400225,6,0,,4,20160811,20180416
+464,464,1zZ64TPZtxKtvThrf8f5qWM2MyvxfEiO3mg+anzM1EY=,GbjLgvO7whO0UJL86ylUnEZJdiivxleaZoFD0SOcer0=,my library,Local playlist more,local-library,1,Because Of You,GBCTA0400265,6,0,,4,20160811,20180416
+465,465,YndYaEfTBNF0UBc1TZuLJoW2MuhmdZvPYl4RNyoqB/E=,UrjG2oeycZsLgGRCk5Ei0Xi1GCRvNuHPuaNrC8Mphkc=,my library,Local playlist more,local-playlist,1,Love in Time,KRA301600385,13,24,female,3,20140916,20170917
+466,466,dipfW+612f/PTHaBITuRU5JNTYDiUQjMyFomaIGWW+o=,zrpibgya17Ts+MHFuwUDP7Kw3UvAWmT/XGBGTelfCYM=,my library,My library,local-library,1,I‘ve Been Thinking Of You,TWA531603318,1,0,,7,20161027,20170921
+467,467,vS7vlZZaTWja+r7uvVXbP7f7UCv6BDHYpadqHXbDDsA=,PeoNUlUkZ0RTu4zbYdO6HbRqG/m5qMBqavKRutEfEtw=,discover,Online playlist more,online-playlist,1,最佳的幸運 (Sung by CHEN(EXO)),KRA491401696,13,38,male,9,20051229,20171003
+468,468,dipfW+612f/PTHaBITuRU5JNTYDiUQjMyFomaIGWW+o=,PvLTaCIacL4PBi0BwrwW5uBBBQPnYCuv2uhm9siDPgo=,my library,My library,local-library,1,MY LOVE,TWA531603264,1,0,,7,20161027,20170921
+469,469,vS7vlZZaTWja+r7uvVXbP7f7UCv6BDHYpadqHXbDDsA=,V5vnSrmStEWpy2wuA/VqDbaSR99xnf6sQQapvSgysb4=,discover,Online playlist more,online-playlist,1,Beside me,KRA491600655,13,38,male,9,20051229,20171003
+470,470,vS7vlZZaTWja+r7uvVXbP7f7UCv6BDHYpadqHXbDDsA=,1LlvEAK/DD6jE+lmynOvX9jI6aZoK6wZON0zLBKWZhQ=,discover,Online playlist more,online-playlist,1,Up & Down,KRA031209577,13,38,male,9,20051229,20171003
+471,471,vS7vlZZaTWja+r7uvVXbP7f7UCv6BDHYpadqHXbDDsA=,y8JYlcylCZJH2konx5DZ1iuavc3vQGCJIUeKaE/vATA=,discover,Online playlist more,online-playlist,1,Dancing King,KRA301600327,13,38,male,9,20051229,20171003
+472,472,dipfW+612f/PTHaBITuRU5JNTYDiUQjMyFomaIGWW+o=,CuilZjItdfAOrrYbXSoRCZH5GnIrNR4SDfVtrIpQEHU=,my library,My library,local-library,1,My Love,TWA531603328,1,0,,7,20161027,20170921
+473,473,McgzlZxf9mobLlyQjOeXbxzPpEfZZNMD/0ryrPwo9dM=,8OsXpp32oqorzAN4NNkVouaV0I81ddPLZ8DxMRAGJdQ=,my library,Local playlist more,local-library,1,說實話,TWUM71600004,1,0,,7,20131025,20170930
+474,474,dipfW+612f/PTHaBITuRU5JNTYDiUQjMyFomaIGWW+o=,27vpOctGRDxfm4nJsYUfvNaoL8ayuXiYAYUH4H1mfJk=,my library,My library,local-library,1,Everytime - Chen (첸)| Punch (펀치,,1,0,,7,20161027,20170921
+475,475,vS7vlZZaTWja+r7uvVXbP7f7UCv6BDHYpadqHXbDDsA=,Hwwx0mwJkDhj8uf5e0h9IflR2SfkXgn/wpAIYprXars=,discover,Online playlist more,online-playlist,1,Please say something| even though it is a lie,KRA381601428,13,38,male,9,20051229,20171003
+476,476,SfgWjLb5ksgycGTQ+L5/77pZXQsWHmI+lSq35lqJYJU=,OiD1VHBxqXrBqGbq8sU60gOq2c2wB14KgbyZU+o23mQ=,my library,Local playlist more,local-playlist,0,Magic,GBAYE1400206,13,26,female,9,20090816,20180719
+477,477,SfgWjLb5ksgycGTQ+L5/77pZXQsWHmI+lSq35lqJYJU=,Yfr7uY0xe/pJRsMhyMncOxegdoOaL6Us/0eWWmzCCAo=,my library,Local playlist more,local-playlist,1,Fix You,GBAYE0500605,13,26,female,9,20090816,20180719
+478,478,SfgWjLb5ksgycGTQ+L5/77pZXQsWHmI+lSq35lqJYJU=,jceXeAoNeYd3hRvbWRdqCUinjutJgWRyvPezTymyvTc=,my library,Local playlist more,local-playlist,1,Hymn For The Weekend,GBAYE1500979,13,26,female,9,20090816,20180719
+479,479,76RVc5hiZd+dxDFZPo13w9Rc4cSGpQIcfFqBtiehMO8=,8OsXpp32oqorzAN4NNkVouaV0I81ddPLZ8DxMRAGJdQ=,discover,Online playlist more,song-based-playlist,1,說實話,TWUM71600004,1,0,,7,20151010,20170922
+480,480,76RVc5hiZd+dxDFZPo13w9Rc4cSGpQIcfFqBtiehMO8=,CRFt6mmm5tbkbrgzAPGM53NdhYPP7xRRX8bs64KpFO8=,discover,Online playlist more,song-based-playlist,1,愛你愛到變成一首歌,TWA451698806,1,0,,7,20151010,20170922
+481,481,76RVc5hiZd+dxDFZPo13w9Rc4cSGpQIcfFqBtiehMO8=,F48LS/DqAt1EnPHRezspUgYaZcmiOoyOD75UFpHenEE=,discover,Online playlist more,song-based-playlist,1,想回到那一天 (Back to the Day),TWA471602001,1,0,,7,20151010,20170922
+482,482,BgWbzaxryLGgIz7LF4Lg2Yr7RdxAkx8U0orM3R9nI+c=,ecY2Tb4ILEoX32uUNIk4dlGYwEq8Tuilcp34U1kvVyM=,my library,Local playlist more,local-library,1,非你莫屬,,10,0,,4,20160117,20170927
+483,483,BgWbzaxryLGgIz7LF4Lg2Yr7RdxAkx8U0orM3R9nI+c=,6sk8OUq+/N5iwsX+odibPMxV/ednByzqVInEj1SEVog=,my library,Local playlist more,local-library,1,專屬天使,,10,0,,4,20160117,20170927
+484,484,JlAyVduGnyqL/vR8uoNzbgEcODQrZfNFow6DQFwYixU=,93cspZ+4GfnifeyJkbNh83NbcNBh2V/x1zuxmuQ3p68=,my library,Local playlist more,local-library,0,Money For Nothing,GBF088500674,6,17,male,9,20160918,20171022
+485,485,BgWbzaxryLGgIz7LF4Lg2Yr7RdxAkx8U0orM3R9nI+c=,or8bLKNgYZJZB5b66vh9jQC8oQCxasGrL05rZVxMq70=,my library,Local playlist more,local-library,1,城裡的月光,,10,0,,4,20160117,20170927
+486,486,2XnXVMaNuF3dal5tnYhsKf8nLkStT7lv3+FabkHn+cg=,uzU6ntNZT60j0CqFNXTpF6Oo8W3w5UwU/ANEODidW04=,my library,Local playlist more,local-library,1,CHEER UP,US5TA1600021,22,28,female,3,20120723,20180304
+487,487,67srHylc0Cg0st01+Nn1ax8cIqIBPzEs8sWfskyc33g=,GQqErVwbH/YaifR6wl2S6prosRVHhwGO2/Aq5aIJLA8=,my library,Local playlist more,local-library,1,Demons (電影「跨越世紀的情書」預告曲、美國職棒大聯盟一週好球),USUM71201071,1,0,,7,20110407,20170910
+488,488,67srHylc0Cg0st01+Nn1ax8cIqIBPzEs8sWfskyc33g=,r5BnHxvuPlLjwr4MHf3dF3yUY+NVS6rHrkVG7wVZ1uE=,my library,Local playlist more,local-library,1,Love Me Like You Do,GBUM71406823,1,0,,7,20110407,20170910
+489,489,67srHylc0Cg0st01+Nn1ax8cIqIBPzEs8sWfskyc33g=,jRzcNOC0WGSfwQmr9ZP5mxiPYxAdkGrPFGc0GvS1dOs=,my library,Local playlist more,local-library,1,Flashlight (From Pitch Perfect 2),USUM71504653,1,0,,7,20110407,20170910
+490,490,67srHylc0Cg0st01+Nn1ax8cIqIBPzEs8sWfskyc33g=,d9Flpsyq/y8CR3F213pnXUkrfK1fMClvhYH37pFSc7s=,my library,Local playlist more,local-library,1,Hello,GBBKS1500214,1,0,,7,20110407,20170910
+491,491,IPctNXFZDMiWinj7Ag0GJTbIP9owKd5WaZ0tFb/STAs=,DEQhJpQFad8IXRU71BVOmbSkx9vmG+2pvC8wpQamniI=,my library,Local playlist more,local-playlist,1,Turn Around [5|4|3|2|1],USAT21002298,13,23,female,3,20120814,20171030
+492,492,IPctNXFZDMiWinj7Ag0GJTbIP9owKd5WaZ0tFb/STAs=,cLpXPLkgvZlNs+wbtHh2zFjvGMH61BU5fj79s+G2/PE=,my library,Local playlist more,local-playlist,1,I Knew You Were Trouble,USCJY1231039,13,23,female,3,20120814,20171030
+493,493,PTWuDw16MqVaurO7F5gOhVzKCN8Duh96+htZYEuys1k=,w+D8lp3jjUU9O7B6I+oWHcvyW3X3MayLXx3JucSPKas=,my library,Local playlist more,local-playlist,0,當店,,5,28,female,9,20060309,20170919
+494,494,IPctNXFZDMiWinj7Ag0GJTbIP9owKd5WaZ0tFb/STAs=,SHV52/0W8kZcf3uJZF9+ZP3S5vu2RO4WNGhZ8qQHulU=,my library,Local playlist more,local-playlist,1,再見 (Goodbye),HKI111500002,13,23,female,3,20120814,20171030
+495,495,PTWuDw16MqVaurO7F5gOhVzKCN8Duh96+htZYEuys1k=,80hnDqhSe9u2uIaLvDh1tCbwryzDrsf789zgDDF+k+s=,my library,Local playlist more,local-playlist,1,Work from Home,USSM11600251,5,28,female,9,20060309,20170919
+496,496,PTWuDw16MqVaurO7F5gOhVzKCN8Duh96+htZYEuys1k=,izWkEacMHX6lc+hEC3QnWwWd2LXiHZ9tacUNpfUz+aw=,my library,Local playlist more,local-playlist,1,大齡女子 (Darling),TWW851500003,5,28,female,9,20060309,20170919
+497,497,PTWuDw16MqVaurO7F5gOhVzKCN8Duh96+htZYEuys1k=,euRuXf+FKUosn295WoeqQbQJ4MQ7es1jJAQlmqZFA/I=,my library,Local playlist more,local-playlist,1,淘汰(國),HKUM70701241,5,28,female,9,20060309,20170919
+498,498,IPctNXFZDMiWinj7Ag0GJTbIP9owKd5WaZ0tFb/STAs=,pkKADcjPLFdP9kX40L8dlmbLWkgUTqUB0LhurVLSTME=,my library,Local playlist more,local-playlist,1,我的路,TWA451500403,13,23,female,3,20120814,20171030
+499,499,GhOMFq0TtoXFD8BXShUHSCRtt/ZRrBYd9ASvbpMS5D8=,4TkPrKyrxTD3tK/OHZqprZfvp5t/UcbG6pLkZIqYk9U=,my library,Local playlist more,local-library,1,茫茫到深更,,5,32,female,9,20090228,20170516
+500,500,GhOMFq0TtoXFD8BXShUHSCRtt/ZRrBYd9ASvbpMS5D8=,4MGpo8+gE2ywZQfmxIn9lFKEtJ2u7uVUUJPbpAZIqhE=,my library,Local playlist more,local-library,1,I Bet,USSM11500082,5,32,female,9,20090228,20170516
+501,501,GhOMFq0TtoXFD8BXShUHSCRtt/ZRrBYd9ASvbpMS5D8=,xsj0yMjUC4pvW9RNySQ6Ugd+r3JDho/f28596nODfm0=,my library,Local playlist more,local-library,1,未完成的愛情 (The Unfinished Love),TWQ371501002,5,32,female,9,20090228,20170516
+502,502,GhOMFq0TtoXFD8BXShUHSCRtt/ZRrBYd9ASvbpMS5D8=,mwiwQWvFYiw2+HWBVguYMQ28woZcDqudC1d9lRdAOKE=,my library,Local playlist more,local-library,1,練習,HKD450200002,5,32,female,9,20090228,20170516
+503,503,Dqh0zoxytLLbFt/7Q3QJ6Zb2g00D3PNh84PEWYENd2o=,wfSboJwFBF6YyVmGO0wCeRtMdrqwkOgwPHV+YmSUl5Y=,discover,Online playlist more,online-playlist,0,Can't Stop Loving You,TWD631656201,13,29,male,9,20041028,20170609
+504,504,Dqh0zoxytLLbFt/7Q3QJ6Zb2g00D3PNh84PEWYENd2o=,LBFRdBacp7Ob6Ada2N7uCQ47DhiNT2KjUtwOA7oSm7I=,discover,Online playlist more,online-playlist,0,迷些路 (Lost On The Way),TWA451601607,13,29,male,9,20041028,20170609
+505,505,Dqh0zoxytLLbFt/7Q3QJ6Zb2g00D3PNh84PEWYENd2o=,22wN6a2Q/qVQosA8OBfVg6AbwvI2KJnZ35DXLqpLHJg=,discover,Online playlist more,online-playlist,0,愛_不需要理由 (LOVE_NO REASON),,13,29,male,9,20041028,20170609
+506,506,Dqh0zoxytLLbFt/7Q3QJ6Zb2g00D3PNh84PEWYENd2o=,WDhQhhbq+bwhBY642Fx3e5eGBdvqzzXmwiouCaVI0R0=,discover,Online playlist more,online-playlist,1,單身剛好,TWCG31600001,13,29,male,9,20041028,20170609
+507,507,lc8/HRnjiaPsc/cZ6o6f6uKCAwn1opP43648Mx5dSe4=,XZeiB9lDrkOLhK8WMZeUko6ksnmRHZHhm+yJZycr7go=,my library,Local playlist more,local-playlist,0,鬧翻天,TWEM31211002,22,18,male,9,20141129,20170904
+508,508,lc8/HRnjiaPsc/cZ6o6f6uKCAwn1opP43648Mx5dSe4=,A7Z2nDVASy04EpmfzOL9PRMN3hFVbWQ7ah4J+o9sLnE=,my library,Local playlist more,local-playlist,0,下輩子,TWA451500406,22,18,male,9,20141129,20170904
+509,509,eUGlZhWLtMED/exwrjw2I4XuO/mS02zpS+aSyNSbDZc=,QZBm8SOwnEjNfCpgsKBBGPMGET6y6XaQgnJiirspW7I=,discover,Local playlist more,local-library,0,年輪說,TWUM71600042,4,19,male,3,20130806,20171001
+510,510,eUGlZhWLtMED/exwrjw2I4XuO/mS02zpS+aSyNSbDZc=,OaEbZ6TJ1NePtNUeEgWsvFLeopkSln9WQu8PBR5B3+A=,discover,Local playlist more,local-library,0,走著走著就散了,,4,19,male,3,20130806,20171001
+511,511,lc8/HRnjiaPsc/cZ6o6f6uKCAwn1opP43648Mx5dSe4=,JRa3KgSwWDyY17usXoi6jN8O6v6t6Tq4xcwjbUkbQFQ=,my library,Local playlist more,local-playlist,1,天真有邪,TWD951634102,22,18,male,9,20141129,20170904
+512,512,lc8/HRnjiaPsc/cZ6o6f6uKCAwn1opP43648Mx5dSe4=,jeCeSesL0aKukeCFFGt3nc1sdJ8NFGgLQhkQxIzxtXU=,my library,Local playlist more,local-playlist,0,I Found A Girl,GBUM71601402,22,18,male,9,20141129,20170904
+513,513,eUGlZhWLtMED/exwrjw2I4XuO/mS02zpS+aSyNSbDZc=,WL4ipO3Mx9pxd4FMs69ha6o9541+fLeOow67Qkrfnro=,discover,Local playlist more,local-library,0,夜空中最亮的星,HKI111600009,4,19,male,3,20130806,20171001
+514,514,lc8/HRnjiaPsc/cZ6o6f6uKCAwn1opP43648Mx5dSe4=,uBVNqsMG/EXKeLzF0P/wLWksVQupYVvsgC2Wg/FzW1I=,my library,Local playlist more,local-playlist,0,自然醒,TWD951134102,22,18,male,9,20141129,20170904
+515,515,eUGlZhWLtMED/exwrjw2I4XuO/mS02zpS+aSyNSbDZc=,cy10N2j2sdY/X4BDUcMu2Iumfz7pV3tqE5iEaup2yGI=,discover,Local playlist more,local-library,0,派對動物 (Party Animal),TWK231680790,4,19,male,3,20130806,20171001
+516,516,DjgdXpwfFsFu5gBTcg5ExL/XdyD66E1IiWtyPnyfdS0=,35dx60z4m4+Lg+qIS0l2A8vspbthqnpTylWUu51jW+4=,my library,Local playlist more,local-library,1,癡情玫瑰花,TWD971500033,1,0,,7,20161029,20170930
+517,517,u8KUUuPMyI9RrdmXqAWPxcCn3iZk1RSYQW0BGWe630g=,sCYBKfCWFAn+lgPlrmcWSl24bBFFV8pav1u3XTGLEQY=,my library,Local playlist more,local-playlist,1,愛*轉角,TWA770600604,13,21,female,4,20151009,20170929
+518,518,DjgdXpwfFsFu5gBTcg5ExL/XdyD66E1IiWtyPnyfdS0=,wBTWuHbjdjxnG1lQcbqnK4FddV24rUhuyrYLd9c/hmk=,my library,Local playlist more,local-library,1,小幸運 (A little happiness),TWD951562101,1,0,,7,20161029,20170930
+519,519,DjgdXpwfFsFu5gBTcg5ExL/XdyD66E1IiWtyPnyfdS0=,orFoUVVKXfPQcuMOJvj2XexoJt2BGs3oo+8xfxYuuuQ=,my library,Local playlist more,local-library,1,你惦我心內尚深的所在,TWA219505907,1,0,,7,20161029,20170930
+520,520,7j5cZDsLVpOoB/8C4G5UZuKW/0t2lsp/Hm/COahKVtg=,ES86JRfxcI9nxEfNv70Y772KQc9gxpykvAD7XRTsBgM=,my library,Local playlist more,local-library,1,Scream & Shout,USUM71215597,1,0,,7,20120112,20170930
+521,521,VvyhS0HkNHftI4FSO20YuhdYzj85pWdpeNRp+OILG6o=,YNS/NTBd/DKjo86SHYtxGGf+bJGCQ7yocr7w6MLseOA=,discover,Online playlist more,online-playlist,1,Always In My Heart,KRA301600379,13,23,female,3,20120731,20170911
+522,522,VvyhS0HkNHftI4FSO20YuhdYzj85pWdpeNRp+OILG6o=,4WcWa+COrBHOZQXfsJdeymAF7H0CbnfQexEQQIxRV8M=,discover,Online playlist more,online-playlist,1,Congratulations,US5TA1500073,13,23,female,3,20120731,20170911
+523,523,VvyhS0HkNHftI4FSO20YuhdYzj85pWdpeNRp+OILG6o=,WgDEBC9AFPXetaX7qiiNekPGc9905VKphpYq9fgf9PY=,discover,Online playlist more,online-playlist,1,이별밖에,KRA381500666,13,23,female,3,20120731,20170911
+524,524,7j5cZDsLVpOoB/8C4G5UZuKW/0t2lsp/Hm/COahKVtg=,GvqRskctTm1xASnnS3nfFsxMXttxgAWUKevvLISLPUU=,my library,Local playlist more,local-library,1,管你的擁抱 fyf,TWCC31600002,1,0,,7,20120112,20170930
+525,525,VvyhS0HkNHftI4FSO20YuhdYzj85pWdpeNRp+OILG6o=,Wp0WMe+Z8uXJAVL3nm0BLG+2HZnJbQ2zTgfViIYCGnk=,discover,Online playlist more,online-playlist,1,이 밤의 끝을 잡고 (LG유플러스 tv G 우퍼 광고 삽입곡),KRA381211014,13,23,female,3,20120731,20170911
+526,526,VvyhS0HkNHftI4FSO20YuhdYzj85pWdpeNRp+OILG6o=,SR2mHnmKXpzZbxz2MuqJr1UMXu7ZzFpjxQOvACMaEN8=,discover,Online playlist more,online-playlist,1,Bye Bye My Blue,US5TA1600031,13,23,female,3,20120731,20170911
+527,527,7j5cZDsLVpOoB/8C4G5UZuKW/0t2lsp/Hm/COahKVtg=,+Sm75wnBf/sjm/QMUAFx8N+Ae04kWCXGlgH50tTeM6c=,my library,Local playlist more,local-library,1,迷途羔羊,TWA451699902,1,0,,7,20120112,20170930
+528,528,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,+ChF0l3KHku79/g9kCPjueP4IdaJNTQC9QrbKRC/MDY=,my library,Local playlist more,local-playlist,1,超跑女神,TWK971101211,13,25,male,9,20100713,20170929
+529,529,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,8Kn45Wt6j2eOQSYFai72rdxvmy6rXFGXCcbi92hzOAY=,my library,Local playlist more,local-playlist,1,明明就,TWK971201104,13,25,male,9,20100713,20170929
+530,530,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,XFHLjDoaY6CXF/1nSvU9X45JQAV8YxFjBvb8awukj1k=,my library,Local playlist more,local-playlist,1,Ending,TWA470713025,13,25,male,9,20100713,20170929
+531,531,FUdHa9RThbbAQnakFlhj8dSHUzM7zQQo4KWwg+MSY38=,yVSAzLM7D6lisHNUJqpiIVx90mXrH9+Mj4YNKn1jV5c=,my library,Online playlist more,song,1,刻骨銘心,,6,0,female,3,20141011,20170412
+532,532,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,NAFUMoVn+KTJxhV52gzBUJEVTytwhwbt7kVG6dqxxGA=,my library,Local playlist more,local-playlist,1,公公偏頭痛,TWK971201103,13,25,male,9,20100713,20170929
+533,533,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,t6sDhQclu8ULvhj0gLsd/SX1DcUCf/ZoCZKd5gHER1M=,my library,Local playlist more,local-playlist,1,黃金甲,TWK970801401,13,25,male,9,20100713,20170929
+534,534,29vpTAD8xpmrhAcHbwxNfo8rjQ9Rjj+QbohWEqtgmZo=,z15ThxwV94qTlhoBUHOzovdwDtPvSqSmYNJE4DEcMLE=,my library,Local playlist more,local-playlist,1,信仰愛情,TWB510327403,13,32,female,9,20120905,20171004
+535,535,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,ruhsCpYkvesAW5GBiVkBZocnj6F9pPlLsqHpXSjw1OU=,my library,Local playlist more,local-playlist,1,浪漫手機,TWK970500909,13,25,male,9,20100713,20170929
+536,536,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,sIP39gcYi1ctJsaio2qtzAuUAFT543cLoOa0+A8uBmM=,my library,Local playlist more,local-playlist,1,對不起,TWK970100207,13,25,male,9,20100713,20170929
+537,537,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,B4zTMZ/an9RmxBJHxlP07ByYW45ycQGtqu6G89GNFM0=,my library,Local playlist more,local-playlist,1,星晴,TWK970000103,13,25,male,9,20100713,20170929
+538,538,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,SqcRdmD4vSuIqcWkzjC9OFqOleqw1vyFGT+lexoiQBM=,my library,Local playlist more,local-playlist,1,瓦解,TWK970400816,13,25,male,9,20100713,20170929
+539,539,uhovNdbWCJ9XX96mEEcSOX//np6kjxBILpotKtyNdY0=,XJaF98Gl+Z4LEozE3n4jkZ3BXLciupY9NiRSuTIA3XY=,my library,Local playlist more,local-playlist,1,世界未末日,TWK971101209,13,25,male,9,20100713,20170929
+540,540,KP9C2DhtapjZuDpH3VNvtKQlI3LraMhMnkHw470H7XE=,OU6HcDvcWRYABsVBVZwr1LBphbvVsaiJi4/0SpsS4jg=,my library,My library,local-library,1,偷客兄,TWA451407910,13,43,female,9,20151001,20170911
+541,541,2DU+vcUVAwQZ17mc6+uEf/HBFcHl094R2GKxNQO2BXo=,KTwCLWRbbJ5JQt1nYuMIrTG92i6mOIngZdWpSWypK2E=,my library,Local playlist more,local-library,1,小天使 (Little Angel),TWK231507904,13,28,male,9,20140602,20171003
+542,542,2DU+vcUVAwQZ17mc6+uEf/HBFcHl094R2GKxNQO2BXo=,aFsjlzVY9sOlp1418eeUh9agul7hyJSAk0BQPumiSjE=,my library,Local playlist more,local-library,1,Something - 【三立「軍官情人」片頭曲】,TWK231507902,13,28,male,9,20140602,20171003
+543,543,2DU+vcUVAwQZ17mc6+uEf/HBFcHl094R2GKxNQO2BXo=,EkQQds/JiNU5i9Omkpsuf15O5kq2mKGnPC8KnFIx+PM=,my library,Local playlist more,local-library,1,馬戲團公約,TWJ011000204,13,28,male,9,20140602,20171003
+544,544,2DU+vcUVAwQZ17mc6+uEf/HBFcHl094R2GKxNQO2BXo=,ETsX1Odk7IrxHYt5obhTqYfr7ViCe5Gir/dnfmspzos=,my library,Local playlist more,local-library,1,黑白畫映,TWA550417201,13,28,male,9,20140602,20171003
+545,545,XB1tdiedzUVsj1g8hhQvLWzaTHdI3GO5FcXB1UQcfYY=,qHD46j2HpNipwKHtoE0035AIr+FAdNYaSi1VNT3gACk=,discover,Discover Feature,online-playlist,1,Dangerously,USAT21502907,1,22,male,4,20161012,20170912
+546,546,XB1tdiedzUVsj1g8hhQvLWzaTHdI3GO5FcXB1UQcfYY=,WWgB6GYGuyplhfw51plAbvpnixjsFA3XKSyEuTN42Tk=,discover,Discover Feature,online-playlist,1,Love Story,KRA381602349,1,22,male,4,20161012,20170912
+547,547,ES/82LJNnZKcJl22u5AlSgau2y2snkNfq+ZOr8c3Onw=,Rerp71vL127G1162T5Bwgk3D6r/ZtiXDfWvYz+3ljhE=,my library,Local playlist more,local-library,1,女孩 (Girl),TWA211553801,1,0,,7,20130601,20171004
+548,548,ES/82LJNnZKcJl22u5AlSgau2y2snkNfq+ZOr8c3Onw=,fWtBf0GSJnwaWiNisVGnnZjFAT8vmZ8n1SB7FAIlmOQ=,my library,Local playlist more,local-library,1,可惜 (Sorry to Say Goodbye),TWA211551801,1,0,,7,20130601,20171004
+549,549,ES/82LJNnZKcJl22u5AlSgau2y2snkNfq+ZOr8c3Onw=,yI7FwZsDcamG2dF0zm6OgUJuXyeGFuupULxZpYeT1e8=,my library,Local playlist more,local-library,1,勢在必行,MYPN11100001,1,0,,7,20130601,20171004
+550,550,ES/82LJNnZKcJl22u5AlSgau2y2snkNfq+ZOr8c3Onw=,3UUIA0sZkQ+fdlfYACa2BuePGOyXuoaT+1lRWdMYsLI=,my library,Local playlist more,local-library,1,Change,KRA391000008,1,0,,7,20130601,20171004
+551,551,ES/82LJNnZKcJl22u5AlSgau2y2snkNfq+ZOr8c3Onw=,IgMar/mVrJQ+ODFPytDf7jwQMmR09+slyZUdVylRFLc=,my library,Local playlist more,local-library,1,關鍵詞 (The Key),TWA531576504,1,0,,7,20130601,20171004
+552,552,ES/82LJNnZKcJl22u5AlSgau2y2snkNfq+ZOr8c3Onw=,9VVPfRYJsuy+rNGpepSEBW1U0Try0BJuHTqCnU7clnE=,my library,Local playlist more,local-library,1,夢想藍圖,TWC611612002,1,0,,7,20130601,20171004
+553,553,m6TZlCWp0yhAB0fgK+mF1gxuF+Fs0VxGMgIN0SoSszw=,4HX63hBOASVq7jxkamlUivakdcRQPx5gFxtGST6PVEs=,my library,Local playlist more,local-playlist,0,A Thousand Years (feat. Steve Kazee),USAT21206055,1,0,,7,20111016,20171005
+554,554,PbzT+Wzg1okQLoXxYrbpoAYbJ7hwuRCrKpTJpIjrfWo=,34IXh04bdV42ClAF+3lHsAjNQEA9yljeyamS6+Wv1BQ=,my library,Local playlist more,local-playlist,1,Nandemonaiya,JPPO01618977,13,28,female,9,20150127,20171205
+555,555,PbzT+Wzg1okQLoXxYrbpoAYbJ7hwuRCrKpTJpIjrfWo=,vOZM+nsNJEf762lTbfBOLTASbidZsl39ou8OBo/Kwns=,my library,Local playlist more,local-playlist,1,在|也不見,TWUM71600011,13,28,female,9,20150127,20171205
+556,556,PbzT+Wzg1okQLoXxYrbpoAYbJ7hwuRCrKpTJpIjrfWo=,X96NEF2NcG6gyKVF0+U3H98CgAlgecjthmaqQe0nLPE=,my library,Local playlist more,local-playlist,1,晴天,TWK970300503,13,28,female,9,20150127,20171205
+557,557,m6TZlCWp0yhAB0fgK+mF1gxuF+Fs0VxGMgIN0SoSszw=,T+gG6igGOilMSihjbN3Pm3J1eG1mx2lUwxfrJlcMfhA=,my library,Local playlist more,local-playlist,1,Underneath the Tree (Cutmore Christmas Sleigh Ride Extended Mix),USRC11302311,1,0,,7,20111016,20171005
+558,558,m6TZlCWp0yhAB0fgK+mF1gxuF+Fs0VxGMgIN0SoSszw=,b3Jz9rP8mhgq3c9LJLIBtL51u3zFnkBReBzGlzh8qAE=,my library,Local playlist more,local-playlist,1,死定了,TWUM71000096,1,0,,7,20111016,20171005
+559,559,m6TZlCWp0yhAB0fgK+mF1gxuF+Fs0VxGMgIN0SoSszw=,Z4F2q1wLkrlom5Vs07/619ZlDIDeCanxKECzQ1Q10/s=,my library,Local playlist more,local-playlist,0,零,TWA470441001,1,0,,7,20111016,20171005
+560,560,95BHDR2KTXtd7/IOL/B0+rc2NnE2pa3bb4Hke7YMXKs=,wtMNd46151Y+GbErUPr0q02JjpDcgh9BpJdBDy/40vQ=,my library,Local playlist more,local-library,0,Unforgivable Sinner,NOAHV9818010,1,0,,7,20131221,20170930
+561,561,95BHDR2KTXtd7/IOL/B0+rc2NnE2pa3bb4Hke7YMXKs=,djVHL68Xk38E/ZbiuCMgb0nS1C1rzef5kenWQW+PNO0=,my library,Local playlist more,local-library,0,Everything's Good,NOAFC0900033,1,0,,7,20131221,20170930
+562,562,95BHDR2KTXtd7/IOL/B0+rc2NnE2pa3bb4Hke7YMXKs=,zn8g6/6CQ7MHdH7BLoPf2lndTbxiX/DqJX1GwknkMKM=,my library,Local playlist more,local-library,0,A Place Nearby,NOAHV9818110,1,0,,7,20131221,20170930
+563,563,gQvKOdJbOarixhDOwJA4TVGb7qYJg6aRrWyRUxwS5A0=,RWxmKLHRl5nTpVdHJl+Z6zQo9wQgFokm79louSZMAa8=,my library,Local playlist more,local-library,1,不想懂得,TWA210722802,1,0,,4,20151203,20170802
+564,564,95BHDR2KTXtd7/IOL/B0+rc2NnE2pa3bb4Hke7YMXKs=,YpDCELNmG5XdC+6F2Iae1WH88psV6o72Xe6r/ydgdFc=,my library,Local playlist more,local-library,0,My Lucky Day,NOAHV0503070,1,0,,7,20131221,20170930
+565,565,X4uyFRFm2fHVaeL+IBsXBgr4zJmFH7afpaW+BcIQ/3A=,r68WpYGT6DL3s4NTPB7bCFs5H/WJDpeR0927w4RGQY8=,my library,Local playlist more,local-playlist,1,夠了,TWUM71500056,13,34,male,9,20051204,20180226
+566,566,X4uyFRFm2fHVaeL+IBsXBgr4zJmFH7afpaW+BcIQ/3A=,alzJo5KYLWPNHAyvbv62h/JfCdfg02VVmFkefxiM2Ak=,my library,Local playlist more,local-playlist,1,全城熱愛 (Feel The Love),TWEM31202005,13,34,male,9,20051204,20180226
+567,567,X4uyFRFm2fHVaeL+IBsXBgr4zJmFH7afpaW+BcIQ/3A=,Rar9XxeqIaVghjLWy6Y+DC97seqp7WYrCOb9DvdAjJo=,my library,Local playlist more,local-playlist,1,獨一無二 (Only You),TWEM31101001,13,34,male,9,20051204,20180226
+568,568,vb2J2H2GlF6ensG79o/Gdnku4AqJ4OyBdvDzRrjgnd8=,hfti1LJ7dd/RDDROiwfIRqGqrAhARW5/YsWyTegHsWs=,my library,Local playlist more,local-library,1,醉醉醉,,13,25,female,9,20121121,20170815
+569,569,vb2J2H2GlF6ensG79o/Gdnku4AqJ4OyBdvDzRrjgnd8=,5Na+0mnyoKGSDym0Jsska0EC03l3MuidVov8e633SJM=,my library,Local playlist more,local-library,1,望天草,TWW451312001,13,25,female,9,20121121,20170815
+570,570,vb2J2H2GlF6ensG79o/Gdnku4AqJ4OyBdvDzRrjgnd8=,C358O42FZLMVUhVh6gP36J5uhP5PRlnBWjb/sftwdfY=,my library,Local playlist more,local-library,1,不甘妳哭,,13,25,female,9,20121121,20170815
+571,571,Ix1RlLsCGktMc8Q5oogErdJbfKL+HYj116+bYZ4qzMc=,Tx03INE7jKUjUxYCLsUDLYDBUea7pGt/3e+S1y7oJ3M=,my library,Local playlist more,local-library,0,愛久見人心,TWUM71200044,8,21,,3,20130722,20171006
+572,572,Ix1RlLsCGktMc8Q5oogErdJbfKL+HYj116+bYZ4qzMc=,f8AtQF3xk9xSt2l/wXzm3EjiNkXhkUug8QTPNCRURJM=,my library,Local playlist more,local-library,1,為愛啟程,TWA471302001,8,21,,3,20130722,20171006
+573,573,Ix1RlLsCGktMc8Q5oogErdJbfKL+HYj116+bYZ4qzMc=,ikMwb/NDfdL7ls8LlF1jNBmVFpMO2zf1731s93HBIiw=,my library,Local playlist more,local-library,0,GOOD BOY,TWA531401632,8,21,,3,20130722,20171006
+574,574,Ix1RlLsCGktMc8Q5oogErdJbfKL+HYj116+bYZ4qzMc=,tw4jwJZvZAOHwFxB6BTHLb/5CB5+iRXLCjSU2VC1Jy0=,my library,Local playlist more,local-library,1,一個人還是想著一個人,TWA211429513,8,21,,3,20130722,20171006
+575,575,Ix1RlLsCGktMc8Q5oogErdJbfKL+HYj116+bYZ4qzMc=,/MN1OBLj1L2uAn1qvDstccYPOq/GOFCfnQf3RF3p+xs=,my library,Local playlist more,local-library,0,Sunset Lovin',USWB11100001,8,21,,3,20130722,20171006
+576,576,/AWH/G5cbiSZGcSp9eYTX57JHSG19rCHqyYjj9BzHEM=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,discover,Online playlist more,online-playlist,1,告白氣球,TWK971601308,1,0,,7,20151230,20170930
+577,577,RkFU9AhiBPVEIgCOFs0YE2pfzkulYm0FiyHuAlo0jIw=,M2Wxd8DAeJjQZ8uoQOCkt5QTKMWUmVenuUQzu++sZhw=,my library,Local playlist more,local-playlist,1,天涯,TWA450063812,13,27,female,9,20130505,20171007
+578,578,RkFU9AhiBPVEIgCOFs0YE2pfzkulYm0FiyHuAlo0jIw=,Wyi6AJkhiv7+zJOApGf8F6u9rrtSfiMqbXSwQCQL45Y=,my library,Local playlist more,local-playlist,1,蝴蝶飛阿,TWA539118801,13,27,female,9,20130505,20171007
+579,579,RkFU9AhiBPVEIgCOFs0YE2pfzkulYm0FiyHuAlo0jIw=,vSienoHsurQ+h/33lcnBplK+zVESb/w6nNDhQopeAeU=,my library,Local playlist more,local-playlist,0,無字的情批,TWC319902101,13,27,female,9,20130505,20171007
+580,580,RkFU9AhiBPVEIgCOFs0YE2pfzkulYm0FiyHuAlo0jIw=,RnzkyAOyu1Ui1GgdJVQTF5bWWmQ0pb7UHt2pBFD7xTc=,my library,Local playlist more,local-playlist,1,愛相隨,TWB819547703,13,27,female,9,20130505,20171007
+581,581,Ne6ETpjA0NMFW6ZAZd5KYXHJrO8rCKE16arK/e1RdA8=,DWBkFM/9um2gkf+jl+UO6KhfKEaCqpapzAoH2FJMXzg=,my library,Local playlist more,local-playlist,0,再見只是陌生人,,12,27,male,4,20160227,20170810
+582,582,Ne6ETpjA0NMFW6ZAZd5KYXHJrO8rCKE16arK/e1RdA8=,PYqqjMx1UaTNZdEVuuWnStMnLfGzTXINiMsVKnGHXE0=,my library,Local playlist more,local-playlist,0,依賴,,12,27,male,4,20160227,20170810
+583,583,6XNzzi8wuyvsOJOK075FtInTPlgf1Rj8H/qBHkoTGFk=,pUaTmjnV7ap0ALKOL0rDq/hpDDwiCIPxjO43yULzCbE=,my library,Local playlist more,local-playlist,1,Love Story,USCJY0803275,1,0,,7,20110121,20170921
+584,584,tgZ23S9kfDbKRvRHCNOWozw1BAlDi7EIgvDVx91ZZb8=,cy+Bv/P1BHhyRl/Q7lNv8GmdzUF+9zfPLoK+Ywhqs4w=,my library,Local playlist more,local-playlist,1,Elevator,USUM70833848,22,47,female,9,20160603,20170910
+585,585,6XNzzi8wuyvsOJOK075FtInTPlgf1Rj8H/qBHkoTGFk=,oqDkfkSMTwT4XrsS4MS819TYaCLoXWH0/GUHmIiWw+4=,my library,Local playlist more,local-playlist,1,On My Mind,GBUM71505456,1,0,,7,20110121,20170921
+586,586,6XNzzi8wuyvsOJOK075FtInTPlgf1Rj8H/qBHkoTGFk=,0DreF36KSheHGXz0go/sKJlrn/7wOnt8pKoRDnABWwU=,my library,Local playlist more,local-playlist,1,Bitch I'm Madonna,USUG11500640,1,0,,7,20110121,20170921
+587,587,tgZ23S9kfDbKRvRHCNOWozw1BAlDi7EIgvDVx91ZZb8=,UR9X9q8dEwsxhjrwjVFG9dAV/8Y19iUt9oxN07dweHA=,my library,Local playlist more,local-playlist,1,Magic,USUM70832591,22,47,female,9,20160603,20170910
+588,588,tgZ23S9kfDbKRvRHCNOWozw1BAlDi7EIgvDVx91ZZb8=,otDuHPoCQE0HXiQ2zHsboUFFyiItsU+hJKP+Ew5QklI=,my library,Local playlist more,local-playlist,1,Halo,USUM70832596,22,47,female,9,20160603,20170910
+589,589,tgZ23S9kfDbKRvRHCNOWozw1BAlDi7EIgvDVx91ZZb8=,n0SNH4zQfW1BmsAIQcxk1BI2hh0en3KETncypyeWb9w=,my library,Local playlist more,local-playlist,1,In Person,USUM70832595,22,47,female,9,20160603,20170910
+590,590,6XNzzi8wuyvsOJOK075FtInTPlgf1Rj8H/qBHkoTGFk=,T5dxT7lByU2pGLBQtPTMtfSk2JOy1bvoVv5TO2l52Zc=,my library,Local playlist more,local-playlist,1,Bitch I'm Madonna,USUG11401961,1,0,,7,20110121,20170921
+591,591,I/7+xxfzq0QxusuZpOFnNMFcOCsyJJn4poN0BzviUxA=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,discover,Online playlist more,online-playlist,1,告白氣球,TWK971601308,5,31,female,9,20110817,20171228
+592,592,s9+y7EkVuB2A3Ej64HQWdO/xL2X2gkdnEEsff+JG8mA=,MWABo6OeSqc3stilsIyqU/c8texhFf8BfWGRMN5LUaI=,my library,Local playlist more,local-playlist,1,寂寞不痛,TWA771000966,10,20,male,9,20101201,20180101
+593,593,YN+zi4cXn8pNoA2qS0gtewM2bkFErdf8KDnqh47SBqQ=,c6qpXwh1DFB4QdmLWv4cle1/qYbVirqx2vYsx6INF98=,my library,Local playlist more,local-library,1,Bye| Autumn,KRE041600009,13,33,female,3,20150613,20180104
+594,594,I/7+xxfzq0QxusuZpOFnNMFcOCsyJJn4poN0BzviUxA=,PgRtmmESVNtWjoZHO5a1r21vIz9sVZmcJJpFCbRa1LI=,discover,Online playlist more,online-playlist,1,謝謝妳愛我 (Thanks For Your Love),TWA531657203,5,31,female,9,20110817,20171228
+595,595,s9+y7EkVuB2A3Ej64HQWdO/xL2X2gkdnEEsff+JG8mA=,DsE+Zy7Mkc36BvjADbo/SSEq+QjHmCamLpsWfwz8D9M=,my library,Local playlist more,local-playlist,1,今晚你想念的人是不是我,TWA770800785,10,20,male,9,20101201,20180101
+596,596,I/7+xxfzq0QxusuZpOFnNMFcOCsyJJn4poN0BzviUxA=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,discover,Online playlist more,online-playlist,1,帥到分手,TWAG11600306,5,31,female,9,20110817,20171228
+597,597,s9+y7EkVuB2A3Ej64HQWdO/xL2X2gkdnEEsff+JG8mA=,JiGo6kl0xYfh//ZUAKxFlz6I7aQLDDHpHx4z0nlZrRA=,my library,Local playlist more,local-playlist,1,現在我很幸福,TWA770900895,10,20,male,9,20101201,20180101
+598,598,aZEinvgRIyTBF2Ji8OXU4a3GR30jA9Nor0BhNAO7i9Y=,GUGXzDOOMx26SmdxoD3Jorynu8D5cDIVeCqDXd+qIbM=,my library,Local playlist more,local-library,1,於是 (Therefore),HKI111500008,13,31,male,9,20110205,20171031
+599,599,I/7+xxfzq0QxusuZpOFnNMFcOCsyJJn4poN0BzviUxA=,B4o9XjQJPJGGJr63sxzS4LUoQOrNhyVU1DersrYXRlI=,discover,Online playlist more,online-playlist,1,龍捲風,TWK970000109,5,31,female,9,20110817,20171228
+600,600,+6qXndZ2nMn0cyAWZlBfOBGVqolfO2CRo1MdVznK7Kg=,C1wkUNDZyNY1PRCzdvuidiZsLhpQ/mdWX5wRqbSw4bg=,discover,Unknown,online-playlist,0,玻璃心,TWP231610007,5,33,male,9,20071013,20170925
+601,601,+6qXndZ2nMn0cyAWZlBfOBGVqolfO2CRo1MdVznK7Kg=,lnBVfNxzRqamnDOhbAFbKSWTGxBdzKaUgbd5SyXOF04=,discover,Unknown,online-playlist,0,低頭士,CNZ501601361,5,33,male,9,20071013,20170925
+602,602,+6qXndZ2nMn0cyAWZlBfOBGVqolfO2CRo1MdVznK7Kg=,8tdlDacB0JZfSi9HDpOu17ZJfki4v+SUDJVUIK2nyq8=,discover,Unknown,online-playlist,0,勝戰 (Invincible),TWCC31600011,5,33,male,9,20071013,20170925
+603,603,+6qXndZ2nMn0cyAWZlBfOBGVqolfO2CRo1MdVznK7Kg=,r0L/P3z905IMYFiwrfhCWEi82VUCTONy0TLuu/Zg2qw=,discover,Unknown,online-playlist,0,長大以後的世界 (Grown Up),TWA531603411,5,33,male,9,20071013,20170925
+604,604,+6qXndZ2nMn0cyAWZlBfOBGVqolfO2CRo1MdVznK7Kg=,R7fpyAVdf4FVC3OwyetOYqV3krEkKcOgG4BM+pBWywM=,discover,Unknown,online-playlist,1,冥河戀曲 (Love Song Of Acheron),TWR011600003,5,33,male,9,20071013,20170925
+605,605,c1WMW2OPDC3J2WgRdTqGcQJTrFNXdFvIlRcDb5Zzt78=,HcwD31KDlwqYeayRViVRoXSL8KYqz+zRxaF2ZgucBWQ=,my library,Local playlist more,local-playlist,1,一天一萬年,TWB019900501,4,28,male,9,20061108,20171001
+606,606,c1WMW2OPDC3J2WgRdTqGcQJTrFNXdFvIlRcDb5Zzt78=,msJWKceAKkJe5FJDUUpnHBL8qS3QQUC2faxjiJrEw5w=,my library,Local playlist more,local-playlist,0,以後別做朋友 (Yi Hou Bie Zuo Peng You),TWA471410001,4,28,male,9,20061108,20171001
+607,607,4LnrtmXQgTPrxROhG3I5GjNMtWyDBy0gE0mNBgoy2KU=,9mg0Qx42oQr6juiWWIcDqD1qmvEP1xiq+fx+njGntFY=,my library,Search,top-hits-for-artist,1,Marry Me (Marry me),TWA531234203,1,0,,7,20151005,20171005
+608,608,z8f9Ms1BVEl08/nOmya8RYBhAzOUUrZR7yfuzupprzI=,yL8VeuH6lYFA4hYVGX/1HmPogBfp1Ex4ZkL5PjWy11k=,my library,Local playlist more,local-library,1,我不願讓你一個人【三立「真愛找麻煩」片尾曲】,TWK231105503,1,0,,7,20160808,20171007
+609,609,c1WMW2OPDC3J2WgRdTqGcQJTrFNXdFvIlRcDb5Zzt78=,vSl2z/FUQHcCiMLnZMI+oW1Kub/gb2t/POFvzKB5bdQ=,my library,Local playlist more,local-playlist,1,心理遊戲,HKA610401169,4,28,male,9,20061108,20171001
+610,610,z8f9Ms1BVEl08/nOmya8RYBhAzOUUrZR7yfuzupprzI=,eqxzfyc6kVOcYTDo7GCguRsfLEplxdlJ+umjJsB8gdY=,my library,Local playlist more,local-library,1,傷心的人別聽慢歌,TWK231388829,1,0,,7,20160808,20171007
+611,611,z8f9Ms1BVEl08/nOmya8RYBhAzOUUrZR7yfuzupprzI=,exnPQf5mg1YCfor3SirdYiBYr7tmLxGMhyk4FbQUcSs=,my library,Local playlist more,local-library,1,愛情掉在哪裡,TWF711100004,1,0,,7,20160808,20171007
+612,612,H+Hc7JBMzWDGAAtAswfYLjQXZHo6xH1TKOmLxbHRXzY=,5XYd9fBH+QSuXWHcPUlg9jcNReuOHoVvRezAfT8Ey+A=,discover,Album more,top-hits-for-artist,1,爆炸的沉默 (Silent Sigh),TWA531261805,5,19,male,3,20140304,20170927
+613,613,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,xmE1jxUTz7J/YWjEmx1dydmgTNbMViePu4xd2+yFeYo=,my library,Local playlist more,local-playlist,0,夜,,1,0,,7,20121016,20170927
+614,614,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,ACwvfhBbhoG4XSh7ktA0nczuNm6wUsI4V+ZUMO5Rccw=,my library,Local playlist more,local-playlist,0,一直想你到現在,,1,0,,7,20121016,20170927
+615,615,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,fzAbOnJzbfnm2kt9MPhIarI3vyIDD5FSg9Ut8NElJmM=,my library,Local playlist more,local-playlist,0,給不起,,1,0,,7,20121016,20170927
+616,616,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,BeOmV3rDwu8C6rKNDiRnrA634V5dI7Hr/HW2vfWtiZg=,my library,Local playlist more,local-playlist,0,夢裡的國度,,1,0,,7,20121016,20170927
+617,617,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,bDEhNi8VInbmOnjjdP29WyrynKNvBr8XiJqX4QmelE8=,my library,Local playlist more,local-playlist,0,悸動,,1,0,,7,20121016,20170927
+618,618,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,Ba6e7MWH4dCcFspCbvJYXcY0fKz15k2h+MAuHqMZ1gQ=,my library,Local playlist more,local-playlist,0,很難,,1,0,,7,20121016,20170927
+619,619,CKNsU+CMy98b/UCbaKmd/umIKv0xYcUzZCiVI7a4u70=,svYsOtaCIE1nDf6hfBxqjH/FyRquv/xcOFvpDJHNTT4=,my library,Local playlist more,local-playlist,0,殘愛,,1,0,,7,20121016,20170927
+620,620,Jhan0r76zXl0HlhwzVrW/afa18uFvIVcgAnO4284WQ8=,fCCmIa0Y5m+MCGbQga31MOLTIqi7ddgXvkjFPmfslGw=,discover,Online playlist more,online-playlist,1,默,TWUM71600075,13,33,male,7,20111006,20180625
+621,621,v9ZGgDqK05OPdRT1uHl7xARTOwsf+oshO07BgGSyUYI=,hlz/5+nA74POTo7nelAxmCKSy7TECOa+s9tI6S0fSAI=,my library,My library,local-playlist,1,Skit,TWA451407905,5,20,female,9,20131108,20170907
+622,622,v9ZGgDqK05OPdRT1uHl7xARTOwsf+oshO07BgGSyUYI=,eBK4htHNhQXsaARREBTWcXOg8Vf0q4Lgzg7VYyZlbuE=,my library,My library,local-playlist,1,我無法不愛你 (I Can't Stop Loving You),TWK231602701,5,20,female,9,20131108,20170907
+623,623,cvZEifS6nM7ysIr3G08qsbbv45732BqX/pcL0xBZnVM=,M9rAajz4dYuRhZ7jLvf9RRayVA3os61X/XXHEuW4giA=,discover,Discover Chart,online-playlist,1,不為誰而作的歌 (Twilight),TWA531576502,13,27,female,3,20150411,20170920
+624,624,v9ZGgDqK05OPdRT1uHl7xARTOwsf+oshO07BgGSyUYI=,EvM2QBlYdQ5x4yneGwfavgf91iJaxoC8vq+OzjL6I3I=,my library,My library,local-playlist,1,蘋果 (feat. 頑童MJ116瘦子) (The Apple),TWA531657211,5,20,female,9,20131108,20170907
+625,625,cvZEifS6nM7ysIr3G08qsbbv45732BqX/pcL0xBZnVM=,43Qm2YzsP99P5wm37B1JIhezUcQ/1CDjYlQx6rBbz2U=,discover,Discover Chart,online-playlist,1,後來的我們 (Here| After| Us),TWK231610206,13,27,female,3,20150411,20170920
+626,626,7dyBWPKeDD7KhOCfxKcqFPhXqc/0pjD2D57i4OwP13A=,atnzocVDpYFfqkT2Tw2vZOale78EgKxcptJTE3OinEU=,my library,Local playlist more,local-playlist,1,捨不得放手,TWA770800835,13,20,female,7,20140112,20171025
+627,627,cvZEifS6nM7ysIr3G08qsbbv45732BqX/pcL0xBZnVM=,L6w2d0w84FjTvFr+BhMfgu7dZAsGiOqUGmvvxIG3gvQ=,discover,Discover Chart,online-playlist,1,好好 (想把你寫成一首歌) (Song About You),TWK231610203,13,27,female,3,20150411,20170920
+628,628,7dyBWPKeDD7KhOCfxKcqFPhXqc/0pjD2D57i4OwP13A=,+0mTGQqRUruyn6ovws2qJ/PCpz+WlQ6QB8tc9psDuK4=,my library,Local playlist more,local-playlist,1,信徒,TWUM71000039,13,20,female,7,20140112,20171025
+629,629,cvZEifS6nM7ysIr3G08qsbbv45732BqX/pcL0xBZnVM=,750RprmFfLV0bymtDH88g24pLZGVi5VpBAI300P6UOA=,discover,Discover Chart,online-playlist,1,FLY OUT,TWA451512031,13,27,female,3,20150411,20170920
+630,630,v9ZGgDqK05OPdRT1uHl7xARTOwsf+oshO07BgGSyUYI=,gxI80ciKTxn7Jc6gd4li40Gy91GPDmrICPQZLhXJ6is=,my library,My library,local-playlist,1,COMING HOME,TWA451509301,5,20,female,9,20131108,20170907
+631,631,7dyBWPKeDD7KhOCfxKcqFPhXqc/0pjD2D57i4OwP13A=,TbeCGa+nSuT/jD6bBVSTQq3FblgaD8JETe8Q5e9PHjo=,my library,Local playlist more,local-playlist,1,熱戀過後,,13,20,female,7,20140112,20171025
+632,632,7dyBWPKeDD7KhOCfxKcqFPhXqc/0pjD2D57i4OwP13A=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,my library,Local playlist more,local-playlist,1,帥到分手,TWAG11600306,13,20,female,7,20140112,20171025
+633,633,sq1rBUYMnAEt+MFaKzxcfP5o9BKR2fxZ6zaklcBioag=,hgMLExJSCQQZmzVBvfykSaNMeXNxR1XST1WjE3AMvY4=,my library,Album more,album,0,Spirit On The Water,USSM10603293,1,0,,7,20160423,20170927
+634,634,sq1rBUYMnAEt+MFaKzxcfP5o9BKR2fxZ6zaklcBioag=,OwLpVQiYqsr9IsHGMycAEbK4nNWC12ypRcsfNfIibNk=,my library,Album more,album,0,Thunder On The Mountain,USSM10603292,1,0,,7,20160423,20170927
+635,635,06Usu1IGrq5bbigsH9NyhCc4/AYkTB0HmlnFevlkNvY=,TbrfWJpl81E4alsi2+b84oeUu+b5S/8n9yFlZDriNYs=,search,Album more,album,1,觀眾,TWUM71600048,1,0,,7,20110121,20170917
+636,636,BCFBeNgqfmrkB/aldv4158KSylOucH7qshgcNmskRWI=,o7Km/hfzlZjuxdqsrGntUZyK3J8+pZIzenMz87Pyi7k=,my library,Local playlist more,local-playlist,1,好難得【三立「螺絲小姐要出嫁」片尾曲】,TWK231204701,6,24,male,3,20130113,20170923
+637,637,BCFBeNgqfmrkB/aldv4158KSylOucH7qshgcNmskRWI=,I8YgOZBNzhBdPWWeWVwzNzLY062Sx4OdURipDMPyNEU=,search,Album more,album,0,一葉女人心,TWE871001710,6,24,male,3,20130113,20170923
+638,638,BCFBeNgqfmrkB/aldv4158KSylOucH7qshgcNmskRWI=,dTmGFQPXbldS5CYB5lkEG3U3iwi5q0GRWds8QoGQLx0=,my library,Local playlist more,local-playlist,1,離場,TWA531150008,6,24,male,3,20130113,20170923
+639,639,BCFBeNgqfmrkB/aldv4158KSylOucH7qshgcNmskRWI=,6e0TzT5gmNJFjg9ZssEqwoFWVQ/O2zqEjAj4O9H/nTE=,my library,Local playlist more,local-playlist,1,我愛他,TWK230902006,6,24,male,3,20130113,20170923
+640,640,BCFBeNgqfmrkB/aldv4158KSylOucH7qshgcNmskRWI=,3Zh3eLIFejnOt7nd4zLNrNu+WWp057ePIKynV8toVYU=,search,Album more,album,0,玉蘭花,TWE871001709,6,24,male,3,20130113,20170923
+641,641,5trnBBrd9r8rTznbzGyimfUlrT8mHshSW+jnZf7FA0g=,cnCxu9kpYYKnkYilnrEvqg6j8aCFm14Ggs6wXeHg0us=,my library,Local playlist more,local-playlist,1,多想把你抱住,,13,26,female,3,20150210,20171020
+642,642,5trnBBrd9r8rTznbzGyimfUlrT8mHshSW+jnZf7FA0g=,QJokcC8xqxYVMEZsjVO8f1D+MUoLZ1yE+yxmG2Olqjw=,my library,Local playlist more,local-playlist,1,淚在投降,,13,26,female,3,20150210,20171020
+643,643,5trnBBrd9r8rTznbzGyimfUlrT8mHshSW+jnZf7FA0g=,sQucaZer0lcM/NgcEQt+/cEU6OvDqs2G0wg89inatFw=,my library,Local playlist more,local-playlist,1,出局,,13,26,female,3,20150210,20171020
+644,644,20+tmfe7J2kBHi/yRCBJMeW05JaXSt7D106lPhibvng=,euRuXf+FKUosn295WoeqQbQJ4MQ7es1jJAQlmqZFA/I=,my library,Local playlist more,local-library,1,淘汰(國),HKUM70701241,14,28,male,9,20100219,20170907
+645,645,5trnBBrd9r8rTznbzGyimfUlrT8mHshSW+jnZf7FA0g=,PXSyqbwL5wCkG1hono8yuhmQHGPe0xOoUT+Agz9NOgY=,my library,Local playlist more,local-playlist,1,荒唐,TWA770700647,13,26,female,3,20150210,20171020
+646,646,20+tmfe7J2kBHi/yRCBJMeW05JaXSt7D106lPhibvng=,FynUyq0+drmIARmK1JZ/qcjNZ7DKkqTY6/0O0lTzNUI=,my library,Local playlist more,local-library,1,你，好不好？ (How Have You Been?),TWA471602002,14,28,male,9,20100219,20170907
+647,647,V9JvmQK2+Ca9ueGGfpY7GZFP7i/C2dh5/CpoMltEj1c=,kN7Xmt90evOnClvZwzJNh1Re4epH9e2l6w0dG43ltqs=,discover,Discover Feature,song-based-playlist,0,深海,TWA119811020,1,0,,3,20121031,20170914
+648,648,V9JvmQK2+Ca9ueGGfpY7GZFP7i/C2dh5/CpoMltEj1c=,SmOwdLWZzQCITBY6XBZHqHPYLQmTUemAtUXX7m/aSTs=,discover,Discover Feature,song-based-playlist,0,想念你的愛,TWA550018106,1,0,,3,20121031,20170914
+649,649,V9JvmQK2+Ca9ueGGfpY7GZFP7i/C2dh5/CpoMltEj1c=,Wni0QzbXIxft8ljiEwWCLDbmisyjBun8CxopkIwCZkc=,discover,Discover Feature,song-based-playlist,0,好久不見,TWA550817133,1,0,,3,20121031,20170914
+650,650,DZmCe26lz2DocDqco/zxBl7VSco2kgPstl/+8zZiWg8=,750RprmFfLV0bymtDH88g24pLZGVi5VpBAI300P6UOA=,discover,Online playlist more,online-playlist,1,FLY OUT,TWA451512031,12,37,female,9,20161111,20171223
+651,651,DZmCe26lz2DocDqco/zxBl7VSco2kgPstl/+8zZiWg8=,M9rAajz4dYuRhZ7jLvf9RRayVA3os61X/XXHEuW4giA=,discover,Online playlist more,online-playlist,1,不為誰而作的歌 (Twilight),TWA531576502,12,37,female,9,20161111,20171223
+652,652,DZmCe26lz2DocDqco/zxBl7VSco2kgPstl/+8zZiWg8=,L6w2d0w84FjTvFr+BhMfgu7dZAsGiOqUGmvvxIG3gvQ=,discover,Online playlist more,online-playlist,0,好好 (想把你寫成一首歌) (Song About You),TWK231610203,12,37,female,9,20161111,20171223
+653,653,1Gpomlljwhogv1K2O2qUdgZ5L43AyFswy9sau03mot8=,zx4aCmk+b/uPmvESsG8ekvi7qWmifSPNMXg1i8wyG8Q=,my library,Local playlist more,local-playlist,1,寂寞無害 (Harmless Loneliness),TWA471603002,4,0,,7,20130926,20180415
+654,654,Psr3n+f04B3X/6vMeIbYUN+P7lfAia7VGbnCLwh1z+8=,q5/Vwifgv0SGdEIyiMU2F0pIXkeCIW3w2xB8n4iMoS0=,discover,Online playlist more,online-playlist,0,打鐵,,5,30,male,3,20120823,20171102
+655,655,1Gpomlljwhogv1K2O2qUdgZ5L43AyFswy9sau03mot8=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,my library,Local playlist more,local-playlist,1,帥到分手,TWAG11600306,4,0,,7,20130926,20180415
+656,656,1Gpomlljwhogv1K2O2qUdgZ5L43AyFswy9sau03mot8=,IIPVkO6EB8ymcuxkuxkum1N5gowLdTzy9sYF9luyhVk=,my library,Local playlist more,local-playlist,1,別再撐了,TWR031603003,4,0,,7,20130926,20180415
+657,657,EUsflM6CowB2PHX8N8SGPZeq5v5oNBCyyiiGBAFgwK0=,txM7mqfsLDGfFgMkuf6qM2x3PBwEtQeGjaQ7Y39f9zQ=,my library,Local playlist more,local-playlist,1,練習愛情 (Newbie to Love),TWA531658604,4,30,female,9,20120521,20171024
+658,658,ubOFHoIfq8atrLy0FJd9vfZfFDlCSSb4Akcp1volsoc=,nW60n6qAGoytY/yX4w0r1IT462C9Xs/ZxbV6MLDSpUk=,my library,Local playlist more,local-library,1,倒流 (Revert),TWA451601501,5,23,male,9,20120824,20170708
+659,659,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,/gvnzSiCaJwNtSLDpPnErMb3aurM96mqvskvAw+9j+0=,my library,Local playlist more,local-library,1,拍拍手,SGA051000584,13,20,female,3,20140907,20161224
+660,660,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,cz7Rse219Uwt5wvuJzsQafe87WOWKXUDXl5HJKBIJoM=,discover,Search Trends,song,0,On What You're On,GBCRL1600227,13,20,female,3,20140907,20161224
+661,661,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,S27AQv2ynG2pmkZ+NpxlS/uJ1Zlyn4vfXDTgT0WbO1I=,my library,Local playlist more,local-library,1,I Am The Best,USUM71417913,13,20,female,3,20140907,20161224
+662,662,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,yfi0HOt67HnM5mwoHSfwuRKjt7Krl+Rqp48og5VRNvA=,discover,Search,online-playlist,1,藏不住,TWB671303304,13,20,female,3,20140907,20161224
+663,663,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,96/kcV3grOwsUat72s1DVKHYJBfA6fp1TPrP4NOhLSo=,discover,Search Trends,song,0,24K Magic,USAT21602944,13,20,female,3,20140907,20161224
+664,664,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,uEHWPi4v6lFsPyD8u0OVEwaa3h5/aJkFwc1+wTVT6bM=,my library,Local playlist more,local-library,1,Lotto,KRA301600281,13,20,female,3,20140907,20161224
+665,665,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,0yIDwOOSwKrYT5ps29AY4YZIK2oXh2nPSZztCYzdBkg=,discover,Search Trends,song,0,Find Me,GBSXS1600141,13,20,female,3,20140907,20161224
+666,666,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,OCYB2kdHPO+4ZuzcfvPkcag257inBOKcVVYXPygq3wQ=,discover,Search Trends,song,0,Not Alone,SE4OX1601401,13,20,female,3,20140907,20161224
+667,667,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,bwAytP5/Ft6o38lMaZ75TFIqzHNZbvZp2QR0M3Em5Vk=,discover,Online playlist more,top-hits-for-artist,1,射手,TWK231205802,13,20,female,3,20140907,20161224
+668,668,ubOFHoIfq8atrLy0FJd9vfZfFDlCSSb4Akcp1volsoc=,+bXHmkz7OOdkDZOl68QIZA2Xg98fD6bwS6vA+8Mk7oQ=,my library,Local playlist more,local-library,1,左耳 (Left Ear),TWBW51600301,5,23,male,9,20120824,20170708
+669,669,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,1XUHIQp5kDv53UD+PR0kJlVGKNjTFptK1TIMTNk/+u8=,discover,Search Trends,song,0,On Hold,UK7MC1600065,13,20,female,3,20140907,20161224
+670,670,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,ZWAXwT/78pcnHyuaEFXI/OCdozvbphhWV5uVx853gL4=,discover,Online playlist more,top-hits-for-artist,1,"我是誰我是誰我是誰【三立""偷心大聖PS男""主題曲】",TWK230902804,13,20,female,3,20140907,20161224
+671,671,tKUxFWozjhUQdeu9/sRrRESJUmmTYrOjNrvCnmaYV4Q=,qXn1zAbO9asajKxw1Bj48KpLapTVN3c1tLHkskw42vU=,discover,Search Trends,song,0,I Would Like,USSM11609249,13,20,female,3,20140907,20161224
+672,672,lUw6VAkG8CzVPdmIY4+JiMNp911Oon6TUxsXlgbwMzg=,z0OHcZ0m6SVjCvp2gpg19yH4UqH7mlUU0kU4oEng/ss=,radio,Radio,radio,1,孤夜花,,1,0,,7,20120118,20170930
+673,673,lUw6VAkG8CzVPdmIY4+JiMNp911Oon6TUxsXlgbwMzg=,u3d60xvx0by7NOV/UZfvuGALrC5qRIeL1U1jNcBh3FM=,radio,Radio,radio,1,鴛鴦路,,1,0,,7,20120118,20170930
+674,674,8VFcBp7oO5C2rXNQLZnByrOGHDy6ju1MrMM7G6xBcAI=,wSzDoYx37ySD3tRiQrOs17vjwi1KQj3TLtb3p6VY+2A=,my library,Local playlist more,local-library,1,人生的歌,TWE870505201,1,0,,7,20101006,20170617
+675,675,8VFcBp7oO5C2rXNQLZnByrOGHDy6ju1MrMM7G6xBcAI=,9+pCiOFvcQtM8rl9r/zWsslEFVfOjh4QLd47GlV+20c=,my library,Local playlist more,local-library,1,斷點(國),HKD550300003,1,0,,7,20101006,20170617
+676,676,8VFcBp7oO5C2rXNQLZnByrOGHDy6ju1MrMM7G6xBcAI=,8qWeDv6RTv+hYJxW94e7n6HBzHPGPEZW9FuGhj6pPhQ=,my library,Local playlist more,local-library,1,愛．這件事情,HKH621401001,1,0,,7,20101006,20170617
+677,677,8VFcBp7oO5C2rXNQLZnByrOGHDy6ju1MrMM7G6xBcAI=,gIgYlD/xBmv9JaNsuCvk/+7GuP9z3sCXE/3m8p7I/Gg=,my library,Local playlist more,local-library,1,放下| 旅行,TWD631416203,1,0,,7,20101006,20170617
+678,678,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,9Xxvd9J4SpEakcmoYTvt+ekTW15btrc+DKumBSTJZU0=,my library,Local playlist more,local-library,1,我懷念的,TWA270614010,1,0,,7,20151010,20170909
+679,679,4uA2l+1OJSS/KEV6nOeI2C0GdTQvVbTza5amApsXR1w=,Cn0bZxvDcrWSscZVy3prRPnznj4oRJZSAAfib6qAPgw=,discover,Discover Feature,song-based-playlist,1,鄉村小路 / 選自《心之谷》,,1,0,,7,20160825,20170930
+680,680,4uA2l+1OJSS/KEV6nOeI2C0GdTQvVbTza5amApsXR1w=,PRp/DkLOmgmn5UOOCx843Gp826dXlWbugxj9KzdtJxU=,discover,Discover Feature,song-based-playlist,1,龍貓,,1,0,,7,20160825,20170930
+681,681,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,ISh7TybSWXzmACbKkxfvYVtcjME3bvTiVmIEAzmb5b4=,my library,Local playlist more,local-library,1,Confident,USHR11536743,1,0,,7,20151010,20170909
+682,682,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,iHP7cU3meQzKDf0Km97nXLGaYJEcsIKwmRFut2P7LBg=,my library,Local playlist more,local-library,0,Rumour Has It,GBBKS1000349,1,0,,7,20151010,20170909
+683,683,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,jeGeUnEV/CiMZXQsCnkoJwl+a07lPBkZK4YoPpM2568=,my library,Local playlist more,local-library,1,So What,USLF20800067,1,0,,7,20151010,20170909
+684,684,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,V8Ntb18syKyR2zY13h6A5hOtwJpzAj0rUDxNCqmfymE=,my library,Local playlist more,local-library,1,Because We Can,USUM71215695,1,0,,7,20151010,20170909
+685,685,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,AqOH0NNMjTAvN1z+dp8cFHxJOtQG1rSzp1+BLZ4ToW0=,my library,Local playlist more,local-library,1,逆鱗,TWK970500910,1,0,,7,20151010,20170909
+686,686,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,lo5IUbupilSCoO94rxmnRNgymdOVczBex73hl/FZgOM=,my library,Local playlist more,local-library,0,四季列車,TWK971201101,1,0,,7,20151010,20170909
+687,687,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,Ynp4fD9cCBBjeEjx3rKEJ/jzlqrCny6Tk7RPI/8YSrQ=,my library,Local playlist more,local-library,0,一體兩面,TWK331001003,1,0,,7,20151010,20170909
+688,688,4uA2l+1OJSS/KEV6nOeI2C0GdTQvVbTza5amApsXR1w=,w6hS20nPMIlWDDwbnLJggo+7a9dDhXhr259gDRRcjBA=,discover,Discover Feature,song-based-playlist,1,無論如何,TWC011306771,1,0,,7,20160825,20170930
+689,689,eACI9mHcqfWFVsZl2yQfVO2WXfhC5DMRcGFHghcY15g=,CTwL9Gnx6QsaZ6+ygo/VHirN/XZKxlUJEB2VGQX8yjg=,my library,Local playlist more,local-library,1,稻香,TWK970801511,1,0,,7,20151010,20170909
+690,690,4uA2l+1OJSS/KEV6nOeI2C0GdTQvVbTza5amApsXR1w=,KVELHJKYcd+oJiaJrvqDW6AxNY1b2YuK45tsmnynHtI=,discover,Discover Feature,song-based-playlist,1,思念的季節,TWC010300340,1,0,,7,20160825,20170930
+691,691,XRUVBZRVajadrKUk3JAZL+MKe6gE/pX4vmFuIbaCHFs=,5Qh7YI03x2cbQFFv/e+faYhVpFAzjvnuE3YXkx2KgsQ=,my library,Local playlist more,local-playlist,1,我好想你 (I Miss You So),TWF671300206,4,47,male,9,20070716,20170916
+692,692,XRUVBZRVajadrKUk3JAZL+MKe6gE/pX4vmFuIbaCHFs=,bTlSHgnwaBMIKHseTFHanJ3Zr4x82ybrGkexpnxDhTY=,my library,Local playlist more,local-playlist,1,愛情教會我們的事 (What Love Has Taught Us),TWA471602008,4,47,male,9,20070716,20170916
+693,693,XRUVBZRVajadrKUk3JAZL+MKe6gE/pX4vmFuIbaCHFs=,oDG5WCyUlb9i/Sr34Fljeh0YsONZKxl+7jjUw27vm5U=,my library,Local playlist more,local-playlist,1,愛著愛著就永遠,TWD951343109,4,47,male,9,20070716,20170916
+694,694,XRUVBZRVajadrKUk3JAZL+MKe6gE/pX4vmFuIbaCHFs=,Qb5FwDIe7B8bUBwiEWNY6kZEJbU2jUOBad4YfyxdTyY=,my library,Local playlist more,local-playlist,1,終於說出口,TWA770700716,4,47,male,9,20070716,20170916
+695,695,FTLG/3qKMWA3grsNYM70g2NI4Psyy6gZNCpBXxVX4l8=,KcQ4assZxaXsdizqxGjUSAY7CNc6+6hQzpVsjnWsShQ=,my library,Local playlist more,local-library,1,怎麼還不愛 (Why Not Love),TWA471505003,1,0,,7,20161129,20170930
+696,696,FTLG/3qKMWA3grsNYM70g2NI4Psyy6gZNCpBXxVX4l8=,GfbL6W9yNBIxkV48djUFBx4M3LGuTrM5yF+dkdA7JpM=,my library,Local playlist more,local-library,1,Good Morning| Hard City,TWA451311151,1,0,,7,20161129,20170930
+697,697,FTLG/3qKMWA3grsNYM70g2NI4Psyy6gZNCpBXxVX4l8=,ayL6eLHKSrmX4smFi1KbGMYrWI9EwsiErGjWUJ9CTrQ=,my library,Local playlist more,local-library,1,江南,TWB670401206,1,0,,7,20161129,20170930
+698,698,AwFYE7hg/fL7SPF2TVxAaz5wfH2JxwCRm105Q5xZih0=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,discover,Online playlist more,online-playlist,1,告白氣球,TWK971601308,13,37,female,3,20121113,20171019
+699,699,MeQYd6QpYKY/3DIieIh1t47NLQdj0mS64u6TqHHdXo4=,1PR/lVwL4VeYcZjexwBJ2NOSTfgh8JoVxWCunnbJO/8=,my library,Local playlist more,local-playlist,1,也可以 (Might as well),TWD951564103,5,41,female,9,20130717,20171212
+700,700,MeQYd6QpYKY/3DIieIh1t47NLQdj0mS64u6TqHHdXo4=,Dh9QlpCW3TToGvERbPQXl/zxNFwt0MqH6CBn74kXf/A=,my library,Local playlist more,local-playlist,1,不可說,,5,41,female,9,20130717,20171212
+701,701,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,IKMFuL0f5Y8c63Hg9BXkeNJjE0z8yf3gMt/tOxF4QNE=,my library,Local playlist more,local-playlist,1,Closer,USQX91601347,5,19,male,3,20150124,20170910
+702,702,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,I7If8gLFTpWHYjc9m8InIsicqgl8SIb2FXLErhKF5Rw=,my library,Local playlist more,local-playlist,1,挑釁,TWA770400328,5,19,male,3,20150124,20170910
+703,703,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,6pe6XOKc+06NhkgrFitOb/EKMj910AlS34LdhP510LE=,my library,Local playlist more,local-library,1,Lean On (feat. MØ & DJ Snake),QMUY41500008,5,19,male,3,20150124,20170910
+704,704,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,2TBkc455ke5pJ4EfghgBp8pA2ykK03mikuTiVjO2Kyw=,my library,Local playlist more,local-playlist,1,旅行的意義,TWH630500001,5,19,male,3,20150124,20170910
+705,705,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,my library,Local playlist more,local-library,1,告白氣球,TWK971601308,5,19,male,3,20150124,20170910
+706,706,0NQzZtmKo5int1yahWXK4EiIGvj5ri/pSBbqhPnUZB0=,43Qm2YzsP99P5wm37B1JIhezUcQ/1CDjYlQx6rBbz2U=,discover,Online playlist more,online-playlist,1,後來的我們 (Here| After| Us),TWK231610206,13,44,female,9,20050629,20170921
+707,707,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,CJNwE4zpvse6RGOOpeJmnlgskyEHzYtvzjtBg8g1iVQ=,my library,Local playlist more,local-playlist,1,大城小愛,TWA470532006,5,19,male,3,20150124,20170910
+708,708,0NQzZtmKo5int1yahWXK4EiIGvj5ri/pSBbqhPnUZB0=,L6w2d0w84FjTvFr+BhMfgu7dZAsGiOqUGmvvxIG3gvQ=,discover,Online playlist more,online-playlist,1,好好 (想把你寫成一首歌) (Song About You),TWK231610203,13,44,female,9,20050629,20170921
+709,709,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,ugMqNL45FHkT+YlHpD18DSGoEYdvd4fdFRAYKYXdwe4=,my library,Local playlist more,local-playlist,1,雙棲動物,TWA530503501,5,19,male,3,20150124,20170910
+710,710,0NQzZtmKo5int1yahWXK4EiIGvj5ri/pSBbqhPnUZB0=,750RprmFfLV0bymtDH88g24pLZGVi5VpBAI300P6UOA=,discover,Online playlist more,online-playlist,1,FLY OUT,TWA451512031,13,44,female,9,20050629,20170921
+711,711,0NQzZtmKo5int1yahWXK4EiIGvj5ri/pSBbqhPnUZB0=,M9rAajz4dYuRhZ7jLvf9RRayVA3os61X/XXHEuW4giA=,discover,Online playlist more,online-playlist,1,不為誰而作的歌 (Twilight),TWA531576502,13,44,female,9,20050629,20170921
+712,712,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,V/nHP+8XF6izpA4XEYCeHz93ADylQdjdellpOxmZa1Y=,my library,Local playlist more,local-library,1,出賣,TWC270004071,5,19,male,3,20150124,20170910
+713,713,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,4hXkPode0MMcyvFS7F5H5VIZ72M17geQQg5g1/5Lr2Y=,my library,Local playlist more,local-playlist,1,屋頂 (Wu Ding),TWC239980303,5,19,male,3,20150124,20170910
+714,714,kh79ZF0a1CQSXch8gOazC5EbKxsbGg2o7wOabckp5X0=,4v26O4A8AKu3NH132FO28/88IG8DwWT15vskmyV+UNo=,my library,Local playlist more,local-playlist,1,再見王子,TWJ011000207,5,19,male,3,20150124,20170910
+715,715,cC5D8F32roVNnJduZSaMNGnsFBbdYcVGUXhhaYzD88k=,ISKqodEr2MGHb62QcOcrG8Td3z8TBEyFacPMsRGBaBU=,my library,Local playlist more,local-playlist,1,請你給我好一點的情敵,TWD951143104,5,47,female,7,20110623,20170922
+716,716,cC5D8F32roVNnJduZSaMNGnsFBbdYcVGUXhhaYzD88k=,Ce8Mui+yVruumWy9pKMDfSRBFg1m93m/+XR8FHlktaE=,my library,Local playlist more,local-playlist,1,餘波盪漾 (When you are gone),TWD951643107,5,47,female,7,20110623,20170922
+717,717,cC5D8F32roVNnJduZSaMNGnsFBbdYcVGUXhhaYzD88k=,pXb7AaQ9M8UlIndU+27WzmeD0cqJ3IbyoO/EDEgwV6Y=,my library,Local playlist more,local-playlist,1,矛盾,TWD951343102,5,47,female,7,20110623,20170922
+718,718,/Fc3ie2wEpNMw2PWmVhZ7Olh6tE5KMYburGooIpXY/Q=,PW0IQ16B3JQHFZvmZ1JHr7WOZV5QF9cJdHkQRbDDlhU=,my library,Album more,album,0,如果的事,TWA210520406,5,28,female,9,20101115,20180220
+719,719,u+tYXaNX4Uue6YSbP/fSNjeoWd29MKeIBIsp0zD/hBU=,9tNXaK/yKJfTcoWLRFw6HXplizDxq4bFvzs3scmesCU=,discover,Online playlist more,online-playlist,1,聽見下雨的聲音,TWK971401112,1,0,,7,20150627,20170114
+720,720,/Fc3ie2wEpNMw2PWmVhZ7Olh6tE5KMYburGooIpXY/Q=,9jVbW82boCXh6r+yHNHQ51LeOp9CmLjmFvdvN/yeb58=,my library,Artist more,top-hits-for-artist,0,鬼迷心竅,TWK950700006,5,28,female,9,20101115,20180220
+721,721,/Fc3ie2wEpNMw2PWmVhZ7Olh6tE5KMYburGooIpXY/Q=,6LdT9BiGIlQ3rJped7PACqnrzstFXz8dXD6MmmsA8uI=,my library,Local playlist more,local-playlist,1,愛情轉移(國),HKUM70600455,5,28,female,9,20101115,20180220
+722,722,/Fc3ie2wEpNMw2PWmVhZ7Olh6tE5KMYburGooIpXY/Q=,6e0TzT5gmNJFjg9ZssEqwoFWVQ/O2zqEjAj4O9H/nTE=,my library,Local playlist more,local-playlist,1,我愛他,TWK230902006,5,28,female,9,20101115,20180220
+723,723,/Fc3ie2wEpNMw2PWmVhZ7Olh6tE5KMYburGooIpXY/Q=,B4zTMZ/an9RmxBJHxlP07ByYW45ycQGtqu6G89GNFM0=,my library,Local playlist more,local-playlist,1,星晴,TWK970000103,5,28,female,9,20101115,20180220
+724,724,u+tYXaNX4Uue6YSbP/fSNjeoWd29MKeIBIsp0zD/hBU=,n+pMhj/jpCnpiUcSDl4k3i9FJODDddEXmpE48/HczTI=,discover,Online playlist more,online-playlist,1,修煉愛情 (Practice Love),TWA531398017,1,0,,7,20150627,20170114
+725,725,u+tYXaNX4Uue6YSbP/fSNjeoWd29MKeIBIsp0zD/hBU=,TVtxD8qAAl8KeA5CU+1c4Pg6+/PR3vK2vYMnY/eSGho=,discover,Online playlist more,online-playlist,1,Love More - 三立、東森偶像劇<料理高校生>插曲,TWD631517901,1,0,,7,20150627,20170114
+726,726,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,XgLDH2I0dmKXQNQTMsNyGSy5oz+o6o6jPTqj0I8abFY=,my library,Local playlist more,local-library,1,Just Like Fire,USWD11676311,13,39,female,9,20050928,20171010
+727,727,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,1UHqpOyecqH+8NytyogNdQz/2zUDpmHzUF5lgH1gvyw=,my library,Local playlist more,local-library,1,7 Years,USWB11506516,13,39,female,9,20050928,20171010
+728,728,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,h45pWoMzCvsq3e3rBIuHggNB/3NG06/SIVDPEPOF1Gc=,my library,Local playlist more,local-library,1,One Call Away,USAT21502703,13,39,female,9,20050928,20171010
+729,729,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,IKMFuL0f5Y8c63Hg9BXkeNJjE0z8yf3gMt/tOxF4QNE=,my library,Local playlist more,local-library,1,Closer,USQX91601347,13,39,female,9,20050928,20171010
+730,730,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,jceXeAoNeYd3hRvbWRdqCUinjutJgWRyvPezTymyvTc=,my library,Local playlist more,local-library,1,Hymn For The Weekend,GBAYE1500979,13,39,female,9,20050928,20171010
+731,731,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,6BiJwZfGzdhuF7aq5MqoDqS5DZTIjyTYQowCoMROhkY=,my library,Local playlist more,local-library,1,Man,GB7QY1500549,13,39,female,9,20050928,20171010
+732,732,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,r5BnHxvuPlLjwr4MHf3dF3yUY+NVS6rHrkVG7wVZ1uE=,my library,Local playlist more,local-library,1,Love Me Like You Do,GBUM71406823,13,39,female,9,20050928,20171010
+733,733,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,+YNQugtm4ddYzAu5wmFYhndbUt5YBt958WB8IPOqJWQ=,my library,Local playlist more,local-library,1,Kiss It Better,QM5FT1600115,13,39,female,9,20050928,20171010
+734,734,18nMxhvt9/B6kHGJdOp0AShmZ8s459FTxGL7BEq6niQ=,yJ6MlHd4NkxF+YN1BiUY+8JQ6+hFRdOmjrMtjHJkdik=,my library,Local playlist more,local-library,1,See You Again,USAT21503426,13,39,female,9,20050928,20171010
+735,735,97R1eBaXrl9BXQjBltKqwqO1nktIWBGbPtVPe4XukPk=,0Bmc8rYyTZ3Nxr4Xh62Qwe2pwKu/NsGHuWC7qCKPM7U=,my library,Local playlist more,local-playlist,1,你記得嗎,CNF280336804,4,26,female,9,20140308,20170908
+736,736,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,CJNwE4zpvse6RGOOpeJmnlgskyEHzYtvzjtBg8g1iVQ=,my library,Local playlist more,local-library,1,大城小愛,TWA470532006,1,0,,7,20120118,20170913
+737,737,BuP5Rl+u2RNVOpnTku+azL9vcC/Wf9RI59vv2jO1yhg=,Frmk11gW4MCBMFI29JvP2E+gAQBzSUKvSuePz9ZYlnc=,my library,Local playlist more,local-library,1,陀飛輪,HKUM71000251,13,29,female,3,20111228,20170908
+738,738,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,BUrJV50UiGcqAIHHLSEk8oLc3rdlejQZLmOIBes3fWo=,my library,Local playlist more,local-library,1,手紙 ~拜啟 給十五歲的你~,JPES00801701,1,0,,7,20120118,20170913
+739,739,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,0PSoBhrpfwF09qQKvTiItwZNPjOuyL0uoTazKevG8ls=,my library,Local playlist more,local-library,1,11:11,KRA301600372,1,0,,7,20120118,20170913
+740,740,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,9W/H8tPBKQ7VWmBctuQ6RabciYdr1l+/kg1YPDcPOlU=,my library,Local playlist more,local-library,1,以後別做朋友 (The Distance of Love),TWA471410001,1,0,,7,20120118,20170913
+741,741,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,ys+EL8Sok4HC4i7sDY0+slDNGVZ8+uOQi6TQ6g8VSF4=,my library,Local playlist more,local-library,1,Sugar,USUM71410466,1,0,,7,20120118,20170913
+742,742,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,W1N8VUwrcZIeCa3epbTabWj5Grnks8Xh4IgAPMfsr2A=,my library,Local playlist more,local-library,1,Drag Me Down,GBHMU1500070,1,0,,7,20120118,20170913
+743,743,BuP5Rl+u2RNVOpnTku+azL9vcC/Wf9RI59vv2jO1yhg=,M4TGJvGh50Rp07mYNcogSoGFWZf+f1Lfp4wgukK9Idc=,my library,Local playlist more,local-library,1,渴了 (Parched),TWEM31104009,13,29,female,3,20111228,20170908
+744,744,97R1eBaXrl9BXQjBltKqwqO1nktIWBGbPtVPe4XukPk=,2u1LmTZNIr973Ho/pg1QDPMZ+1fGUMYEHt6tQoEblLQ=,my library,Local playlist more,local-playlist,1,Our Own House,USUM71500009,4,26,female,9,20140308,20170908
+745,745,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,eptKomAHV9bODTM02M5r8QFy7E4j7Po8iNdOusGdvBA=,my library,Local playlist more,local-library,1,Eikou No Kakehashi,JPTF00405601,1,0,,7,20120118,20170913
+746,746,BuP5Rl+u2RNVOpnTku+azL9vcC/Wf9RI59vv2jO1yhg=,WsVr4mozaIQq9Tp8Ks0Iir3HIFTQQSpEDO1AmUIzdsc=,my library,Local playlist more,local-library,1,傻子,TWD951249101,13,29,female,3,20111228,20170908
+747,747,BuP5Rl+u2RNVOpnTku+azL9vcC/Wf9RI59vv2jO1yhg=,TpIkh0I1W9XFt6G6sfxDFqxdYFGTfGsC6FdqnhIMxk0=,my library,Local playlist more,local-library,1,感同身受,TWD950934111,13,29,female,3,20111228,20170908
+748,748,z0nnKNiQcQp96WnNaJi4CETg3lGKVCd/8EgrGc2jt44=,750RprmFfLV0bymtDH88g24pLZGVi5VpBAI300P6UOA=,my library,Local playlist more,local-library,1,FLY OUT,TWA451512031,1,0,,7,20120118,20170913
+749,749,oyi6tPM76dYEZPB7S7Y1GCaCOucsrapH2dTV5XJls1Q=,Mi3A5I6WtuJLIrxsqBRX2QC1hJKkqVLFpn5Ob4H8CHk=,my library,Local playlist more,local-library,1,Say Yeah,TWW171200002,4,24,female,9,20100815,20170911
+750,750,n+f0bRfah4zmn4c+ek4wWGoTmwW78SUpi3qk1MoN29U=,rwn4vuaBYGXrcj+ivp7R7LyW2TDUAp0jSRvrYH25V7g=,discover,Online playlist more,song-based-playlist,0,我的淚 (There are Tears),TWA211656001,1,0,,7,20150905,20170904
+751,751,n+f0bRfah4zmn4c+ek4wWGoTmwW78SUpi3qk1MoN29U=,hD2Bh3n6AXLWYu5ECsB6uBYuVDnXuvtvSwyzbWy+/R4=,discover,Online playlist more,song-based-playlist,0,跳到太陽升起來 (Just Dance),CNA231601691,1,0,,7,20150905,20170904
+752,752,n+f0bRfah4zmn4c+ek4wWGoTmwW78SUpi3qk1MoN29U=,sfGcL7bjY383quF2smko+R1pGTha4eqmq69DdfG8kiw=,discover,Online playlist more,song-based-playlist,0,Kiss Me,TWR031603007,1,0,,7,20150905,20170904
+753,753,n+f0bRfah4zmn4c+ek4wWGoTmwW78SUpi3qk1MoN29U=,vVVzk8lCX0jhnPZgyJVTl2rufyVkhN55e7Wqqze0Nww=,discover,Online playlist more,song-based-playlist,1,拼圖 (Imperfectly),TWAG11600202,1,0,,7,20150905,20170904
+754,754,LSYDVFYuAj/3ioTY6eXeQNC4Xl+IZFqR/kDI5ot9sig=,xa4NQH0QaU4I3jp04YUMjpTBqKZM/xwI6YuWai32eUQ=,my library,Local playlist more,local-library,1,有形的翅膀,TWR031202004,1,0,,7,20151223,20170923
+755,755,n+f0bRfah4zmn4c+ek4wWGoTmwW78SUpi3qk1MoN29U=,IIPVkO6EB8ymcuxkuxkum1N5gowLdTzy9sYF9luyhVk=,discover,Online playlist more,song-based-playlist,1,別再撐了,TWR031603003,1,0,,7,20150905,20170904
+756,756,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,43Qm2YzsP99P5wm37B1JIhezUcQ/1CDjYlQx6rBbz2U=,discover,Online playlist more,online-playlist,1,後來的我們 (Here| After| Us),TWK231610206,1,0,,4,20161129,20161206
+757,757,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,discover,Online playlist more,online-playlist,1,帥到分手,TWAG11600306,1,0,,4,20161129,20161206
+758,758,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,+SstqMwhQPBQFTPBhLKPT642IiBDXzZFwlzsLl4cGXo=,discover,Online playlist more,online-playlist,1,好愛好散 (Blue Love Theme),TWA531658601,1,0,,4,20161129,20161206
+759,759,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,wBTWuHbjdjxnG1lQcbqnK4FddV24rUhuyrYLd9c/hmk=,discover,Online playlist more,online-playlist,1,小幸運 (A little happiness),TWD951562101,1,0,,4,20161129,20161206
+760,760,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,FynUyq0+drmIARmK1JZ/qcjNZ7DKkqTY6/0O0lTzNUI=,discover,Online playlist more,online-playlist,1,你，好不好？ (How Have You Been?),TWA471602002,1,0,,4,20161129,20161206
+761,761,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,U9kojfZSKaiWOW94PKh1Riyv/zUWxmBRmv0XInQWLGw=,discover,Online playlist more,online-playlist,1,不該,TWK971601306,1,0,,4,20161129,20161206
+762,762,APKK+XLXNGrNeVEeYB8DEPvixwq4WSpZCGRqSYuKzu0=,PgRtmmESVNtWjoZHO5a1r21vIz9sVZmcJJpFCbRa1LI=,discover,Online playlist more,online-playlist,1,謝謝妳愛我 (Thanks For Your Love),TWA531657203,1,0,,4,20161129,20161206
+763,763,868QqV1mmbX0q+LBbQDex5XDQ4VRoI1MUEgh+0PGvJo=,eBme/h4Z4eP7BZY3tifu5Lr/dRB9NQJVIl36jZ5DZGQ=,discover,Online playlist more,online-playlist,1,牽心萬苦,TWJ011100207,14,21,female,4,20151211,20171108
+764,764,868QqV1mmbX0q+LBbQDex5XDQ4VRoI1MUEgh+0PGvJo=,O+azAuxxhTE27OXm23raLUOTey/RS3+sceZDO2iFXys=,discover,Online playlist more,online-playlist,0,微微一笑很傾城,CNZ481600012,14,21,female,4,20151211,20171108
+765,765,868QqV1mmbX0q+LBbQDex5XDQ4VRoI1MUEgh+0PGvJo=,GAWjH9Uns87Q1pcQTJZo+PaiJIsUj3DEWjtGqyMUZm4=,discover,Online playlist more,online-playlist,1,忘記擁抱,TWA471515001,14,21,female,4,20151211,20171108
+766,766,9Gl9/B771in9YaOVfh+j/nvwiRI1P99YdLmB+7c85vo=,izWkEacMHX6lc+hEC3QnWwWd2LXiHZ9tacUNpfUz+aw=,my library,Local playlist more,local-playlist,1,大齡女子 (Darling),TWW851500003,22,22,male,3,20120519,20170709
+767,767,VywQ78ARP7dH9DWx4LWIQZQk9MO8vrBnN6ytK3jtC44=,1UHqpOyecqH+8NytyogNdQz/2zUDpmHzUF5lgH1gvyw=,my library,Local playlist more,local-playlist,1,7 Years,USWB11506516,15,24,male,9,20110219,20171016
+768,768,9Gl9/B771in9YaOVfh+j/nvwiRI1P99YdLmB+7c85vo=,UR6jsIfrkQTd6Yf89JLAlsyER+2gmdKPkJl2NJWe0hg=,my library,Local playlist more,local-playlist,1,Mama Said,USWB11600081,22,22,male,3,20120519,20170709
+769,769,9Gl9/B771in9YaOVfh+j/nvwiRI1P99YdLmB+7c85vo=,i356q8t0P9emMJq8PsFkY6CGoi34mP3cgXuDpfEDyhY=,my library,Local playlist more,local-playlist,1,In the Name of Love,NLM5S1600003,22,22,male,3,20120519,20170709
+770,770,9Gl9/B771in9YaOVfh+j/nvwiRI1P99YdLmB+7c85vo=,8qWeDv6RTv+hYJxW94e7n6HBzHPGPEZW9FuGhj6pPhQ=,my library,Local playlist more,local-playlist,1,愛．這件事情,HKH621401001,22,22,male,3,20120519,20170709
+771,771,VywQ78ARP7dH9DWx4LWIQZQk9MO8vrBnN6ytK3jtC44=,uNXmR+OZe1p2O7IcW6wQ+mW4Yoq+XkKq/Gh3Bv3olPA=,my library,Local playlist more,local-playlist,1,coffee,USRC11501326,15,24,male,9,20110219,20171016
+772,772,NhDCb8h372xWouGpYwN6M4NuAXC63C2t6shX0Y0nYDQ=,4dLzFsViFo5dTKvU9b01pKdgDEBALMB7jFc1gKv3AwU=,my library,Local playlist more,local-library,1,人間 (Ren Jian),CNE041500420,15,0,,4,20160914,20180705
+773,773,MofmAMt7P8LIcF4+LLlcjyIhYUzmv13L/LRwYFxiGYE=,fHkPoQLsHCcUGfKuL7dl66EYa7CVzuBFx27RBkUsTME=,search,Artist more,top-hits-for-artist,1,到底愛錯在哪裡,CNF181301834,13,27,female,9,20110518,20171006
+774,774,MofmAMt7P8LIcF4+LLlcjyIhYUzmv13L/LRwYFxiGYE=,ggDP5Z32kY+6aGtITNzhrwqL5S+nFvCIIUFyJfmJxEk=,search,Artist more,top-hits-for-artist,1,好可惜,,13,27,female,9,20110518,20171006
+775,775,MofmAMt7P8LIcF4+LLlcjyIhYUzmv13L/LRwYFxiGYE=,skehue/d/R59G71dXYpntDwdjRRPlweN3JE8g40TgZU=,search,Artist more,top-hits-for-artist,1,我過的很好,,13,27,female,9,20110518,20171006
+776,776,NhDCb8h372xWouGpYwN6M4NuAXC63C2t6shX0Y0nYDQ=,lrloWA/JWmity2muCwntC86Jgv89ppdkQvrYdURv3DU=,my library,Local playlist more,local-library,1,勢在必行,MYPN11100001,15,0,,4,20160914,20180705
+777,777,MofmAMt7P8LIcF4+LLlcjyIhYUzmv13L/LRwYFxiGYE=,DWBkFM/9um2gkf+jl+UO6KhfKEaCqpapzAoH2FJMXzg=,search,Artist more,top-hits-for-artist,1,再見只是陌生人,,13,27,female,9,20110518,20171006
+778,778,NhDCb8h372xWouGpYwN6M4NuAXC63C2t6shX0Y0nYDQ=,lXJBWA8eCKQQFT5vSrzBbXCGJTSLy/n7cjEZTx0dzZA=,my library,Local playlist more,local-library,1,紙飛機 (Zhi Fei Ji),CNE041500422,15,0,,4,20160914,20180705
+779,779,qvXUZ6T8dYiUHoT7Q9hsr2KuaPsr4gNeqtpM30Wk7mE=,yae3KAr0oYk5sDz5X4/op2d2wtTFf1X4A4UdrYvZ8RA=,my library,Local playlist more,artist,0,紅玫瑰(國),HKUM70701243,1,0,,7,20120612,20170930
+780,780,qvXUZ6T8dYiUHoT7Q9hsr2KuaPsr4gNeqtpM30Wk7mE=,bYShoI0CynM+KsGcPL6+5DdwZSyL+X0Fk074Nac7kC0=,my library,Local playlist more,artist,0,無條件,HKJ631504002,1,0,,7,20120612,20170930
+781,781,PFq64L0BP7zECyPQfv9u79om/106vIFNyozXqqcAa2Q=,VAtZyYW79ixpoQfbOKAbZkz4/2VEoJDOLzXT3E7XArw=,my library,Local playlist more,local-library,1,傷痕,TWA459545501,13,25,male,9,20060923,20170911
+782,782,qvXUZ6T8dYiUHoT7Q9hsr2KuaPsr4gNeqtpM30Wk7mE=,DTB4t0Ue4y1qgQrI90zqbhkEo/zmGem0Kf03lepbsvs=,my library,Local playlist more,artist,0,黑洞,HKJ631504004,1,0,,7,20120612,20170930
+783,783,PFq64L0BP7zECyPQfv9u79om/106vIFNyozXqqcAa2Q=,1eze6fKuVAFFM5xmUp61yJ+0+vU9Io+ZFlmHnyDetfc=,my library,Local playlist more,local-library,1,Bad Blood - Tribute to Taylor Swift and Kendrick Lamar,FRX451560670,13,25,male,9,20060923,20170911
+784,784,qvXUZ6T8dYiUHoT7Q9hsr2KuaPsr4gNeqtpM30Wk7mE=,4VDa8TO0dcpy7Kz89Grtd0nyYRDeuG1F678c8Vd28as=,my library,Local playlist more,artist,1,煙味(國),HKUM70701240,1,0,,7,20120612,20170930
+785,785,qvXUZ6T8dYiUHoT7Q9hsr2KuaPsr4gNeqtpM30Wk7mE=,tpsX+zae7W9+0Y/hpsAJBpQLxvctzbEUeTkYPCpf040=,my library,Local playlist more,artist,1,不要說話(國),HKUM70800776,1,0,,7,20120612,20170930
+786,786,PFq64L0BP7zECyPQfv9u79om/106vIFNyozXqqcAa2Q=,wBTWuHbjdjxnG1lQcbqnK4FddV24rUhuyrYLd9c/hmk=,my library,Local playlist more,local-library,1,小幸運 (A little happiness),TWD951562101,13,25,male,9,20060923,20170911
+787,787,tCmA1Q/xBWh5prA0nTTuG5o5Ob0uRa9BFS25x46Pmiw=,QYia+yZu391rb9WLV50eDSW4/x8e2xoOrrg1Z9pQNS8=,radio,Radio,radio,0,human,USAT21304202,4,28,male,3,20130926,20170907
+788,788,tCmA1Q/xBWh5prA0nTTuG5o5Ob0uRa9BFS25x46Pmiw=,oL1y8QsjHVZmvjK6CSHNyxlAafRCtYHWo5YrBu9nn1s=,radio,Radio,radio,0,Manhattan,USSM11302725,4,28,male,3,20130926,20170907
+789,789,tCmA1Q/xBWh5prA0nTTuG5o5Ob0uRa9BFS25x46Pmiw=,TbPioIoCrNfPgDn2tsXZHR/uQgA8yyYr8k7Yji41a/Y=,radio,Radio,radio,0,The Other Side,USEE11000167,4,28,male,3,20130926,20170907
+790,790,tCmA1Q/xBWh5prA0nTTuG5o5Ob0uRa9BFS25x46Pmiw=,lhrN5Q069mAF35yPS+P4Rk1c1L4jhrAt3T2UjvT8yXc=,radio,Radio,radio,1,Only Girl (In The World),USUM71023200,4,28,male,3,20130926,20170907
+791,791,vuurtT9B8xKBv9wxtcJrc4stQ/jBwAXUrGC7dmDDYlw=,xHSnLkWGe7Gal//wc8yqzaLjW/14Ly6RbHqoTqMot2o=,my library,Local playlist more,local-library,1,I Am Alive feat. Jason Mraz,TWA531480008,1,46,female,7,20131114,20170913
+792,792,vuurtT9B8xKBv9wxtcJrc4stQ/jBwAXUrGC7dmDDYlw=,PWtszF5UA4xwWYBNp4n7l+bixobtGI2E7Q+I265Ey0w=,my library,Local playlist more,local-library,1,記得,TWB671005211,1,46,female,7,20131114,20170913
+793,793,vuurtT9B8xKBv9wxtcJrc4stQ/jBwAXUrGC7dmDDYlw=,3zH7Hhfxdm7vrptWPaX9hZIzpqnt7AWFwGh6Zh/Ihg4=,my library,Local playlist more,local-library,1,The One You Love(你所愛的人),,1,46,female,7,20131114,20170913
+794,794,n2hCmZlfiEFmsUhdS/tapn03Y90xPFHHW3JqP3D5RUM=,DdKsqy3JAygpcHwihcjBKzzp8SDYhdtXbEZmhKDrOSo=,my library,Local playlist more,local-library,1,逆時光的浪 (Back In Time),TWD631518202,13,31,female,7,20120605,20180617
+795,795,n2hCmZlfiEFmsUhdS/tapn03Y90xPFHHW3JqP3D5RUM=,2wy4Czvt8njpAtc9JbG5VV9Skaa3ExVbv5Em5g9ZEUY=,my library,Local playlist more,local-library,1,一半 (中天娛樂戲劇【雙面膠】片頭曲）,TWK231103802,13,31,female,7,20120605,20180617
+796,796,n2hCmZlfiEFmsUhdS/tapn03Y90xPFHHW3JqP3D5RUM=,bYnlRabPXz3ihqf1dDEy023+ZELkKHow6O1AFUSldes=,my library,Local playlist more,local-library,1,父親,,13,31,female,7,20120605,20180617
+797,797,n2hCmZlfiEFmsUhdS/tapn03Y90xPFHHW3JqP3D5RUM=,u6/Pb7X4u7KU4gXrBgGqt8RlRrNNFLn03tLAHyxRxwA=,my library,Local playlist more,local-library,1,手心的薔薇 (Beautiful) feat. G.E.M.鄧紫棋,TWA531480006,13,31,female,7,20120605,20180617
+798,798,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,av43wPGgyojlq8E0+uxLpB9I+SxqhgKswP1eUXmqASM=,my library,Local playlist more,local-playlist,1,色,TWA531442306,13,28,male,9,20101006,20171018
+799,799,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,CAvStC8z7qX6AJPjp969FXDWk+L7a41WUOhE7s6H7po=,my library,Local playlist more,local-playlist,1,張三的歌 (The song of Chang-san),TWA531530005,13,28,male,9,20101006,20171018
+800,800,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,syMOxpgKepmGSuD4tRGAWDrEVNJqrKVcE+Ic0icQ/ws=,my library,Local playlist more,local-playlist,1,最後的請求 (Please),TWA531669702,13,28,male,9,20101006,20171018
+801,801,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,CHdxtv0lhdjusRrkJV9o4mLQHEr0om3gLEzNsEP1yto=,my library,Local playlist more,local-playlist,1,複製人,TWA531176502,13,28,male,9,20101006,20171018
+802,802,Pk8GNqo2/Km9hklOq5XdIKh57vxM2a0JLtJXe917Wxg=,VodwEvJB2FUoIPAZhpqI+ml/3yzxl/fuw9xATZV1BIU=,my library,Local playlist more,local-library,1,說謊,TWD950934106,5,36,male,9,20100903,20170926
+803,803,reP6sppCKbYq6UiLI+83VmC/EgDWR8X8//pG/pQe/SY=,vILy7KQyFxIPbaIm5J2mCTEHvMr3/7H7Hl9trGrL+7c=,my library,Local playlist more,local-playlist,1,最近,TWF750688202,1,0,,7,20110206,20170916
+804,804,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,BglEX+eZrcRvSaLtDxH9gLVmJ70oWqFH7/z3DICTtR4=,my library,Local playlist more,local-playlist,1,除了你我別無選擇 (Nothing But You),TWA531669705,13,28,male,9,20101006,20171018
+805,805,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,EXh9VNfwf+ypL7BOdtBLZwyO0rE13QU5r5/B71Lbf/M=,my library,Local playlist more,local-playlist,1,只能想念你,TWA531176504,13,28,male,9,20101006,20171018
+806,806,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,D1nrpnreU7S/TOOUPt70+k2VaSDR2G7lQXdBG2td5So=,my library,Local playlist more,local-playlist,1,我在哭,TWA530887309,13,28,male,9,20101006,20171018
+807,807,reP6sppCKbYq6UiLI+83VmC/EgDWR8X8//pG/pQe/SY=,XBhJYp6A1sD/47vCwkjqqG0xK1lDPu/IUTlLEpx81Ns=,my library,Local playlist more,local-playlist,1,擦肩而過,,1,0,,7,20110206,20170916
+808,808,reP6sppCKbYq6UiLI+83VmC/EgDWR8X8//pG/pQe/SY=,zGb14zi42syoVDi2VSVhLkyVfKLKoiTb40zQ4FpsY8k=,my library,Local playlist more,local-playlist,1,手放開,TWF750481602,1,0,,7,20110206,20170916
+809,809,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,ZV5tVj2qQF708DTgoVbMD+TgzsvwQD0Yzpi/wbLPzIs=,my library,Local playlist more,local-playlist,1,王子的新衣,TWA530887302,13,28,male,9,20101006,20171018
+810,810,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,U+8RqB0PodU/FhQcAvzcwtE4XzJKQGaLQDtQiyrLF8I=,my library,Local playlist more,local-playlist,1,悲愛,TWA531200019,13,28,male,9,20101006,20171018
+811,811,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,qIcmU79+802o9dsTTMCIeBMBP4dvItGxo5darqG5Jqs=,my library,Local playlist more,local-playlist,1,活著,TWA530887307,13,28,male,9,20101006,20171018
+812,812,zoOVVP+dUKtDIUk/vE1ectboQuyBfHUzGxWRSq/aIkQ=,3APT00k8EnXfvzu4R+SSg007Dfi1Oe/ahjkOhKFT3ec=,my library,Local playlist more,local-playlist,1,奮不顧身,TWA530887304,13,28,male,9,20101006,20171018
+813,813,3PMHGxrpSaTNtdPaLSZjOxv26ktV7JcCxq5HK0fhS3g=,6d0OD6QCH4aZMNpiHBTdqLubbBbCc+xRoLxIfRVf4iM=,my library,Local playlist more,local-playlist,1,Uptown Girl,USSM18700262,5,49,female,9,20070330,20171022
+814,814,5PhY9j6GWqB3yRRh1YBgGk0fPE3J2d0Cmp1AK2RnkT4=,Ce8Mui+yVruumWy9pKMDfSRBFg1m93m/+XR8FHlktaE=,my library,Local playlist more,local-library,1,餘波盪漾 (When you are gone),TWD951643107,1,0,,7,20110714,20171007
+815,815,5PhY9j6GWqB3yRRh1YBgGk0fPE3J2d0Cmp1AK2RnkT4=,7lYMRUQcsjc+M7SrR032Vsn26XmOQzD5RHcQOuaN3go=,my library,Local playlist more,local-library,1,同類,TWA530493707,1,0,,7,20110714,20171007
+816,816,5PhY9j6GWqB3yRRh1YBgGk0fPE3J2d0Cmp1AK2RnkT4=,sRJjOzXSNzNFEQdw6bdgEWnVzqQbt0O0AdEpT2b/VXE=,my library,Local playlist more,local-library,1,彩虹金剛,TWUM71600037,1,0,,7,20110714,20171007
+817,817,+y1shUiQhJfrjpdq77rlnH4nZvlzl4JO42LzBBvkA7A=,SjCIXUxaLoWJLHWFnihxiaeaSnozRZHVqme8EoHONnE=,my library,Local playlist more,local-library,1,無聲抗議,TWR031317001,5,0,,9,20101225,20171202
+818,818,sU8xKn4y/NUssEOFR0+wAFO/R/dKNlw6LE+tJF7rdqo=,dAW40+ckJdOjNQqteJrkkVzciH74j9k2vXRgCFK1Obs=,my library,Local playlist more,local-library,1,妳聽得到,TWK970300506,1,0,,7,20160915,20170211
+819,819,sU8xKn4y/NUssEOFR0+wAFO/R/dKNlw6LE+tJF7rdqo=,X9POPzgG9wcthL9a9beND/+ByX3Aych0C/YEPMtT3OM=,my library,Local playlist more,local-library,1,島嶼天光,TWM671304801,1,0,,7,20160915,20170211
+820,820,sU8xKn4y/NUssEOFR0+wAFO/R/dKNlw6LE+tJF7rdqo=,Q0Y5uSJoxOaZxCXqND9ikiwD6969aurTqC+o9r8qklM=,my library,Local playlist more,local-library,1,俄羅斯輪盤,TWE971102014,1,0,,7,20160915,20170211
+821,821,sU8xKn4y/NUssEOFR0+wAFO/R/dKNlw6LE+tJF7rdqo=,AYoEHIiWBBVLpNkE2tqh/goiJCSAdnDoH5dCXHo4SQ4=,my library,Local playlist more,local-library,1,如果你也聽說     　,TWEM30703009,1,0,,7,20160915,20170211
+822,822,sU8xKn4y/NUssEOFR0+wAFO/R/dKNlw6LE+tJF7rdqo=,I+Z2/30nOjQKb4VorNACvssRUJg50pXBIK+3xoO5LOo=,my library,Local playlist more,local-library,1,眷戀,TWA530671209,1,0,,7,20160915,20170211
+823,823,9AR/jW+se7Bw0AO9AupRl6sX8y4lxdkpwA+RFY0GGMA=,PgRtmmESVNtWjoZHO5a1r21vIz9sVZmcJJpFCbRa1LI=,my library,Local playlist more,local-library,1,謝謝妳愛我 (Thanks For Your Love),TWA531657203,1,0,,7,20151208,20171007
+824,824,/R77G2EHyBUe+y2/gMluGNUbhsrKxaDvqojAUMmCZOg=,VodwEvJB2FUoIPAZhpqI+ml/3yzxl/fuw9xATZV1BIU=,explore,Explore,online-playlist,0,說謊,TWD950934106,13,28,,7,20120514,20180216
+825,825,NwauapyJfO3HxiQMBcCW/Fw/Ad76bn2FW0Vc1Ehurm4=,7dUiqNIuyM+aDRJEw3+ZSYydeZGAQ1AAI0eOd0Nzh8c=,my library,Local playlist more,local-library,1,Turn up,TWAG11600401,22,19,male,3,20130224,20170925
+826,826,1VQJl4dZ0LFyHIHf1OErC0+bH2akp5z1FU7QY+NwyAw=,WDhQhhbq+bwhBY642Fx3e5eGBdvqzzXmwiouCaVI0R0=,my library,Local playlist more,local-library,1,單身剛好,TWCG31600001,6,0,female,4,20160311,20171006
+827,827,/R77G2EHyBUe+y2/gMluGNUbhsrKxaDvqojAUMmCZOg=,/YaubkEe5LiUbeSJJ9n3UmGBuOBJRwhcp8pe10HNoH4=,explore,Explore,online-playlist,0,憨人,TWA450065406,13,28,,7,20120514,20180216
+828,828,NwauapyJfO3HxiQMBcCW/Fw/Ad76bn2FW0Vc1Ehurm4=,XGE2Z905YLI3rzXNXNOTZhBAaNJextQ480b2GVGw358=,my library,Local playlist more,local-library,1,Be Your Superman,,22,19,male,3,20130224,20170925
+829,829,/R77G2EHyBUe+y2/gMluGNUbhsrKxaDvqojAUMmCZOg=,7Xxzo9Z584Z1AhkaLLWEcpzcEuxcquGE52Ztc4879YI=,explore,Explore,online-playlist,1,寂寞寂寞就好,TWD951043107,13,28,,7,20120514,20180216
+830,830,NwauapyJfO3HxiQMBcCW/Fw/Ad76bn2FW0Vc1Ehurm4=,2oNvM+pm2OrgVOR6ogzOWpDFSgM34W2GKyuj9s9cnTU=,my library,Local playlist more,local-library,1,光的定律 (The Light),TWD631653301,22,19,male,3,20130224,20170925
+831,831,NwauapyJfO3HxiQMBcCW/Fw/Ad76bn2FW0Vc1Ehurm4=,UX0pv7pZTBvi40sWWfuXoGf+JOn+8jptKJe1zZk2TTw=,my library,Local playlist more,local-library,1,Every Night,KRA031211037,22,19,male,3,20130224,20170925
+832,832,1VQJl4dZ0LFyHIHf1OErC0+bH2akp5z1FU7QY+NwyAw=,YUxcp2fEZLoDPWdTDcWlHb2LcmHMluTJAGVdpcyFj8U=,my library,Local playlist more,local-library,1,熱血無賴,TWD951634104,6,0,female,4,20160311,20171006
+833,833,Xa3bbIsP+DO7sQdTiljlnXoiRJl6JXU5xDe9y3HG6Lc=,Ia8u9tfY7EWhF8tJGA4cGcEwg+i2evGGoOZaLoraHOI=,my library,Local playlist more,local-library,1,Porcelain,GBAJH9900036,5,31,male,9,20150705,20180111
+834,834,Xa3bbIsP+DO7sQdTiljlnXoiRJl6JXU5xDe9y3HG6Lc=,PIJz0a+KA/71kNVw4CmU4werkhZ5kaN2bnW7Fnj50Pw=,my library,Local playlist more,local-library,1,Lean On,DEHT41304011,5,31,male,9,20150705,20180111
+835,835,Xa3bbIsP+DO7sQdTiljlnXoiRJl6JXU5xDe9y3HG6Lc=,7eKGhG6Cojjjq+pgEe1knBgc1t6Ivl6Y/i4J+0Uydc8=,my library,Local playlist more,local-library,1,Rather Be (feat. Jess Glynne),GBAHS1300498,5,31,male,9,20150705,20180111
+836,836,Xa3bbIsP+DO7sQdTiljlnXoiRJl6JXU5xDe9y3HG6Lc=,vOors+2XSuwEtJ//dVL/5V6ViNWAwQ1JZ65zQ1gB1gA=,my library,Local playlist more,local-library,1,無狀態,TWA470601009,5,31,male,9,20150705,20180111
+837,837,pPqVRl4gGSZZvgfK6b8lpctfFyUqza1vj5s/BfICfpQ=,WJ1tUFKwAt7u2rwhcOQls98EcIxn9Xj/o3eifFR9Zi4=,my library,Local playlist more,local-playlist,1,Joy of the Journey,USR2M0900016,4,47,male,9,20111113,20170926
+838,838,+t3u8EDdZLwEb44GC4forR/b9xg6KSZ1AauTYJM6bB0=,kxhyA8uSSp6Y/o7gUOBaTkskDYbBJND5SFWpfJWTHJc=,my library,Local playlist more,local-playlist,1,賈科梅蒂 (Alberto Giacometti),TW2151620005,1,0,,7,20131216,20170917
+839,839,+t3u8EDdZLwEb44GC4forR/b9xg6KSZ1AauTYJM6bB0=,LaKaBCWzdQLDiuwoDuW357V/ig9Etug85tp7rXKrrho=,my library,Local playlist more,local-playlist,1,無聲電影 (silent movies),TW2151620004,1,0,,7,20131216,20170917
+840,840,CiA0mzWl3/VSNW9ebpZEvKEdva6Fu3p5oidhkUhgZjY=,T86YHdD4C9JSc274b1IlMkLuNdz4BQRB50fWWE7hx9g=,discover,Online playlist more,online-playlist,1,告白氣球,TWK971601308,4,44,female,9,20041114,20171004
+841,841,YiOYOFJUNjhUhcTDbO+LV/OBb45DVttb+IULl0JZ6zI=,fLcg1JwIF80DBi1D5gheP1WuO4IXt4HFSd19TZ6y61M=,my library,Local playlist more,local-playlist,1,Love Story,USCJY0803447,1,0,,7,20120616,20171008
+842,842,YiOYOFJUNjhUhcTDbO+LV/OBb45DVttb+IULl0JZ6zI=,Ze/P21A/ZhDHd8Ev9TK85Rqamg1f4fMLSCZEAejE9qc=,my library,Local playlist more,local-playlist,1,親愛的路人【TVBS[姐姐立正向前走]片尾曲】,TWK231303901,1,0,,7,20120616,20171008
+843,843,YiOYOFJUNjhUhcTDbO+LV/OBb45DVttb+IULl0JZ6zI=,RoI1qNf11fg9QB3Tz7+JIyxEL8U+p4gajEOT/m9Cxr8=,my library,Local playlist more,local-playlist,1,就是愛 (Jiu Shi Ai),TWA470408002,1,0,,7,20120616,20171008
+844,844,yiAhcTphg5RLb/u96sNO8ksIuAXkKZgjyMl0guTNquc=,8eFsEjDKQnJM78i9vaosRmfUNWgZ9/UF8Fq7pGr9YdU=,my library,Local playlist more,local-library,1,倫敦的愛情,TWK331001001,15,30,male,3,20131023,20170924
+845,845,yiAhcTphg5RLb/u96sNO8ksIuAXkKZgjyMl0guTNquc=,O+azAuxxhTE27OXm23raLUOTey/RS3+sceZDO2iFXys=,my library,Local playlist more,local-library,1,微微一笑很傾城,CNZ481600012,15,30,male,3,20131023,20170924
+846,846,UOmA71gtQlbnN1EsdxeY4KG8wJCSbqiNS55ZXxi97bA=,p2BbLuX3MmO2LvqUmm9+ZXoKWbRSCnCOg73N+5FpzOM=,my library,Local playlist more,local-playlist,0,Coastal Tide,GBPS81529588,5,50,male,3,20120614,20171001
+847,847,UOmA71gtQlbnN1EsdxeY4KG8wJCSbqiNS55ZXxi97bA=,ifV/UhT9NSLXh+IfTvQY31jiKRPDuA+AsAD/r+0Yvc0=,my library,Local playlist more,local-playlist,0,Sea Washes over Debris,GBPS81529396,5,50,male,3,20120614,20171001
+848,848,yiAhcTphg5RLb/u96sNO8ksIuAXkKZgjyMl0guTNquc=,w5dkuOgXEq0mver7yHK7JbV/YiTqFhZQDuns9kK737s=,my library,Local playlist more,local-library,0,偏愛,TWA270812005,15,30,male,3,20131023,20170924
+849,849,UOmA71gtQlbnN1EsdxeY4KG8wJCSbqiNS55ZXxi97bA=,xLIRw/Zj1Zqj/XmF8Md7Jdx3CItJX8DfcZOjgEgQVSw=,my library,Local playlist more,local-playlist,0,Waves: On the Beach,GBPS81525396,5,50,male,3,20120614,20171001
+850,850,yiAhcTphg5RLb/u96sNO8ksIuAXkKZgjyMl0guTNquc=,RtGyh7quqQPSkygPLtkrrQrgG62ggmh4psBbdykZ/4g=,my library,Local playlist more,local-library,0,月亮惹的禍,EMIDD0286705,15,30,male,3,20131023,20170924
+851,851,UOmA71gtQlbnN1EsdxeY4KG8wJCSbqiNS55ZXxi97bA=,Z2KAAdGAhfBl8M6k/KjSNpa9U3/q3trPc5zVuTqNqug=,my library,Local playlist more,local-playlist,0,Walk Through the Beach Waves,GBPS81529575,5,50,male,3,20120614,20171001
+852,852,UOmA71gtQlbnN1EsdxeY4KG8wJCSbqiNS55ZXxi97bA=,ZY/UmTyznAH/ZHKMCCqTpIWC8M9l7ko/+bZgZy/rkQ4=,my library,Local playlist more,local-playlist,0,Gentle Lapping Sea Shore,GBPS81529385,5,50,male,3,20120614,20171001
+853,853,bHaK+LAC5xpszdTYiNLCHZ1g940Gs8r9Hmfke/X4aWI=,2oNvM+pm2OrgVOR6ogzOWpDFSgM34W2GKyuj9s9cnTU=,my library,Local playlist more,local-library,1,光的定律 (The Light),TWD631653301,13,20,male,3,20131005,20170918
+854,854,0BlRvYIuR/cfaoVUTJEzGTlaOgo4c+fL08ePLqXHbO4=,43Qm2YzsP99P5wm37B1JIhezUcQ/1CDjYlQx6rBbz2U=,my library,Local playlist more,local-library,1,後來的我們 (Here| After| Us),TWK231610206,13,24,female,3,20140921,20171001
+855,855,oe3WuOCdnU8NTpMCpNFjEr2aOLGG1xgrZzHEv2jlLmw=,tuJefincycxWaWosygL3ZFI7EGhut4fMTqq/ly8dCo8=,my library,Local playlist more,local-playlist,1,Secret Killer (Inst.) - Studio Musicians,KRA491402077,13,28,female,7,20130528,20170909
+856,856,oe3WuOCdnU8NTpMCpNFjEr2aOLGG1xgrZzHEv2jlLmw=,m2x1yfZ1yfffCvkjMT4b5H8FCGmBs/YN05A46cG8n9w=,my library,Local playlist more,local-playlist,1,Is It Love? - Go| Young Jun (Brown Eyed Soul),KRA491402065,13,28,female,7,20130528,20170909
+857,857,oe3WuOCdnU8NTpMCpNFjEr2aOLGG1xgrZzHEv2jlLmw=,0uWVGvxIwqFiNeRhePt80BHj4gmBQ9OmYMeUDkZ2Fls=,my library,Local playlist more,local-playlist,0,Secret (Inst.) - Studio Musicians - feat.Younghun Cho,KRA491402066,13,28,female,7,20130528,20170909
+858,858,bHaK+LAC5xpszdTYiNLCHZ1g940Gs8r9Hmfke/X4aWI=,3DU6F6k6dFSdoQa2tsia5spMXFCxWh4JJdA3OxSo3rM=,my library,Local playlist more,local-library,1,你啊你啊 (only you),TW2151620008,13,20,male,3,20131005,20170918
+859,859,0BlRvYIuR/cfaoVUTJEzGTlaOgo4c+fL08ePLqXHbO4=,Oyz6QlOcKz1PPYcwsxxcBu5AKsyjIrzbJ6V8LeDM0pY=,my library,Local playlist more,local-library,1,The Lover,TWA531600721,13,24,female,3,20140921,20171001
+860,860,oe3WuOCdnU8NTpMCpNFjEr2aOLGG1xgrZzHEv2jlLmw=,NYFUFXKryuqMFlO44R8Q5oRdFQEaLm8rbgyU2MlC79k=,my library,Local playlist more,local-playlist,1,Propose - Im| Jik Won Il Dong - feat.President,KRA491402067,13,28,female,7,20130528,20170909
+861,861,bHaK+LAC5xpszdTYiNLCHZ1g940Gs8r9Hmfke/X4aWI=,UAHH8i8OzuDQE0DOyPU2QTWLXC3rtomM1vE347TeQFQ=,my library,Local playlist more,local-library,1,我在哪裡 (Where I Belong),TWA211328802,13,20,male,3,20131005,20170918
+862,862,0BlRvYIuR/cfaoVUTJEzGTlaOgo4c+fL08ePLqXHbO4=,wv5prxfvVXkAj5EbWwV+gNT2IwXaFl0V9U1N3uHO9A0=,my library,Local playlist more,local-library,0,時光倒回,,13,24,female,3,20140921,20171001
+863,863,bHaK+LAC5xpszdTYiNLCHZ1g940Gs8r9Hmfke/X4aWI=,30pn1Sjwmya4+4npNIJV7Mkd14FZnRixqhG4WUZtAqY=,my library,Local playlist more,local-library,0,三心兩意 (feat. 曾昱嘉),TWA270917004,13,20,male,3,20131005,20170918
+864,864,bHaK+LAC5xpszdTYiNLCHZ1g940Gs8r9Hmfke/X4aWI=,jHMqK5wu5C0txl0QCxpkSM1xbIev60ii+dc99LXu8EI=,my library,Local playlist more,local-library,1,嗯哼 (Uh-Huh),TWK231610601,13,20,male,3,20131005,20170918
+865,865,zY1X90IOjnfHCDVA4pb3Ih2euO9H1cPb8OJkOBppoSg=,YqcwyXfvsSfMk9q2DApoNVkrSG59Hi/MupeZMLxc2Fw=,my library,Local playlist more,local-playlist,1,神啊 救救我 (Shen A Jiu Jiu Wo),TWA130000905,4,35,male,9,20050415,20171006
+866,866,zY1X90IOjnfHCDVA4pb3Ih2euO9H1cPb8OJkOBppoSg=,Of/tj0IkPDmWYdWLmcmtMH7+rAwHRBIlJb1xnVbY9Ms=,my library,Local playlist more,local-playlist,1,Waiting For You (Waiting For You),CNA260443302,4,35,male,9,20050415,20171006
+867,867,UGX+2jh3WO5XRuVOPuPCiIetzHlBjh0DPOLPeJSe36E=,jiZ/NAx/+6YFdk1D6jwZw14g48ZwImC0fKxXUuNnQ7M=,listen with,Others profile more,listen-with,0,最後戀人 (The last lover),TWX351500079,13,27,female,3,20150116,20170930
+868,868,+4xaTltGXsNattBO89s5blOroev2V5i1M1kP0ZJpkyA=,ircbGz/PD3qQtgeU8Mt2gd663O3R1+k8IJSFEV7K/Kc=,my library,Local playlist more,local-library,1,My Oh My,DKBKA9700402,13,23,female,9,20130620,20171009
+869,869,+4xaTltGXsNattBO89s5blOroev2V5i1M1kP0ZJpkyA=,wp1gSQ4LlMEF6bzvEaJl8VdHlAj/EJMTJ0ASrXeddbo=,my library,Local playlist more,local-library,1,回憶那麼傷 (Sad Memory),CNA231601679,13,23,female,9,20130620,20171009
+870,870,+4xaTltGXsNattBO89s5blOroev2V5i1M1kP0ZJpkyA=,mZcB03DbF/QTVPEhGqBKqcKRHTUtmJsHbkv9XJGTP1s=,my library,Local playlist more,local-library,1,剛剛好,CNZ171600484,13,23,female,9,20130620,20171009
+871,871,UGX+2jh3WO5XRuVOPuPCiIetzHlBjh0DPOLPeJSe36E=,IZiHpWQEDSvHZkR0CPUq9ONzpRvoWMz5v/EG5e/VYgU=,listen with,Others profile more,listen-with,0,木乃伊,TWB670501202,13,27,female,3,20150116,20170930
+872,872,UGX+2jh3WO5XRuVOPuPCiIetzHlBjh0DPOLPeJSe36E=,h90KlUZE/mlkkPjhbhz3hXY1zvOhqJXuiKBoFWnTDAo=,listen with,Others profile more,listen-with,1,HOME,TWBR11604001,13,27,female,3,20150116,20170930
+873,873,+4xaTltGXsNattBO89s5blOroev2V5i1M1kP0ZJpkyA=,bVWmDC13ohW6YF6anre6EboycTvThfp5HFD+mM016Xo=,my library,Local playlist more,local-library,1,Lollipop (Candyman),DKBKA9700408,13,23,female,9,20130620,20171009
+874,874,6e70+6ySnTnqWDI/1DyI23nbMwtchlOH/pwzkk7FREY=,U+5xBtB/wED62hYw01Qxt/fEmlbNyVzKXYcxJR5bhyg=,my library,Local playlist more,local-playlist,1,People Get Ready,USA441199103,5,46,female,7,20121225,20170924
+875,875,v3iWj2uNYuVPKwMYOpV2y1h4YXZBHbsE7rCJkkdncr4=,bepalH28XKhsgDFIkqheCEvGb6k/exhH5Mf4+2L8qbo=,my library,Local playlist more,local-library,0,星空,TWK231104801,1,0,,7,20111227,20170912
+876,876,6e70+6ySnTnqWDI/1DyI23nbMwtchlOH/pwzkk7FREY=,ZsWlsGMGh8iYGZynyFn+EwOFEo12fR0FhUyu23V16VU=,my library,Local playlist more,local-playlist,1,People Get Ready,USA441206016,5,46,female,7,20121225,20170924
+877,877,6e70+6ySnTnqWDI/1DyI23nbMwtchlOH/pwzkk7FREY=,elel5vT/hKWDESvSDLCQT6NkxXn7J8H29RdphnbbMFQ=,my library,Local playlist more,local-playlist,1,For What It's Worth,USEE10170607,5,46,female,7,20121225,20170924
+878,878,v3iWj2uNYuVPKwMYOpV2y1h4YXZBHbsE7rCJkkdncr4=,sF6f7fg7qB6fwkn9xVzSZPdfuU/EzGd4pKE/toGhRu4=,my library,Local playlist more,local-library,1,深藍色,TWS571100003,1,0,,7,20111227,20170912
+879,879,Oidq/6pQEuO1uP9Q6Prn5uzmKt48Ikn1Jcp9xevSBy4=,VqOqrfMxAOMwJpyfUSyWuPmHpMtSuzvrCvHgahApvDU=,discover,Discover Chart,online-playlist,1,EGO-HOLIC戀我癖 (EGO-HOLIC),TWUM71600076,1,0,,7,20131018,20170909
+880,880,Oidq/6pQEuO1uP9Q6Prn5uzmKt48Ikn1Jcp9xevSBy4=,3DU6F6k6dFSdoQa2tsia5spMXFCxWh4JJdA3OxSo3rM=,discover,Discover Chart,online-playlist,1,你啊你啊 (only you),TW2151620008,1,0,,7,20131018,20170909
+881,881,Oidq/6pQEuO1uP9Q6Prn5uzmKt48Ikn1Jcp9xevSBy4=,fCCmIa0Y5m+MCGbQga31MOLTIqi7ddgXvkjFPmfslGw=,discover,Discover Chart,online-playlist,1,默,TWUM71600075,1,0,,7,20131018,20170909
+882,882,NEWVPdDsZz0Qp101Oj9MPU2+brstjUgfr0+rpt991VE=,9fjZfcnRZYSV4un8G83Ij8tKPeelYu/VxJ0vlPN+hVk=,my library,Local playlist more,local-library,1,床邊故事,TWK971601301,11,29,male,7,20161010,20170405
+883,883,NEWVPdDsZz0Qp101Oj9MPU2+brstjUgfr0+rpt991VE=,woOlWc20G3D4jgygA0QzsCVcAkZDNjFH6pMfCIg+y7M=,my library,Local playlist more,local-library,1,七里香,TWK970400702,11,29,male,7,20161010,20170405
+884,884,YRfzm1W/1oNhpZIi1hZtAfdgklclnHEvyqKxHD54GH0=,msy6vSQ15p6RVJfm/bSgcDwd3YSLp445Pdhzw6CEZRM=,explore,Explore,online-playlist,0,女孩妳知道嗎 (You Know What| Girl?),TWA531579702,11,37,male,9,20110613,20171004
+885,885,YRfzm1W/1oNhpZIi1hZtAfdgklclnHEvyqKxHD54GH0=,iiifj//EcKnociT6W3nBASJygGe/TyFB41UD1bTtnU0=,explore,Explore,online-playlist,0,失落沙洲,TWJ010900404,11,37,male,9,20110613,20171004
+886,886,7Ld8mRC7//XD5BJyh8Ng19ysx6SMHgAp7ozpEh3zNB4=,OiD1VHBxqXrBqGbq8sU60gOq2c2wB14KgbyZU+o23mQ=,my library,Local playlist more,local-library,0,Magic,GBAYE1400206,1,0,,7,20140212,20170912
+887,887,7Ld8mRC7//XD5BJyh8Ng19ysx6SMHgAp7ozpEh3zNB4=,njZW7qYAOyDDZHNmAVUqVRyviltU+hSI4NPQQ5c2CIE=,my library,Local playlist more,local-library,0,Every Teardrop Is A Waterfall,GBAYE1100774,1,0,,7,20140212,20170912
+888,888,7Ld8mRC7//XD5BJyh8Ng19ysx6SMHgAp7ozpEh3zNB4=,1P0budWPBi8VwKsu5CDZwTUpNCkyl3g7mjTBmZ/5WqE=,my library,Local playlist more,local-library,1,Paradise,GBAYE1101143,1,0,,7,20140212,20170912
+889,889,1JRYsVwlhUDRYob6Zf4n8Kj4juc1282dwJLXiyoUEaA=,za8QsbPlP/ymNk92HLRy5o8i3rE5beixKmUFsIvsfgs=,my library,Local playlist more,local-library,1,How we roll,TWA450892802,9,18,female,3,20150327,20171020
+890,890,1JRYsVwlhUDRYob6Zf4n8Kj4juc1282dwJLXiyoUEaA=,reXuGcEWDDCnL0K3Th//3DFG4S1ACSpJMzA+CFipo1g=,my library,Local playlist more,local-library,1,帥到分手,TWAG11600306,9,18,female,3,20150327,20171020
+891,891,1JRYsVwlhUDRYob6Zf4n8Kj4juc1282dwJLXiyoUEaA=,QWYcpfjf5vLcOMNM03GczLoQ0H9/jBZzNfnJT9Ua26s=,my library,Local playlist more,local-library,1,Give Love,TWA531400408,9,18,female,3,20150327,20171020
+892,892,1JRYsVwlhUDRYob6Zf4n8Kj4juc1282dwJLXiyoUEaA=,tQ9CofTIN5FTBE5UNajL6/P5Q2ZJ2AKB0MN+JwAssX4=,my library,Local playlist more,local-library,1,I See you,TWA531601202,9,18,female,3,20150327,20171020
+893,893,1JRYsVwlhUDRYob6Zf4n8Kj4juc1282dwJLXiyoUEaA=,gwW4SN8etwEnJUI20K5Ybl35PPJZdMs95EUELsiCN3c=,my library,Local playlist more,local-library,1,Count On Me,USEE11000168,9,18,female,3,20150327,20171020
+894,894,ENNfwjnrhgGU+NNcSV1+MADmxjRK2A7KHEzEz2BC0as=,IZiHpWQEDSvHZkR0CPUq9ONzpRvoWMz5v/EG5e/VYgU=,listen with,Others profile more,listen-with,1,木乃伊,TWB670501202,1,0,,9,20150206,20180126
+895,895,ENNfwjnrhgGU+NNcSV1+MADmxjRK2A7KHEzEz2BC0as=,h90KlUZE/mlkkPjhbhz3hXY1zvOhqJXuiKBoFWnTDAo=,listen with,Others profile more,listen-with,1,HOME,TWBR11604001,1,0,,9,20150206,20180126
+896,896,ENNfwjnrhgGU+NNcSV1+MADmxjRK2A7KHEzEz2BC0as=,jiZ/NAx/+6YFdk1D6jwZw14g48ZwImC0fKxXUuNnQ7M=,listen with,Others profile more,listen-with,0,最後戀人 (The last lover),TWX351500079,1,0,,9,20150206,20180126
+897,897,07+a5Wl5ujG0rOjTrZ1nsd3VxpLuAsgEwN/pyXHwvRc=,90Upr3fyTOth9pXFztpGNV3vD6XRlZhNwgtA7vhCQ9s=,my library,Local playlist more,local-library,0,As Long As You Love Me – feat. Big Sean,USUM71205320,13,28,female,9,20130622,20170922
+898,898,07+a5Wl5ujG0rOjTrZ1nsd3VxpLuAsgEwN/pyXHwvRc=,PHqVEALMocWEArPeLdtc++lcSDdzXeXJoRIydT1s3dc=,my library,Local playlist more,local-library,0,Flashlight,USUM71504653,13,28,female,9,20130622,20170922
+899,899,7ey6CuRaiz6eUotZCIEeS6MXwOfxfOB74F4DTNq9/ng=,DZYVvUwEtvj779DKlLkOjMAUlzcXBHbmw0uPD0Rfiro=,my library,Local playlist more,local-library,1,最幸福的時間 (The Most Precious Moment),TWX351500075,4,20,male,3,20140429,20170809
+900,900,7ey6CuRaiz6eUotZCIEeS6MXwOfxfOB74F4DTNq9/ng=,SDSJOlQjMjMRnDWM8uhPLUZbEs5C+gr3Fu1SYcLvBLc=,my library,Local playlist more,local-library,1,後來的我們,TWA450582201,4,20,male,3,20140429,20170809
+901,901,7ey6CuRaiz6eUotZCIEeS6MXwOfxfOB74F4DTNq9/ng=,j0FPNSB8FF1xpp/Nk1Kzl6WEAA1uyskxnspHzZbxspg=,my library,Local playlist more,local-library,0,莫忘初衷,,4,20,male,3,20140429,20170809
+902,902,gSexg5bNeunkfSyFNerYgyHn6HqTTRgGjlYrFsTbte4=,jBZBYugMwHamJngPoHs9LA2Aw0wxRYjZGux/dvYe5EU=,my library,Local playlist more,local-library,1,紅塵客棧,TWK971201108,1,0,,7,20111221,20170921
+903,903,hxQrTs9zmMFchit19/+3tFkmfv3CLD4rhaD5FIsHvGA=,Sns0EjAhQUxrx0zl60TFfIsPBobwOOJG3+HjcLCYJiU=,my library,Local playlist more,local-playlist,0,默,GBLPF0096195,22,23,female,3,20130303,20170911
+904,904,gSexg5bNeunkfSyFNerYgyHn6HqTTRgGjlYrFsTbte4=,kMOYeyuAqrfF8Urfw37smlOpXBJtJG4IJdE1FhP54LM=,my library,Local playlist more,local-library,1,Skyfall,GBBKS1200164,1,0,,7,20111221,20170921
+905,905,hxQrTs9zmMFchit19/+3tFkmfv3CLD4rhaD5FIsHvGA=,v/frGf3xnyB6zyXeCK6gI2ZxClawAn+4WsYmgYpU6r4=,my library,Local playlist more,local-playlist,1,May I Love U,,22,23,female,3,20130303,20170911
+906,906,hxQrTs9zmMFchit19/+3tFkmfv3CLD4rhaD5FIsHvGA=,OPEQ37IDfUA0wofC8QInuktBTt1TW/SeH4yGwhb66nc=,my library,Local playlist more,local-playlist,1,寂寞邊界,SGA170400001,22,23,female,3,20130303,20170911
+907,907,gSexg5bNeunkfSyFNerYgyHn6HqTTRgGjlYrFsTbte4=,K+lh9tnzsHOKtUv7YpTSoKaiNifggC8yneft5T/zmF0=,my library,Local playlist more,local-library,1,好聽,TWF710700001,1,0,,7,20111221,20170921
+908,908,gSexg5bNeunkfSyFNerYgyHn6HqTTRgGjlYrFsTbte4=,etnpvFVFCKje9Br8nB2pWWlaMRVwN6euSQc9+7ZnXR4=,my library,Local playlist more,local-library,1,Rolling In The Deep,GBBKS1000335,1,0,,7,20111221,20170921
+909,909,gSexg5bNeunkfSyFNerYgyHn6HqTTRgGjlYrFsTbte4=,TYhx9eqWklddkLQlApQ5MS9jJCO4H3JHdpISZ3kZSRE=,my library,Local playlist more,local-library,1,給我一首歌的時間,TWK970801502,1,0,,7,20111221,20170921
+910,910,lyDatZe7GwPwDpNDB9ST1EWdQ3GmR8/xoaut3Q/07P8=,OtqgQ+4mkx8W1JApMaEVkcnTZW5DYV3WmXWuXB8dmeI=,explore,Online playlist more,top-hits-for-artist,1,續集,HKD450200006,22,30,female,3,20160117,20171004
+911,911,lyDatZe7GwPwDpNDB9ST1EWdQ3GmR8/xoaut3Q/07P8=,a+Jd/Cr3+jyA28olbttu9rT+d2uvl+odonfovD24WxM=,explore,Online playlist more,top-hits-for-artist,0,乾了這杯酒,,22,30,female,3,20160117,20171004
+912,912,lyDatZe7GwPwDpNDB9ST1EWdQ3GmR8/xoaut3Q/07P8=,wdh+qoKentVFuna1jz2GUIY9Am4/OBBmCQJSmjFrSbY=,explore,Online playlist more,top-hits-for-artist,1,兄弟難當,,22,30,female,3,20160117,20171004
+913,913,djNu43m9lu6sTigMGZTE4oihHKdVrAbhUIsm7rJO8h4=,0vBTdkfbCDjBihoqg+UAEIkuFS+6WUmTpgv+iPHP9fY=,my library,Local playlist more,local-library,1,寶貝,TWA470601002,13,26,female,9,20110511,20170912
+914,914,rKwKatNKGyP9Tuf91xrzsVOrhonomhp8ZkxE82XBV7k=,h82lczoWQF1Z5IEBsAROYHVkfgVSRnecJdltcKcH29k=,my library,Local playlist more,local-playlist,1,好朋友的祝福,TWA771201085,13,23,female,3,20120802,20171001
+915,915,rKwKatNKGyP9Tuf91xrzsVOrhonomhp8ZkxE82XBV7k=,329TJd0rQ+k0Jdh1rznUMF+suwuJsUCYe06F7RQqxV4=,my library,Local playlist more,local-playlist,1,紅豆,,13,23,female,3,20120802,20171001
+916,916,rKwKatNKGyP9Tuf91xrzsVOrhonomhp8ZkxE82XBV7k=,9I/X+sf/5pW35Kt7N/qYBFzAxZTj7vjm+khRLODVdm8=,my library,Local playlist more,local-playlist,1,發現愛(林俊傑+金莎),,13,23,female,3,20120802,20171001
+917,917,rKwKatNKGyP9Tuf91xrzsVOrhonomhp8ZkxE82XBV7k=,FDjT11W+8aCQyMNZg1rETxtFM8FwhtfFMtkLSvXVwfU=,my library,Local playlist more,local-playlist,1,背叛情歌,TWA559910101,13,23,female,3,20120802,20171001
+918,918,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,5x7PIqqzV2/oYEFX6sy/fwOKxf3+LYO0l89D6XEGwBA=,my library,Local playlist more,local-library,1,Bobby Doll,KRA381601778,1,0,,7,20160810,20170909
+919,919,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,L6w2d0w84FjTvFr+BhMfgu7dZAsGiOqUGmvvxIG3gvQ=,my library,Local playlist more,local-library,1,好好 (想把你寫成一首歌) (Song About You),TWK231610203,1,0,,7,20160810,20170909
+920,920,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,33msPRqRLmUCtB/xNYkGC0wdNQevBzNKcNvhrY07u4I=,my library,Local playlist more,local-library,1,怪我太年輕,TWA750000507,1,0,,7,20160810,20170909
+921,921,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,DLHChE1ybN9oauWZoM/uIZluq1NhKAEGLlkUUE2tlKA=,my library,Local playlist more,local-library,1,修煉愛情,TWJ011600702,1,0,,7,20160810,20170909
+922,922,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,M1vIkK7O3L+uTPnSa23mDI/OCHQ7nY0TrTUSSveMNG8=,my library,Local playlist more,local-library,1,不痛,TWJ011600705,1,0,,7,20160810,20170909
+923,923,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,+cp5mhrMQ/dns1kBDPcW8LoNJp3MoPge39Ho18Q9jFk=,my library,Local playlist more,local-library,1,K歌之王,HKD250130806,1,0,,7,20160810,20170909
+924,924,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,5myS1WHBGGzoGGXLLGo/tIuHzWsyp0Ez0NoLWKdkA9Y=,my library,Local playlist more,local-library,1,IF YOU,TWA531512846,1,0,,7,20160810,20170909
+925,925,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,VqOqrfMxAOMwJpyfUSyWuPmHpMtSuzvrCvHgahApvDU=,my library,Local playlist more,local-library,1,EGO-HOLIC戀我癖 (EGO-HOLIC),TWUM71600076,1,0,,7,20160810,20170909
+926,926,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,CNBSrli5D7RXlhNnUaE121/3305U4LxN10iMx6tIYgA=,my library,Local playlist more,local-library,1,謝謝儂,HKD250231303,1,0,,7,20160810,20170909
+927,927,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,zvZrBE1h85EUOTllHRHvl3IefY2Pj79jyYqQ0B3JLb8=,my library,Local playlist more,local-library,1,Dr. Jolin (Dr. Jolin),TWA531242302,1,0,,7,20160810,20170909
+928,928,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,oDa6FWM8MYb6bfrq134wyBy/YkODxg+m7AkVGplizZU=,my library,Local playlist more,local-library,1,SOBER,TWA531512847,1,0,,7,20160810,20170909
+929,929,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,x6u5YRNWfWRwBSupKIjHonX/pAAr4HtXW4ZUIh7/iPo=,my library,Local playlist more,local-library,1,LOSER,KRA401500541,1,0,,7,20160810,20170909
+930,930,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,HbqkjwnnIt6BtfmvVyXTdPHAsFCYxU74sv8+s1lfIwE=,my library,Local playlist more,local-library,1,Zenzenzense,JPPO01617097,1,0,,7,20160810,20170909
+931,931,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,VkDBgh89umc9m6uAEfD6LXngetyGhln4vh/ArCGO0nY=,my library,Local playlist more,local-library,1,如果我們不曾相遇 (What If We Had Never Met),TWK231680820,1,0,,7,20160810,20170909
+932,932,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,podlycp3c6tOEDw7q8iQBVgvFjiMpkWWXTlXljGdbTY=,my library,Local playlist more,local-library,1,TT,US5TA1600082,1,0,,7,20160810,20170909
+933,933,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,aEKOVmsf2EwdSjDL8wd8KVSsk/EMY8mBXu4H7aGHReY=,my library,Local playlist more,local-library,1,男人的錯,HKD250231304,1,0,,7,20160810,20170909
+934,934,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,CcQSwK9vOdznxvEEr2XK4L3ES0AIyODtGAASTcjTxBo=,my library,Local playlist more,local-library,1,BAD BOY,SGA051200110,1,0,,7,20160810,20170909
+935,935,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,FNZx+e+RYwl+iAchWfFMRwh/P6h4CSULymuRlyeAObo=,my library,Local playlist more,local-library,1,兄妹,HKD250331803,1,0,,7,20160810,20170909
+936,936,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,vNzfLqA67OmELUyJ/qq1TS8ZMODmku3dTiHQ91c8m/s=,my library,Local playlist more,local-library,1,月黑風高(國),HKUM70701244,1,0,,7,20160810,20170909
+937,937,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,ymETPrk0w59sNkCkDhpBSbWf6rXe60ksnoqVhvz2tHI=,my library,Local playlist more,local-library,1,我知道你很難過,TWA750000503,1,0,,7,20160810,20170909
+938,938,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,G5ksHKp0zRUU+YSrlkblfMgJRG0NrNz+v7afNoC6HLI=,my library,Local playlist more,local-library,1,쳐다보지마,KRA381208940,1,0,,7,20160810,20170909
+939,939,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,RV1zvU+spC92Cs5UHvrmbGEszns/oxixEbmCVs1IOMM=,my library,Local playlist more,local-library,1,相愛的方法,TWUM71600046,1,0,,7,20160810,20170909
+940,940,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,TbrfWJpl81E4alsi2+b84oeUu+b5S/8n9yFlZDriNYs=,my library,Local playlist more,local-library,1,觀眾,TWUM71600048,1,0,,7,20160810,20170909
+941,941,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,f+CkfiVrniYo/Kfw3UakAXL1FDeDzwjfAvdpIW+V5Bk=,my library,Local playlist more,local-library,1,쩔어 ZUTTER,KRA401500589,1,0,,7,20160810,20170909
+942,942,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,w6DP8hBBT7eE7+D1fYd/cgQ3Oz+owdqHaj7jxbkmEjA=,my library,Local playlist more,local-library,1,La Boum,KRA381209027,1,0,,7,20160810,20170909
+943,943,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,Hd5nQygbEKWc8C1kk+1YKN8h7Uolg72YT+NxFTlleyI=,my library,Local playlist more,local-library,1,愛是這樣 (This is Love),TWA471603010,1,0,,7,20160810,20170909
+944,944,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,M+bq9eYbm6GyBhndRV4gwCgcYJsdX9Fs16ZktstEOP8=,my library,Local playlist more,local-library,1,별,KRA381209028,1,0,,7,20160810,20170909
+945,945,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,VkILU0H1h3NMmk9MQrXouNudGk5n8Ls5cqRRuBxeTh4=,my library,Local playlist more,local-library,1,眼| 鼻| 口 (Eyes| Nose| Lips),TWA531400512,1,0,,7,20160810,20170909
+946,946,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,gP4t+REbMdgJSVu+IfNMuCeOxLGQO8MD+vsxWLsnqOo=,my library,Local playlist more,local-library,1,Play我呸,TWA531603147,1,0,,7,20160810,20170909
+947,947,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,8ZT1ADO1qNipe/T41z8XASvyZRgdBUL5oung7zV5am4=,my library,Local playlist more,local-library,1,彩虹,TWK970701302,1,0,,7,20160810,20170909
+948,948,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,PpMrpRlz/8k4KubA0+YSe2n03qffkoUkXY8wPQRYTMA=,my library,Local playlist more,local-library,1,不醉不會,TWJ011600703,1,0,,7,20160810,20170909
+949,949,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,qtXx/bs0zr869h/2MoBW61isLvmiFlvk3JSCm/lzhWA=,my library,Local playlist more,local-library,1,咕嘰咕嘰,TWJ011600706,1,0,,7,20160810,20170909
+950,950,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,wVUeoaIQXKvfVyfhDmbASVl049NL7hVvfOo7vYoSyMQ=,my library,Local playlist more,local-library,1,Dream Lantern,JPPO01618952,1,0,,7,20160810,20170909
+951,951,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,kc/i+A1eC1gl+vEYucRJpJaE/1HFxv2IINZYhho+tTQ=,my library,Local playlist more,local-library,1,예쁜 나이 25살,KRA381209025,1,0,,7,20160810,20170909
+952,952,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,NDtSbLpLMkWyBAhfRimU73D/pKVWE6Z3Q2IEdmFuWNk=,my library,Local playlist more,local-library,1,Sparkle,JPPO01618974,1,0,,7,20160810,20170909
+953,953,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,yiv4hWmB14ILncyui4AbZ8pNR7uPH3Tck8qF/K615w8=,my library,Local playlist more,local-library,1,Good-bye,TWA750000508,1,0,,7,20160810,20170909
+954,954,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,gcqhMI67ktwNMh8MVQdvtDIGD6PIWedZOKhk6qhyjow=,my library,Local playlist more,local-library,1,好久不見,HKUM70700735,1,0,,7,20160810,20170909
+955,955,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,mUw9xIWyVz+cGPXENIH/8aFMqByX+tMuZmyDRbBFCm0=,my library,Local playlist more,local-library,1,馬德里不思議 (A Wonder In Madrid),TWA270601003,1,0,,7,20160810,20170909
+956,956,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,AHZ9hH17d9Z19f1yR39yW/J7fjESzNkNVJxVUoNk4hs=,my library,Local playlist more,local-library,1,喜歡你,TWJ011600704,1,0,,7,20160810,20170909
+957,957,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,34IXh04bdV42ClAF+3lHsAjNQEA9yljeyamS6+Wv1BQ=,my library,Local playlist more,local-library,1,Nandemonaiya,JPPO01618977,1,0,,7,20160810,20170909
+958,958,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,IY9FSyfgKX5R4wK4XUiHXNgrg3VI0/L3ORGbH5AVpCc=,my library,Local playlist more,local-library,1,浪費,TWJ011600708,1,0,,7,20160810,20170909
+959,959,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,QZBm8SOwnEjNfCpgsKBBGPMGET6y6XaQgnJiirspW7I=,my library,Local playlist more,local-library,1,年輪說,TWUM71600042,1,0,,7,20160810,20170909
+960,960,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,8mskYfYHpL+CBD90OQo+uVj9DxIm5/IzQIGovNmLshc=,my library,Local playlist more,local-library,1,I Feel You,US5TA1500091,1,0,,7,20160810,20170909
+961,961,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,bM7nqCES1WSwoaNN0yEk5tNIQolPeeOevsm+nwV27Pw=,my library,Local playlist more,local-library,1,Nobody's Perfect,USUM71100947,1,0,,7,20160810,20170909
+962,962,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,0qRqltMHOBTISu27Ua7HKmICh9eR+IPLZ29rRI8gqBQ=,my library,Local playlist more,local-library,1,쳐다보지마,KRA381209026,1,0,,7,20160810,20170909
+963,963,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,56GgUdZtxpOVaQWIIPK2gFBiyJxYjbC8gPMPU1stoL8=,my library,Local playlist more,local-library,1,我們,TWUM71600045,1,0,,7,20160810,20170909
+964,964,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,TA8T+qI4rqZoUI3/TbMBc0wMPz+eilajCK9ypO+KWYU=,my library,Local playlist more,local-library,1,I'm Not Yours - feat.安室奈美惠NAMIE AMURO,TWA531457205,1,0,,7,20160810,20170909
+965,965,ceXOGLrR/mNwc0OCAoTvYYDAlMmf0A25nG0d0Rx5HeM=,FxM39WemBaDIHKP7PR2z5J7S7CYEsvHWxlAygofeisk=,my library,Local playlist more,local-library,1,Love Song,TWA531100381,1,0,,7,20160810,20170909
+966,966,+FpdbJGG98n1/7YKwUt39CIinpyvS72BrGnjk6VRhJQ=,Oih4McOpXHBFu32TWdQx9ttMff5dSWZIKc3R9NXfGgM=,my library,Local playlist more,local-library,1,心痛的感覺,TWB511382104,4,30,female,7,20130116,20170930
+967,967,uKg9h4w3vN3A473AXKNVS4lP9LoxdQmE6aPlcdmtDEc=,rC/2Go90MCrg9Bclie+bgZLyvayObXYQ3OFtkWSYK04=,my library,Local playlist more,local-library,1,煙火裡的塵埃,CND141400063,22,21,male,7,20130308,20170930
+968,968,uKg9h4w3vN3A473AXKNVS4lP9LoxdQmE6aPlcdmtDEc=,XlkjAJe0dfNZGVXs98X/tteFpStvXboU0MegqWJt36U=,my library,Local playlist more,local-library,1,Side To Side,USUM71602107,22,21,male,7,20130308,20170930
+969,969,uKg9h4w3vN3A473AXKNVS4lP9LoxdQmE6aPlcdmtDEc=,ArrC+4m1W2kjrdWyT3JlQacgMlHxoORm+1W9TVx6XE8=,my library,Local playlist more,local-library,1,Back from the Edge,DEE861600585,22,21,male,7,20130308,20170930
+970,970,+FpdbJGG98n1/7YKwUt39CIinpyvS72BrGnjk6VRhJQ=,l5kAbNRLLEoGdd03QmRhr+KxsvF2K2b87C8F/HuvxcE=,my library,Local playlist more,local-playlist,1,Bang My Head (feat. Sia & Fetty Wap),GB28K1500110,4,30,female,7,20130116,20170930
+971,971,+FpdbJGG98n1/7YKwUt39CIinpyvS72BrGnjk6VRhJQ=,6LeJ6pqbfSHigIs2XXWzqtgoGfqdhmbitmqVB1yF4U4=,my library,Local playlist more,local-playlist,1,La La La,GBAAA1300148,4,30,female,7,20130116,20170930
+972,972,uKg9h4w3vN3A473AXKNVS4lP9LoxdQmE6aPlcdmtDEc=,5Qh7YI03x2cbQFFv/e+faYhVpFAzjvnuE3YXkx2KgsQ=,my library,Local playlist more,local-library,1,我好想你 (I Miss You So),TWF671300206,22,21,male,7,20130308,20170930
+973,973,+FpdbJGG98n1/7YKwUt39CIinpyvS72BrGnjk6VRhJQ=,hHL/EIHl/yEPe3eY37tNrS2u8CSCw9uOIz49hMKkmEM=,my library,Local playlist more,local-playlist,1,How Deep Is Your Love,GBARL1500704,4,30,female,7,20130116,20170930
+974,974,+FpdbJGG98n1/7YKwUt39CIinpyvS72BrGnjk6VRhJQ=,7aFD7M/q7J63Go6zWLXgpCoEelv4oeSQTYsaG4lVsgg=,my library,Local playlist more,local-library,1,甜言蜜語,TWB519703507,4,30,female,7,20130116,20170930
+975,975,S9rL+LbQJaUjkt6BIqZMdQuGDq6xkdnQVWal3GEs3a4=,1DosJaNBpUWSWfseHJeT1teZKsUBsln3J5sH05h7xJE=,my library,Local playlist more,local-library,1,ENDLESS STORY (電影【NANA】劇中歌),JPSR00501741,4,28,male,3,20130409,20180314
+976,976,w9pkbWt4qi/M2uFMS0rZaW5ZcudOPBfazZaWUGyhXdA=,oCAwmTTqDzO1lslHPUCyjOGwF9Gw282YTDxOnZg85qQ=,my library,Local playlist more,local-library,1,你最珍貴,TWA119811050,1,0,,7,20130914,20170908
+977,977,S9rL+LbQJaUjkt6BIqZMdQuGDq6xkdnQVWal3GEs3a4=,p62qzTnHO1/RHATgPYvL2BqDJzfvXwKeBivrhl2Qzd4=,my library,Local playlist more,local-library,1,Radetzkymarsch| op. 228,GBBBA0743020,4,28,male,3,20130409,20180314
+978,978,S9rL+LbQJaUjkt6BIqZMdQuGDq6xkdnQVWal3GEs3a4=,leMNqAEPBeHvO/G9fUNOZ1YjtGACF4q54cTSkSvRH7U=,my library,Local playlist more,local-library,1,Love Me Now,USSM11606983,4,28,male,3,20130409,20180314
+979,979,w9pkbWt4qi/M2uFMS0rZaW5ZcudOPBfazZaWUGyhXdA=,KZ5hwP74wRO6kRapVIprwodtNdVD2EVD3hkZmmyXFPk=,my library,Local playlist more,local-library,1,Love Yourself,USUM71516761,1,0,,7,20130914,20170908
+980,980,w9pkbWt4qi/M2uFMS0rZaW5ZcudOPBfazZaWUGyhXdA=,9+pCiOFvcQtM8rl9r/zWsslEFVfOjh4QLd47GlV+20c=,my library,Local playlist more,local-library,1,斷點(國),HKD550300003,1,0,,7,20130914,20170908
+981,981,w9pkbWt4qi/M2uFMS0rZaW5ZcudOPBfazZaWUGyhXdA=,ol9vM3nm9n3wK7hHXTBqaMUnNaPKsRhazgHaxrwpZZY=,my library,Local playlist more,local-library,1,思念是一種病,TWA450789901,1,0,,7,20130914,20170908
+982,982,w9pkbWt4qi/M2uFMS0rZaW5ZcudOPBfazZaWUGyhXdA=,mwiwQWvFYiw2+HWBVguYMQ28woZcDqudC1d9lRdAOKE=,search,Search,song,1,練習,HKD450200002,1,0,,7,20130914,20170908
+983,983,S9rL+LbQJaUjkt6BIqZMdQuGDq6xkdnQVWal3GEs3a4=,qIrAqKtDPBACcsAjZWh9OXYSfGYzx8Wwcz5szbX/n+E=,my library,Local playlist more,local-library,1,Radioactive (電影「宿主」、電玩「刺客教條3」主題曲、NBA 2012-2013季賽精彩回顧音樂),USUM71201074,4,28,male,3,20130409,20180314
+984,984,HlG3TJ4yvzo2A2xVQEtukQfGYM34sO1FiPCkNrEXIqk=,FPlxH89jZWTMJ6uNRzRzzqtqf17o+TyhGln2RrYiq7E=,my library,Local playlist more,local-playlist,1,Reflection (Mulan),USFV71100098,13,39,female,9,20100110,20170907
+985,985,HlG3TJ4yvzo2A2xVQEtukQfGYM34sO1FiPCkNrEXIqk=,mkNtdfySrd5p5SKr0Gv71lytstUOc+7DX6oeGJ75z/Q=,my library,Local playlist more,local-playlist,1,Sleepytime Skies,USWD10322363,13,39,female,9,20100110,20170907
+986,986,3izLl6moMlI5nBGlDiC51Ke3jI/6x0mjA8Ot407Wljc=,wp1gSQ4LlMEF6bzvEaJl8VdHlAj/EJMTJ0ASrXeddbo=,discover,Online playlist more,online-playlist,1,回憶那麼傷 (Sad Memory),CNA231601679,1,0,,7,20141201,20170930
+987,987,3izLl6moMlI5nBGlDiC51Ke3jI/6x0mjA8Ot407Wljc=,750RprmFfLV0bymtDH88g24pLZGVi5VpBAI300P6UOA=,discover,Online playlist more,online-playlist,1,FLY OUT,TWA451512031,1,0,,7,20141201,20170930
+988,988,uZTQ8iq+DNWRnWhZ+zKHmKb5VYl3kfTRiZ6Ykcd/QI4=,dRTnrmC/0NGTnsZT9OtCHDYVtm6Zi1qLwRSDUHsSzk8=,my library,Local playlist more,local-playlist,1,We Are Young (feat. Janelle Monáe),USAT21101399,22,47,male,9,20070211,20170718
+989,989,HlG3TJ4yvzo2A2xVQEtukQfGYM34sO1FiPCkNrEXIqk=,CdFu8WKMt1JcFGtCTohaTRdfayDSrVF85MHCw0auyxE=,my library,Local playlist more,local-playlist,1,Go the Distance (Hercules),TCABY1415096,13,39,female,9,20100110,20170907
+990,990,uZTQ8iq+DNWRnWhZ+zKHmKb5VYl3kfTRiZ6Ykcd/QI4=,ACUnZORwjX3simZPPknVNnny69siAuGdG87tRbMttAs=,my library,Local playlist more,local-playlist,1,Trouble Is A Friend(麻煩是朋友),USSM10803051,22,47,male,9,20070211,20170718
+991,991,3izLl6moMlI5nBGlDiC51Ke3jI/6x0mjA8Ot407Wljc=,L6w2d0w84FjTvFr+BhMfgu7dZAsGiOqUGmvvxIG3gvQ=,discover,Online playlist more,online-playlist,1,好好 (想把你寫成一首歌) (Song About You),TWK231610203,1,0,,7,20141201,20170930
+992,992,/HHdYSYXfoNOH5XkfnapPrRllaEzVVzuu/c2X6fJj/U=,Qm5XjpM6pdI5sG3bLk0K7X+Ld2dP4RKCPf8/YaSRGe8=,my library,Local playlist more,local-library,1,離不開你 (CAN'T LIVE WITHOUT YOU),TWU711601565,1,0,,7,20130113,20170919
+993,993,/HHdYSYXfoNOH5XkfnapPrRllaEzVVzuu/c2X6fJj/U=,e6sbK0JfzSCB9CjsNmmJz3T361mm+AeiiX03FkQE4Xg=,my library,Local playlist more,local-library,1,外面的世界,HKUM70900627,1,0,,7,20130113,20170919
+994,994,/HHdYSYXfoNOH5XkfnapPrRllaEzVVzuu/c2X6fJj/U=,zx4aCmk+b/uPmvESsG8ekvi7qWmifSPNMXg1i8wyG8Q=,my library,Local playlist more,local-library,1,寂寞無害 (Harmless Loneliness),TWA471603002,1,0,,7,20130113,20170919
+995,995,/HHdYSYXfoNOH5XkfnapPrRllaEzVVzuu/c2X6fJj/U=,mxSDARJDB08kFRySUX7aqGLgQtxM4Uco3AXsjhoovfc=,my library,Local playlist more,local-library,1,木,,1,0,,7,20130113,20170919
+996,996,KNsBZqBxrO53gvlyvtI1cMpdPMBauxFz/mRojRT9ykY=,AJnASURXhZM3M6MKWawRJSJz0bKk5WRJa9rBf2oFIFI=,my library,Local playlist more,local-library,1,一輩子的孤單,TWA450274501,1,0,,9,20141215,20170709
+997,997,KNsBZqBxrO53gvlyvtI1cMpdPMBauxFz/mRojRT9ykY=,mXjOkV+pc7d91ctXLz4OgXTB7tEse/eAorkCvxNFHjY=,my library,Local playlist more,local-library,0,空白格,TWJ010700404,1,0,,9,20141215,20170709
+998,998,KNsBZqBxrO53gvlyvtI1cMpdPMBauxFz/mRojRT9ykY=,5XYd9fBH+QSuXWHcPUlg9jcNReuOHoVvRezAfT8Ey+A=,my library,Local playlist more,local-library,1,爆炸的沉默 (Silent Sigh),TWA531261805,1,0,,9,20141215,20170709
+999,999,KNsBZqBxrO53gvlyvtI1cMpdPMBauxFz/mRojRT9ykY=,yYs87L2Y0JgUXpPS+lix+NsNpZe8B2XoNI3G/EbN7yM=,my library,Local playlist more,local-library,1,不要再孤單 (Singing You),TWJ011600601,1,0,,9,20141215,20170709
